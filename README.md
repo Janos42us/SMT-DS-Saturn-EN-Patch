@@ -1,258 +1,99 @@
-# Shin Megami Tensei: Devil Summoner
-### English Translation Patch — Sega Saturn
+# Shin Megami Tensei: Devil Summoner — English Patch (Sega Saturn)
 
-**Version 1.0 RC5** | October 13, 2026
+**Version 1.0 RC5** · October 14, 2026 · by **Janos42us & Cai**
 
-![Status](https://img.shields.io/badge/Status-Release%20Candidate-orange)
-![Version](https://img.shields.io/badge/Version-1.0%20RC5-orange)
-![Platform](https://img.shields.io/badge/Platform-Sega%20Saturn-5865F2)
-![Language](https://img.shields.io/badge/Language-English-brightgreen)
+Devil Summoner never came out in English. Now it's playable in English on the Saturn: story, demon negotiations, battles, menus, and most of the in-game art.
 
+It's a Release Candidate because we're still testing. Parts of it have been played on real hardware and it's been tested a lot in emulators.
+TRANSLATED WITH AI
+
+Work on human translation in progress.
 ---
 
-## About the Project
+## What you need
 
-A complete English translation of **Shin Megami Tensei: Devil Summoner** for the Sega Saturn.
+- Your own copy of the game: **Japan, Rev A, T-14403G**
+- The patch: `DevilSummoner_EN_v1.0rc6.ppf`
+- A PPF patcher (RomPatcher.js, PPF-O-Matic or ApplyPPF)
+- An emulator or a real Saturn
 
-Originally released exclusively in Japan, *Devil Summoner* is now playable in English, including its story, demon negotiations, battle systems, menus, and in-game artwork.
+Your **Track 1** `.bin` has to match this SHA-1 before you patch, or it won't work:
 
-This project aims to preserve the original Sega Saturn experience while making the game accessible to English-speaking players.
-
-**Supported version:** Japan, Revision A (`T-14403G`)
-
-> **Release Candidate:** The translation has been tested extensively in emulation. A complete start-to-finish playthrough on original Sega Saturn hardware has not yet been performed.
-
----
-
-## Installation
-
-### Requirements
-
-You will need:
-
-- An original **Shin Megami Tensei: Devil Summoner** Sega Saturn disc image (Japan, Rev A).
-- The translation patch: `DevilSummoner_EN_v1.0rc3.ppf`
-- A PPF 3.0-compatible patching utility, such as RomPatcher.js, PPF-O-Matic or ApplyPPF.
-- A Sega Saturn emulator or compatible original hardware.
-
-### Verify Your Disc Image
-
-The patch requires the correct revision of the game.
-
-| Property | Required Value |
-|---|---|
-| Game | Shin Megami Tensei: Devil Summoner |
-| Region | Japan |
-| Revision | Rev A |
-| Serial | T-14403G |
-| Target | Track 1 (Data) |
-| Sector Format | MODE1/2352 |
-| Sector Size | 2352 bytes |
-| Hash Algorithm | SHA-1 |
-
-**Required Track 1 SHA-1:**
-
-```text
+```
 046bab81be23acf48845ec566c8d42063b279698
 ```
 
-Make sure your Track 1 `.bin` matches this hash **before patching**.
+## How to patch
 
-### Apply the Patch
+1. Make a backup of Track 1 first.
+2. Open your PPF patcher, pick the `.ppf` file, and patch **Track 1 only**.
+3. Don't touch Track 2 (that's the music) or the `.cue`.
+4. Load the `.cue` like normal and play.
 
-1. **Back up your original disc image.** Keep an untouched copy of Track 1.
-2. **Open your PPF patching utility.** Select `DevilSummoner_EN_v1.0rc3.ppf` as the patch file.
-3. **Select Track 1 as the target.** Apply the patch directly to the Track 1 `.bin` file.
-4. **Leave Track 2 untouched.** Track 2 contains music and does not require modification.
-5. **Launch the game.** Load the original `.cue` file in your emulator, or use the patched disc image with compatible original hardware.
-
-> **Important:** Do not patch the `.cue` file or Track 2. Only the Track 1 data file should be modified.
-
-The patch preserves the original file sizes and disc layout. Sector checksums are rebuilt to maintain compatibility with original Sega Saturn hardware.
+File sizes and disc layout stay the same, and sector checksums are rebuilt, so it should work on real hardware.
 
 ---
 
-## Translation Coverage
+## What's translated
 
-The goal of this release is to provide a complete English-language experience without compromising the game's original presentation.
+Basically everything:
 
-| Category | Translation Status |
-|---|---|
-| Main Story & Dialogue | Complete |
-| NPCs & Townspeople | Complete |
-| Shops & Services | Complete |
-| Boss Dialogue | Complete |
-| Demon Negotiations | Complete — All 15 Personalities |
-| Battle Text & Interface | Complete |
-| Items, Spells & Descriptions | Complete |
-| Demon Names & Races | Complete |
-| Locations & Area Names | Complete |
-| COMP, Equipment & Status Menus | Complete |
-| Configuration & Controller Menus | Complete |
-| Save / Load Screens | Complete |
-| DDS-NET Registration | Complete |
-| Environmental Signs & Posters | Translated |
-| In-Game Movie Text | Translated |
-| Opening & End Credits | Translated |
+- All story dialogue, townspeople, shops and bosses
+- All 15 demon negotiation personalities
+- Battle text, menus (COMP, EQUIP, STATUS, CONFIG), save/load
+- Items, spells, demons, races, places, and their descriptions
+- Gouma-Den fusion screens (Victor) -- in RC6
+- Signs, posters and banners in dungeons and backgrounds, plus text in two movie scenes
+- End credits (names romanized, Western order) and a "Translated by" page with Kaneko's Kyouji art
 
-### Dialogue & Demon Negotiations
+Names are in Western order (Kyouji Kuzunoha), and we use the official Atlus English demon names wherever they exist.
 
-All story dialogue, NPC conversations, shop interactions, and boss encounters have been translated.
+## Entering your name (DDS-NET sign-up)
 
-This includes all **15 demon negotiation personalities**, allowing players to experience the game's negotiation mechanics entirely in English.
-
-### Menus & Battle Interface
-
-The translation covers the game's core interface, including:
-
-- COMP, EQUIP, STATUS, and CONFIG menus.
-- Battle commands, labels, messages, and help text.
-- Item, spell, and demon descriptions.
-- Save/load screens and system messages.
-- Controller configuration.
-
-### DDS-NET Registration
-
-The DDS-NET registration interface now supports an English-language keyboard for entering your character information.
-
-**Name entry instructions:**
-
-- **Left field:** Last name (maximum 8 letters).
-- **Right field:** First name (maximum 8 letters).
-
-Note: When entering your name use the capital letters for input, as you type it will auto lowercase from the second letter onward. We hacked in additional characters for English and haven't polished that yet.
-
-Address and code-name entry also use an English keyboard, we prefilled it with the Romaji default. If you want to change it, same rules as with your name.
-
-### Environmental Artwork & Movies
-
-Translated visual elements include signs, banners, and posters appearing throughout dungeons and backgrounds, along with text in two in-game movie scenes.
-
-### End Credits
-
-The ending credits have been translated, with staff names romanized and presented in Western name order AND includes a custom **"Translated by Janos42us & Cai"** credit page.
+- **Left box** is your last name, **right box** is your first name. 8 letters max each.
+- Type with the capital letters. After the first letter it switches to lowercase on its own. We hacked in the English letters and haven't polished it yet.
+- Address and code name are prefilled with the romaji defaults. If you want to change them, same rules.
 
 ---
 
-## Translation & Localization Notes
+## Known issues
 
-Several localization decisions were made to preserve consistency with the broader *Shin Megami Tensei* series.
+- **Names get cut to 8 letters** in small menus and battle panels. In dialogue they show up to 16.
+- **Magnetite requests show as `M197`.** That's how the original game does it.
+- **Two labels on the battle results screen are still Japanese:** ませき (Mana Stone) and ほうぎょく (Orb). We haven't found where they're stored yet.
+- **Fusion legend** has small gaps between letter pairs. Just cosmetic.
+- **Clover's Gym heal shop** wasn't tested in an emulator. If it looks wrong on your end, let us know.
+- Some decorations stay Japanese on purpose: title screen diamonds, spell effects, shrine charms, and a few signs you can't read anyway.
+- Staff names we couldn't confirm use the most common reading.
 
-**Character Names**
+## What's new since RC3
 
-Japanese names are presented in Western order.
-
-Example: `Kyouji Kuzunoha`
-
-**Demon Names**
-
-Official Atlus English demon names are used wherever established translations exist.
-
-**Character Limits**
-
-Certain interface elements retain the original game's strict character limitations.
-
-| Context | Character Limit |
-|---|---|
-| Small-font battle panels | 8 characters |
-| Compact menu lists | 8 characters |
-| Demon/item names in negotiation dialogue | Up to 16 characters |
-| DDS-NET first/last name | 8 characters each |
-
-Names may appear shortened in compact menus and battle panels while retaining their full forms in dialogue whenever space allows.
+- Fixed a freeze on real hardware at the first Pisaca fight
+- Fixed a freeze right after a demon joins you in negotiation
+- Fusion menus and the gym heal shop are in English now --RC6
+- Negotiation choices no longer spill into the next line
+- Dungeon search/ambush messages, basement floors (B1F), and missing place names translated
+- Demon name fixes (Pishacha → Pisaca, Kaiti → Kaichi, Shisa → Shiisaa, and more)
 
 ---
 
-## Known Limitations
+## Found a bug?
 
-Although the translation is substantially complete, the following issues and limitations remain.
+Open an issue on GitHub and tell us:
 
-### Hardware Verification
+1. Where you were in the game
+2. What happened
+3. A screenshot
+4. Emulator (and version) or real Saturn
+5. How to make it happen again, if you know
 
-The patch has been tested ONLY in emulation.
-
-A complete start-to-finish playthrough on original Sega Saturn hardware is still pending. This is the primary reason for the **Release Candidate** designation.
-
-### Magnetite Display
-
-Demon requests display Magnetite amounts using the original game's notation.
-
-Example: `M197`
-
-This is intentional and reflects the original interface.
-
-### Battle Results Screen
-
-Two stone-counter labels in the battle results window remain in Japanese.
-
-| Japanese | Meaning |
-|---|---|
-| ませき | Mana Stone |
-| ほうぎょく | Orb |
-
-### Staff Credits
-
-Where an official romanization could not be confirmed, staff names use the most commonly accepted reading of their kanji.
-
-### Untranslated Decorative Elements
-
-A small number of decorative Japanese elements intentionally remain unchanged, including:
-
-- Title-screen diamond decorations.
-- Spell effects.
-- Shrine charms.
-- Certain illegible background signs.
-
-These elements have been preserved as part of the game's original visual identity.
+Reports from anyone playing all the way through on a real Saturn are especially welcome.
 
 ---
 
-## Bug Reports & Feedback
+## Credits and disclaimer
 
-Found a typo, broken text box, untranslated dialogue, or unexpected behavior?
+Translation and hacking: **Janos42us & Cai**
+"Translated by" page art: Kyouji Kuzunoha by **Kazuma Kaneko / Atlus**
 
-Please report it using the repository's **GitHub Issues** section.
-
-To help investigate the problem, include:
-
-1. **Location:** Where in the game the issue occurred.
-2. **Description:** What happened and what you expected to happen.
-3. **Screenshot:** A screenshot clearly showing the problem.
-4. **Environment:** Emulator and version, or original Sega Saturn hardware.
-5. **Reproduction Steps:** How to trigger the issue, if known.
-
-Feedback is especially welcome from anyone completing a full playthrough on original hardware.
-
----
-
-## Credits
-
-### Translation & ROM Hacking
-
-**Janos42us & Cai**
-
-### Artwork
-
-The custom translation-credits page features Kazuma Kaneko's illustration of Kyouji Kuzunoha.
-
-Original artwork by **Kazuma Kaneko / Atlus**.
-
----
-
-## Disclaimer
-
-This is an unofficial fan translation project.
-
-*Shin Megami Tensei*, *Devil Summoner*, and associated characters, artwork, and intellectual property belong to Atlus and their respective rights holders.
-
-This patch is intended for use with a legitimately obtained copy of the supported game. No original game disc image is included.
-
-This project is not affiliated with, endorsed by, or sponsored by Atlus or Sega.
-
----
-
-**Shin Megami Tensei: Devil Summoner — English Translation Patch**
-
-*Version 1.0 RC3 · October 13, 2026*
-
-**Translated by Janos42us & Cai**
+This is an unofficial fan translation. Shin Megami Tensei, Devil Summoner and everything in it belong to Atlus. Not affiliated with Atlus or Sega. No game files are included, use your own copy.
