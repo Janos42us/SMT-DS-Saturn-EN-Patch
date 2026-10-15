@@ -1,6 +1,6 @@
 # Shin Megami Tensei: Devil Summoner — English Patch (Sega Saturn)
 
-**Version 1.0 RC5** · October 14, 2026 · by **Janos42us**
+**Version 1.0 RC7** · October 14, 2026 · by **Janos42us**
 
 Devil Summoner never came out in English. Now it's playable in English on the Saturn: story, demon negotiations, battles, menus, and most of the in-game art.
 
@@ -42,7 +42,7 @@ Basically everything:
 - All 15 demon negotiation personalities
 - Battle text, menus (COMP, EQUIP, STATUS, CONFIG), save/load
 - Items, spells, demons, races, places, and their descriptions
-- Gouma-Den fusion screens (Victor) -- in RC6
+- Gouma-Den fusion screens (Victor)
 - Signs, posters and banners in dungeons and backgrounds, plus text in two movie scenes
 - End credits (names romanized, Western order) and a "Translated by" page with Kaneko's Kyouji art
 
@@ -70,7 +70,7 @@ Names are in Western order (Kyouji Kuzunoha), and we use the official Atlus Engl
 
 - Fixed a freeze on real hardware at the first Pisaca fight
 - Fixed a freeze right after a demon joins you in negotiation
-- Fusion menus and the gym heal shop are in English now --RC6
+- Fusion menus and the gym heal shop are in English now
 - Negotiation choices no longer spill into the next line
 - Dungeon search/ambush messages, basement floors (B1F), and missing place names translated
 - Demon name fixes (Pishacha → Pisaca, Kaiti → Kaichi, Shisa → Shiisaa, and more)
