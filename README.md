@@ -1,7 +1,7 @@
 # Shin Megami Tensei: Devil Summoner
 ### English Translation Patch — Sega Saturn
 
-**Version 1.0 RC3** | October 13, 2026
+**Version 1.0 RC5** | October 13, 2026
 
 ![Status](https://img.shields.io/badge/Status-Release%20Candidate-orange)
 ![Version](https://img.shields.io/badge/Version-1.0%20RC3-blue)
