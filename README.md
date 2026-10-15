@@ -1,6 +1,6 @@
 # Shin Megami Tensei: Devil Summoner — English Patch (Sega Saturn)
 
-**Version 1.0 RC5** · October 14, 2026 · by **Janos42us & Cai**
+**Version 1.0 RC5** · October 14, 2026 · by **Janos42us**
 
 Devil Summoner never came out in English. Now it's playable in English on the Saturn: story, demon negotiations, battles, menus, and most of the in-game art.
 
