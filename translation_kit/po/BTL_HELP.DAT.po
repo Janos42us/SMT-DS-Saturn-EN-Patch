@@ -1,0 +1,149 @@
+# Shin Megami Tensei: Devil Summoner (Sega Saturn, 1995): Japanese script for translation.
+# Source: the project's extraction of the original Japanese text (Japan Rev A disc).
+# File: BTL_HELP.DAT
+# One entry per message. msgctxt is the line ID; keep it unchanged.
+# msgid is the original Japanese (do not edit). Write the translation in msgstr.
+# See README_translator.md for tags, limits and the story overview.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Devil Summoner Saturn BTL_HELP.DAT\n"
+"POT-Creation-Date: 2026-10-15 00:00+0000\n"
+"Language: en\n"
+"X-Source-Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Context: One-line help shown for battle commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: BTL_HELP.DAT:0
+msgctxt "BTL_HELP.DAT#0"
+msgid "悪魔との戦闘"
+msgstr ""
+
+#. Context: One-line help shown for battle commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: BTL_HELP.DAT:1
+msgctxt "BTL_HELP.DAT#1"
+msgid "悪魔との会話"
+msgstr ""
+
+#. Context: One-line help shown for battle commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: BTL_HELP.DAT:2
+msgctxt "BTL_HELP.DAT#2"
+msgid "戦闘からの離脱を試行"
+msgstr ""
+
+#. Context: One-line help shown for battle commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: BTL_HELP.DAT:3
+msgctxt "BTL_HELP.DAT#3"
+msgid "オート戦闘　→で設定変更"
+msgstr ""
+
+#. Context: One-line help shown for battle commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: BTL_HELP.DAT:4
+msgctxt "BTL_HELP.DAT#4"
+msgid "武器による直接攻撃"
+msgstr ""
+
+#. Context: One-line help shown for battle commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: BTL_HELP.DAT:5
+msgctxt "BTL_HELP.DAT#5"
+msgid "銃による直接攻撃"
+msgstr ""
+
+#. Context: One-line help shown for battle commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: BTL_HELP.DAT:6
+msgctxt "BTL_HELP.DAT#6"
+msgid "仲間の呼び出し"
+msgstr ""
+
+#. Context: One-line help shown for battle commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: BTL_HELP.DAT:7
+msgctxt "BTL_HELP.DAT#7"
+msgid "魔法を使用"
+msgstr ""
+
+#. Context: One-line help shown for battle commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: BTL_HELP.DAT:8
+msgctxt "BTL_HELP.DAT#8"
+msgid "アイテムを使用"
+msgstr ""
+
+#. Context: One-line help shown for battle commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: BTL_HELP.DAT:9
+msgctxt "BTL_HELP.DAT#9"
+msgid "隣接するキャラと位置を変更"
+msgstr ""
+
+#. Context: One-line help shown for battle commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: BTL_HELP.DAT:10
+msgctxt "BTL_HELP.DAT#10"
+msgid "攻撃を防御"
+msgstr ""
+
+#. Context: One-line help shown for battle commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: BTL_HELP.DAT:11
+msgctxt "BTL_HELP.DAT#11"
+msgid "行動を「VICE」で選択"
+msgstr ""
+
+#. Context: One-line help shown for battle commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: BTL_HELP.DAT:12
+msgctxt "BTL_HELP.DAT#12"
+msgid "攻撃系の行動を「VICE」で選択"
+msgstr ""
+
+#. Context: One-line help shown for battle commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: BTL_HELP.DAT:13
+msgctxt "BTL_HELP.DAT#13"
+msgid "防御系の行動を「VICE」で選択"
+msgstr ""
+
+#. Context: One-line help shown for battle commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: BTL_HELP.DAT:14
+msgctxt "BTL_HELP.DAT#14"
+msgid "COMP内へ帰還"
+msgstr ""
+
+#. Context: One-line help shown for battle commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: BTL_HELP.DAT:15
+msgctxt "BTL_HELP.DAT#15"
+msgid "通常の直接攻撃"
+msgstr ""
+
+#. Context: One-line help shown for battle commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: BTL_HELP.DAT:16
+msgctxt "BTL_HELP.DAT#16"
+msgid "特殊物理／魔法行動"
+msgstr ""
+
+#. Context: One-line help shown for battle commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: BTL_HELP.DAT:17
+msgctxt "BTL_HELP.DAT#17"
+msgid "設定どおりにオート戦闘"
+msgstr ""
+
+#. Context: One-line help shown for battle commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: BTL_HELP.DAT:18
+msgctxt "BTL_HELP.DAT#18"
+msgid "前回ターンでの入力どおりにオート戦闘"
+msgstr ""

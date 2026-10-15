@@ -1,0 +1,197 @@
+﻿Japanese,English used in the patch,Type,Note
+葛葉キョウジ,Kyouji Kuzunoha,Character,
+レイ・レイホゥ,Rei Reiho,Character,
+秦野久美子,Kumiko Hatano,Character,
+吾妻教授,Professor Azuma,Character,
+シド・デイビス,Sid Davis,Character,
+ドクター・スリル,Doctor Thrill,Character,
+百地警部,Inspector Momochi,Character,
+磯野刑事,Detective Isono,Character,
+マリー,Mary,Character,
+マダム銀子,Madam Ginko,Character,
+陳健民,Chen Kenmin,Character,
+クーパースミス大佐,Colonel Coopersmith,Character,
+天堂天山,Tenzan Tendo,Character,
+山城議員,Councilman Yamashiro,Character,
+藤原市長,Mayor Fujiwara,Character,
+レッドマン,Redman,Character,
+カロン,Charon,Character,
+イナルナ姫,Princess Inaruna,Character,
+ヴィクトル,Victor,Character,
+タカシ,Takashi,Character,
+平崎市,Hirasaki (shown via [$1C]),City,Default city on the sign-up screen (not in the dialogue text; dialogue uses [$1C])
+旭区,Asahi Ward (shown via [$1B]),Ward,Default ward on the sign-up screen (not in the dialogue text; dialogue uses [$1B])
+臨海公園,Seaside Park,Place,
+喫茶「アフロ」,Cafe Afro,Place,
+矢東ビル,Yato Building,Place,
+矢来区,Yarai Ward,Place,
+矢来銀座,Yarai Ginza,Place,
+中央区,Chuo Ward,Place,
+雲雀ヶ丘,Hibarigaoka,Place,
+笠置山,Mt. Kasagi,Place,
+北山大学,Kitayama University,Place,
+氷川神社,Hikawa Shrine,Place,
+カーサ乾,Casa Inui,Place,
+かさぎ荘,Kasagi Apartments,Place,
+東亜TV,Toa TV,Place,
+業魔殿,Gouma-Den,Place,
+占いの館,Fortune House,Place,
+中華街,Chinatown,Place,
+関帝廟,Guandi Temple,Place,
+擬似アストラル界,Pseudo-Astral Plane,Place,
+無間地獄,Endless Hell,Place,
+三途の川,River Styx,Place,
+異界,Netherworld,Term,
+造魔,Zoma,Term,
+神降ろし,god descent,Term,
+デビルサマナー,Devil Summoner,Term,
+悪魔召喚師,demon summoner (see note in guide),Term,
+仲魔,demon ally (patch uses 'demons'/'allies'),Term,
+ハンディ・コンピュータ,Handheld Computer,Term,
+封印,seal,Term,
+天堂組,Tendo Group,Term,
+組織,the Organization,Term,
+AD,Assistant director,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+DDS−NET,DDS-NET,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+OL,Office worker,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+TV,TV,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+TV局員,TV staff,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+おじさま,Gentleman,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+おじさん,Old man,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+どこぞの令嬢,Rich girl,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+めだま男,Eyeball man,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+イヌイ,Inui,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+オルゴンゴースト,Orgone Ghost,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+オーナー,Owner,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+カシヤマ,Kashiyama,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+ガキ,Gaki,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+ガルガンチュア,Gargantua,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+ガルガンチュア8,Gargantua 8,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+ガルガンチュアQ,Gargantua Q,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+ガルガンチュアX,Gargantua X,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+キョウジ,Kyouji,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+キョウジの声,Kyouji's voice,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+ギャル,Girl,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+クバンダ,Kumbhanda,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+グラサン,Shades,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+グーフィー,Goofy,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+シド,Sid,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+スサノオ,Susano-o,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+ストリゲス,Striges,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+ストリゴイイ,Strigoii,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+スピーディー,Speedy,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+セールスマン,Salesman,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+セールスレディ,Saleswoman,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+ソング,Song,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+ダンタリアン,Dantalian,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+チンピラ,Punk,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+ナントセイクン,Nanto Seikun,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+パパ,Daddy,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+ピンクのワンピース女,Girl in pink,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+フグルマ,Fuguruma,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+フロスト,Frost,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+プロト・ガルガンチュア,Proto-Gargantua,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+ホクトセイクン,Hokuto Seikun,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+ホームレスの男,Homeless man,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+ボブカット男,Bob-cut guy,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+ボンデージ女,Woman in leather,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+ボーダーシャツ男,Striped-shirt guy,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+マスター,Owner,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+ママ,Mommy,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+マンションの住人,Resident,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+マンション住人,Resident,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+ミキヤ,Mikiya,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+ユリア,Yuria,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+ランタン,Pyro Jack,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+レイ,Rei,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+レイの声,Rei's voice,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+レッグウォーマー女,Leg-warmer girl,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+三平,Sanpei,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+中国系の男,Chinese man,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+丸瀬,Marise,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+久美子,Kumiko,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+久美子の母,Kumiko's mother,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+久美子の父,Kumiko's father,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+作業員,Worker,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+兵士,Soldier,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+助教授,Assistant professor,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+医師,Doctor,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+医師の声,Doctor's voice,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+医者,Doctor,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+占い師,Fortune-teller,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+友人,Friend,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+右の女,Woman on right,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+右の悪魔,Demon on the right,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+右の男,Man on right,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+図書館利用者,Library patron,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+図書館司書,Librarian,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+図書館職員,Library staff,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+声,Voice,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+大佐,Colonel,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+天山,Tenzan,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+夫,Husband,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+女,Woman,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+女の人,Woman,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+女の声,Woman's voice,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+女の子,Girl,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+女主人,Landlady,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+女子大生,Coed,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+女子高生,High school girl,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+女性,Woman,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+女性アナ,Announcer,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+妹,Little sister,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+妻,Wife,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+姉,Big sister,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+婦人警官,Policewoman,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+子供,Child,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+学生,Student,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+容疑者,Suspect,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+少女,Girl,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+山城,Yamashiro,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+山歩き愛好家,Hiker,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+左の女,Woman on left,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+左の悪魔,Demon on the left,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+左の男,Man on left,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+市役所職員,City clerk,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+常連客,Regular,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+店主,Owner,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+怨霊の声,Vengeful voice,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+怪しい教授,Strange professor,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+怪しい神父,Strange priest,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+患者,Patient,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+悪魔,Demon,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+情報屋の男,Info broker,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+教授,Professor,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+業魔殿の主人,Gouma-Den master,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+母親,Mom,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+母親の声,Mom's voice,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+派手なカップル,Flashy couple,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+父親,Dad,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+現場監督,Foreman,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+男,Man,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+男の人,Man,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+男の声,Man's voice,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+白衣の女学生,Student in lab coat,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+看護婦,Nurse,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+看護婦の声,Nurse's voice,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+研修生,Intern,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+紫服の常連,Purple regular,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+組員,Gang member,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+老婆,Old woman,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+老婦人,Old lady,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+老紳士,Old gentleman,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+若い女,Young woman,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+話し声,Voices,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+謎の男,Mystery man,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+警官,Officer,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+警察署長,Police chief,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+近所のおばさん,Neighbor lady,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+近所の人,Neighbor,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+造魔,Zoma,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+金髪黒男,Blond man,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+長い髪の女,Long-haired woman,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+関帝聖君,Kanteiseikun,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+青い服の女,Girl in blue,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+高校の後輩,Younger student,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+魅惑ガール,Alluring girl,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
+黒服,Bouncer,Speaker label,"As it appears before a line, e.g. ""レイ："" -> ""Rei: """
