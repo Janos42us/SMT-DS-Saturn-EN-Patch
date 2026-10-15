@@ -93,7 +93,7 @@ Reports from anyone playing all the way through on a real Saturn are especially 
 
 ## Credits and disclaimer
 
-Translation and hacking: **Janos42us**
+Translation(AI) and hacking: **Janos42us**
 "Translated by" page art: Kyouji Kuzunoha by **Kazuma Kaneko / Atlus**
 
 This is an unofficial fan translation. Shin Megami Tensei, Devil Summoner and everything in it belong to Atlus. Not affiliated with Atlus or Sega. No game files are included, use your own copy.
