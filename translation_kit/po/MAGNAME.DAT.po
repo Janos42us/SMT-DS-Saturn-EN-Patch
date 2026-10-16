@@ -1,0 +1,4652 @@
+# Shin Megami Tensei: Devil Summoner (Sega Saturn, 1995): Japanese script for translation.
+# Source: the project's extraction of the original Japanese text (Japan Rev A disc).
+# File: MAGNAME.DAT
+# One entry per message. msgctxt is the line ID; keep it unchanged.
+# msgid is the original Japanese (do not edit). Write the translation in msgstr.
+# See README_translator.md for tags, limits and the story overview.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Devil Summoner Saturn MAGNAME.DAT\n"
+"POT-Creation-Date: 2026-10-15 00:00+0000\n"
+"Language: en\n"
+"X-Source-Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:0
+msgctxt "MAGNAME.DAT#0/name"
+msgid "アギ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:0
+msgctxt "MAGNAME.DAT#0/description"
+msgid ""
+"攻撃魔法　前列　威力23\n"
+"敵1体に火炎系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:1
+msgctxt "MAGNAME.DAT#1/name"
+msgid "アギラオ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:1
+msgctxt "MAGNAME.DAT#1/description"
+msgid ""
+"攻撃魔法　前列　威力50\n"
+"敵1体に複数回の火炎系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:2
+msgctxt "MAGNAME.DAT#2/name"
+msgid "マハ・ラギ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:2
+msgctxt "MAGNAME.DAT#2/description"
+msgid ""
+"攻撃魔法　前列　威力27\n"
+"敵1列全体に火炎系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:3
+msgctxt "MAGNAME.DAT#3/name"
+msgid "マハ・ラギオン"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:3
+msgctxt "MAGNAME.DAT#3/description"
+msgid ""
+"攻撃魔法　全体　威力77\n"
+"すべての敵に火炎系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:4
+msgctxt "MAGNAME.DAT#4/name"
+msgid "ブフ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:4
+msgctxt "MAGNAME.DAT#4/description"
+msgid ""
+"攻撃魔法　前列　威力23\n"
+"敵1体に氷結系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:5
+msgctxt "MAGNAME.DAT#5/name"
+msgid "ブフーラ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:5
+msgctxt "MAGNAME.DAT#5/description"
+msgid ""
+"攻撃魔法　前列　威力50\n"
+"複数の敵に氷結系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:6
+msgctxt "MAGNAME.DAT#6/name"
+msgid "マハ・ブフ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:6
+msgctxt "MAGNAME.DAT#6/description"
+msgid ""
+"攻撃魔法　前列　威力25\n"
+"敵1列全体に氷結系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:7
+msgctxt "MAGNAME.DAT#7/name"
+msgid "マハ・ブフーラ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:7
+msgctxt "MAGNAME.DAT#7/description"
+msgid ""
+"攻撃魔法　全体　威力85\n"
+"すべての敵に氷結系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:8
+msgctxt "MAGNAME.DAT#8/name"
+msgid "ジオ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:8
+msgctxt "MAGNAME.DAT#8/description"
+msgid ""
+"攻撃魔法　前列／後列　威力28\n"
+"敵1体に電撃系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:9
+msgctxt "MAGNAME.DAT#9/name"
+msgid "ジオンガ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:9
+msgctxt "MAGNAME.DAT#9/description"
+msgid ""
+"攻撃魔法　前列／後列　威力98\n"
+"敵1体に電撃系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:10
+msgctxt "MAGNAME.DAT#10/name"
+msgid "マハ・ジオ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:10
+msgctxt "MAGNAME.DAT#10/description"
+msgid ""
+"攻撃魔法　前列／後列　威力30\n"
+"敵1列全体に電撃系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:11
+msgctxt "MAGNAME.DAT#11/name"
+msgid "マハ・ジオンガ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:11
+msgctxt "MAGNAME.DAT#11/description"
+msgid ""
+"攻撃魔法　全体　威力86\n"
+"すべての敵に電撃系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:12
+msgctxt "MAGNAME.DAT#12/name"
+msgid "ザン"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:12
+msgctxt "MAGNAME.DAT#12/description"
+msgid ""
+"攻撃魔法　前列　威力28\n"
+"敵1体に衝撃系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:13
+msgctxt "MAGNAME.DAT#13/name"
+msgid "ザンマ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:13
+msgctxt "MAGNAME.DAT#13/description"
+msgid ""
+"攻撃魔法　前列　威力40\n"
+"複数の敵に衝撃系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:14
+msgctxt "MAGNAME.DAT#14/name"
+msgid "マハ・ザン"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:14
+msgctxt "MAGNAME.DAT#14/description"
+msgid ""
+"攻撃魔法　前列　威力31\n"
+"敵1列全体に衝撃系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:15
+msgctxt "MAGNAME.DAT#15/name"
+msgid "マハ・ザンマ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:15
+msgctxt "MAGNAME.DAT#15/description"
+msgid ""
+"攻撃魔法　全体　威力87\n"
+"すべての敵に衝撃系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:16
+msgctxt "MAGNAME.DAT#16/name"
+msgid "サイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:16
+msgctxt "MAGNAME.DAT#16/description"
+msgid ""
+"攻撃魔法　前列／後列　威力25\n"
+"敵1体に念動系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:17
+msgctxt "MAGNAME.DAT#17/name"
+msgid "サイオ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:17
+msgctxt "MAGNAME.DAT#17/description"
+msgid ""
+"攻撃魔法　前列／後列　威力98\n"
+"敵1体に念動系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:18
+msgctxt "MAGNAME.DAT#18/name"
+msgid "マハ・サイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:18
+msgctxt "MAGNAME.DAT#18/description"
+msgid ""
+"攻撃魔法　前列／後列　威力31\n"
+"敵1列全体に念動系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:19
+msgctxt "MAGNAME.DAT#19/name"
+msgid "マハ・サイオ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:19
+msgctxt "MAGNAME.DAT#19/description"
+msgid ""
+"攻撃魔法　全体　威力98\n"
+"すべての敵に念動系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:20
+msgctxt "MAGNAME.DAT#20/name"
+msgid "ハマ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:20
+msgctxt "MAGNAME.DAT#20/description"
+msgid ""
+"攻撃魔法　前列　威力24\n"
+"敵1体に破魔系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:21
+msgctxt "MAGNAME.DAT#21/name"
+msgid "ハンマ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:21
+msgctxt "MAGNAME.DAT#21/description"
+msgid ""
+"攻撃魔法　前列　威力20\n"
+"敵1列全体に破魔系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:22
+msgctxt "MAGNAME.DAT#22/name"
+msgid "ハマオン"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:22
+msgctxt "MAGNAME.DAT#22/description"
+msgid ""
+"攻撃魔法　全体　威力16\n"
+"すべての敵に破魔系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:23
+msgctxt "MAGNAME.DAT#23/name"
+msgid "ムド"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:23
+msgctxt "MAGNAME.DAT#23/description"
+msgid ""
+"攻撃魔法　前列／後列\n"
+"敵1体を呪殺"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:24
+msgctxt "MAGNAME.DAT#24/name"
+msgid "ムドラ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:24
+msgctxt "MAGNAME.DAT#24/description"
+msgid ""
+"攻撃魔法　前列／後列\n"
+"敵1列全体を呪殺"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:25
+msgctxt "MAGNAME.DAT#25/name"
+msgid "ムドオン"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:25
+msgctxt "MAGNAME.DAT#25/description"
+msgid ""
+"攻撃魔法　全体\n"
+"すべての敵を呪殺"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:26
+msgctxt "MAGNAME.DAT#26/name"
+msgid "メギド"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:26
+msgctxt "MAGNAME.DAT#26/description"
+msgid ""
+"攻撃魔法　前列　威力200\n"
+"敵1体に大ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:27
+msgctxt "MAGNAME.DAT#27/name"
+msgid "メギドラ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:27
+msgctxt "MAGNAME.DAT#27/description"
+msgid ""
+"攻撃魔法　前列　威力150\n"
+"敵1列全体に大ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:28
+msgctxt "MAGNAME.DAT#28/name"
+msgid "メギドラオン"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:28
+msgctxt "MAGNAME.DAT#28/description"
+msgid ""
+"攻撃魔法　全体　威力160\n"
+"すべての敵に大ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:29
+msgctxt "MAGNAME.DAT#29/name"
+msgid "ドルミナー"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:29
+msgctxt "MAGNAME.DAT#29/description"
+msgid ""
+"攻撃補助　前列／後列　バッドステータス\n"
+"敵1列全体にSLEEPの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:30
+msgctxt "MAGNAME.DAT#30/name"
+msgid "マリンカリン"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:30
+msgctxt "MAGNAME.DAT#30/description"
+msgid ""
+"攻撃補助　前列／後列　バッドステータス\n"
+"敵1体にCHARMの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:31
+msgctxt "MAGNAME.DAT#31/name"
+msgid "シバブー"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:31
+msgctxt "MAGNAME.DAT#31/description"
+msgid ""
+"攻撃補助　前列／後列　バッドステータス\n"
+"敵1列全体にBINDの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:32
+msgctxt "MAGNAME.DAT#32/name"
+msgid "シャッフ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:32
+msgctxt "MAGNAME.DAT#32/description"
+msgid ""
+"攻撃補助　前列／後列　バッドステータス\n"
+"敵1体にCARDの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:33
+msgctxt "MAGNAME.DAT#33/name"
+msgid "シャッフル"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:33
+msgctxt "MAGNAME.DAT#33/description"
+msgid ""
+"攻撃補助　前列／後列　バッドステータス\n"
+"敵1列全体にCARDの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:34
+msgctxt "MAGNAME.DAT#34/name"
+msgid "シャッフラー"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:34
+msgctxt "MAGNAME.DAT#34/description"
+msgid ""
+"攻撃補助　全体　バッドステータス\n"
+"すべての敵にCARDの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:35
+msgctxt "MAGNAME.DAT#35/name"
+msgid "キョウ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:35
+msgctxt "MAGNAME.DAT#35/description"
+msgid ""
+"攻撃補助　前列　バッドステータス\n"
+"敵1体にMIRRORの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:36
+msgctxt "MAGNAME.DAT#36/name"
+msgid "ハ・キョウ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:36
+msgctxt "MAGNAME.DAT#36/description"
+msgid ""
+"攻撃補助　前列　バッドステータス\n"
+"敵1列全体にMIRRORの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:37
+msgctxt "MAGNAME.DAT#37/name"
+msgid "シ・キョウ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:37
+msgctxt "MAGNAME.DAT#37/description"
+msgid ""
+"攻撃補助　全体　バッドステータス\n"
+"すべての敵にMIRRORの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:38
+msgctxt "MAGNAME.DAT#38/name"
+msgid "シパニ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:38
+msgctxt "MAGNAME.DAT#38/description"
+msgid ""
+"攻撃補助　全体　バッドステータス\n"
+"すべての敵にPANICの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:39
+msgctxt "MAGNAME.DAT#39/name"
+msgid "ハピルマ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:39
+msgctxt "MAGNAME.DAT#39/description"
+msgid ""
+"攻撃補助　前列　バッドステータス\n"
+"敵1列全体にHAPPYの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:40
+msgctxt "MAGNAME.DAT#40/name"
+msgid "マカフージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:40
+msgctxt "MAGNAME.DAT#40/description"
+msgid ""
+"攻撃補助　前列／後列　バッドステータス\n"
+"敵1体にCLOSEの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:41
+msgctxt "MAGNAME.DAT#41/name"
+msgid "タル・ンダ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:41
+msgctxt "MAGNAME.DAT#41/description"
+msgid ""
+"攻撃補助　全体\n"
+"すべての敵の攻撃力ダウン"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:42
+msgctxt "MAGNAME.DAT#42/name"
+msgid "ラク・ンダ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:42
+msgctxt "MAGNAME.DAT#42/description"
+msgid ""
+"攻撃補助　全体\n"
+"すべての敵の防御力ダウン"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:43
+msgctxt "MAGNAME.DAT#43/name"
+msgid "スク・ンダ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:43
+msgctxt "MAGNAME.DAT#43/description"
+msgid ""
+"攻撃補助　全体\n"
+"すべての敵の命中力ダウン"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:44
+msgctxt "MAGNAME.DAT#44/name"
+msgid "デ・カジャ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:44
+msgctxt "MAGNAME.DAT#44/description"
+msgid ""
+"攻撃補助　全体\n"
+"すべての敵の能力値アップを無効化"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:45
+msgctxt "MAGNAME.DAT#45/name"
+msgid "ディア"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:45
+msgctxt "MAGNAME.DAT#45/description"
+msgid ""
+"回復魔法　単体\n"
+"味方1体のHPを少しだけ回復"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:46
+msgctxt "MAGNAME.DAT#46/name"
+msgid "ディアラマ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:46
+msgctxt "MAGNAME.DAT#46/description"
+msgid ""
+"回復魔法　単体\n"
+"味方1体のHPを中程度回復"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:47
+msgctxt "MAGNAME.DAT#47/name"
+msgid "ディアラハン"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:47
+msgctxt "MAGNAME.DAT#47/description"
+msgid ""
+"回復魔法　単体\n"
+"味方1体のHPをMAXまで回復"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:48
+msgctxt "MAGNAME.DAT#48/name"
+msgid "メ・ディア"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:48
+msgctxt "MAGNAME.DAT#48/description"
+msgid ""
+"回復魔法　全体\n"
+"味方全員のHPを少しだけ回復"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:49
+msgctxt "MAGNAME.DAT#49/name"
+msgid "メ・ディアラマ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:49
+msgctxt "MAGNAME.DAT#49/description"
+msgid ""
+"回復魔法　全体\n"
+"味方全員のHPを中程度回復"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:50
+msgctxt "MAGNAME.DAT#50/name"
+msgid "メ・ディアラハン"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:50
+msgctxt "MAGNAME.DAT#50/description"
+msgid ""
+"回復魔法　全体\n"
+"味方全員のHPをMAXまで回復"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:51
+msgctxt "MAGNAME.DAT#51/name"
+msgid "ポズムディ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:51
+msgctxt "MAGNAME.DAT#51/description"
+msgid ""
+"回復魔法　単体\n"
+"味方1体の毒の状態を治療"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:52
+msgctxt "MAGNAME.DAT#52/name"
+msgid "パァスディ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:52
+msgctxt "MAGNAME.DAT#52/description"
+msgid ""
+"回復魔法　単体\n"
+"味方1体の混乱・至福・睡眠を治療"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:53
+msgctxt "MAGNAME.DAT#53/name"
+msgid "カルムディ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:53
+msgctxt "MAGNAME.DAT#53/description"
+msgid ""
+"回復魔法　単体\n"
+"味方1体の魅了を治療"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:54
+msgctxt "MAGNAME.DAT#54/name"
+msgid "ペトラディ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:54
+msgctxt "MAGNAME.DAT#54/description"
+msgid ""
+"回復魔法　単体\n"
+"味方1体の石化を治療"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:55
+msgctxt "MAGNAME.DAT#55/name"
+msgid "クロズディ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:55
+msgctxt "MAGNAME.DAT#55/description"
+msgid ""
+"回復魔法　単体\n"
+"味方1体の沈黙を治療"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:56
+msgctxt "MAGNAME.DAT#56/name"
+msgid "パララディ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:56
+msgctxt "MAGNAME.DAT#56/description"
+msgid ""
+"回復魔法　単体\n"
+"味方1体の麻痺を治療"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:57
+msgctxt "MAGNAME.DAT#57/name"
+msgid "メタモディ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:57
+msgctxt "MAGNAME.DAT#57/description"
+msgid ""
+"回復魔法　単体\n"
+"味方1体の変身を解く"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:58
+msgctxt "MAGNAME.DAT#58/name"
+msgid "パトラ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:58
+msgctxt "MAGNAME.DAT#58/description"
+msgid ""
+"回復魔法　単体\n"
+"味方1体の混乱・至福・睡眠・呪縛を治療"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:59
+msgctxt "MAGNAME.DAT#59/name"
+msgid "メ・パトラ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:59
+msgctxt "MAGNAME.DAT#59/description"
+msgid ""
+"回復魔法　全体\n"
+"味方全員の混乱・至福・睡眠・呪縛を治療"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:60
+msgctxt "MAGNAME.DAT#60/name"
+msgid "リカーム"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:60
+msgctxt "MAGNAME.DAT#60/description"
+msgid ""
+"回復魔法　単体\n"
+"味方1体を復活"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:61
+msgctxt "MAGNAME.DAT#61/name"
+msgid "サマリカーム"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:61
+msgctxt "MAGNAME.DAT#61/description"
+msgid ""
+"回復魔法　単体\n"
+"味方1体をHP最大で復活"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:62
+msgctxt "MAGNAME.DAT#62/name"
+msgid "リカーム・ドラ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:62
+msgctxt "MAGNAME.DAT#62/description"
+msgid ""
+"回復魔法　全体\n"
+"味方全員のHPを最大回復し術者は死亡"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:63
+msgctxt "MAGNAME.DAT#63/name"
+msgid "テトラジャ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:63
+msgctxt "MAGNAME.DAT#63/description"
+msgid ""
+"防御魔法　全体\n"
+"破魔・呪殺・エナジードレインを1回防止"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:64
+msgctxt "MAGNAME.DAT#64/name"
+msgid "テトラカーン"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:64
+msgctxt "MAGNAME.DAT#64/description"
+msgid ""
+"防御魔法　全体\n"
+"物理攻撃を1ターン防ぎ敵に反射"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:65
+msgctxt "MAGNAME.DAT#65/name"
+msgid "マカラカーン"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:65
+msgctxt "MAGNAME.DAT#65/description"
+msgid ""
+"防御魔法　全体\n"
+"魔法攻撃を1ターン防ぎ敵に反射"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:66
+msgctxt "MAGNAME.DAT#66/name"
+msgid "タル・カジャ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:66
+msgctxt "MAGNAME.DAT#66/description"
+msgid ""
+"補助魔法　全体\n"
+"味方全員の攻撃力アップ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:67
+msgctxt "MAGNAME.DAT#67/name"
+msgid "ラク・カジャ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:67
+msgctxt "MAGNAME.DAT#67/description"
+msgid ""
+"補助魔法　全体\n"
+"味方全員の防御力アップ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:68
+msgctxt "MAGNAME.DAT#68/name"
+msgid "スク・カジャ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:68
+msgctxt "MAGNAME.DAT#68/description"
+msgid ""
+"補助魔法　全体\n"
+"味方全員の命中力アップ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:69
+msgctxt "MAGNAME.DAT#69/name"
+msgid "マカ・カジャ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:69
+msgctxt "MAGNAME.DAT#69/description"
+msgid ""
+"補助魔法　全体\n"
+"味方全員の魔法威力アップ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:70
+msgctxt "MAGNAME.DAT#70/name"
+msgid "デ・クンダ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:70
+msgctxt "MAGNAME.DAT#70/description"
+msgid ""
+"補助魔法　全体\n"
+"味方全員の能力値ダウンを無効化"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:71
+msgctxt "MAGNAME.DAT#71/name"
+msgid "ネクロマ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:71
+msgctxt "MAGNAME.DAT#71/description"
+msgid ""
+"補助魔法　単体\n"
+"死亡した味方1体を戦闘参加"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:72
+msgctxt "MAGNAME.DAT#72/name"
+msgid "サバト"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:72
+msgctxt "MAGNAME.DAT#72/description"
+msgid ""
+"特殊魔法　移動時・戦闘時\n"
+"マグネタイトを消費しないで仲魔1体を召喚"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:73
+msgctxt "MAGNAME.DAT#73/name"
+msgid "トラエスト"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:73
+msgctxt "MAGNAME.DAT#73/description"
+msgid ""
+"特殊魔法　移動時\n"
+"ダンジョンより脱出"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:74
+msgctxt "MAGNAME.DAT#74/name"
+msgid "エストマ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:74
+msgctxt "MAGNAME.DAT#74/description"
+msgid ""
+"特殊魔法　移動時\n"
+"月1周の間　低レベル悪魔の出現を抑止"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:75
+msgctxt "MAGNAME.DAT#75/name"
+msgid "マッパー"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:75
+msgctxt "MAGNAME.DAT#75/description"
+msgid ""
+"特殊魔法　移動時\n"
+"月1周の間　パーティー周辺のマップを表示"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:76
+msgctxt "MAGNAME.DAT#76/name"
+msgid "リフトマ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:76
+msgctxt "MAGNAME.DAT#76/description"
+msgid ""
+"特殊魔法　移動時\n"
+"月1周の間　ダメージゾーンを無効化"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:77
+msgctxt "MAGNAME.DAT#77/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: MAGNAME.DAT:77
+msgctxt "MAGNAME.DAT#77/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:78
+msgctxt "MAGNAME.DAT#78/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: MAGNAME.DAT:78
+msgctxt "MAGNAME.DAT#78/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:79
+msgctxt "MAGNAME.DAT#79/name"
+msgid "ファイヤーブレス"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:79
+msgctxt "MAGNAME.DAT#79/description"
+msgid ""
+"特殊魔法行動　前列　威力37\n"
+"敵1列全体に火炎系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:80
+msgctxt "MAGNAME.DAT#80/name"
+msgid "ごうかしょうかん"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:80
+msgctxt "MAGNAME.DAT#80/description"
+msgid ""
+"特殊魔法行動　全体　威力77\n"
+"すべての敵に火炎系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:81
+msgctxt "MAGNAME.DAT#81/name"
+msgid "ブリザードブレス"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:81
+msgctxt "MAGNAME.DAT#81/description"
+msgid ""
+"特殊魔法行動　前列　威力39\n"
+"敵1列全体に氷結系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:82
+msgctxt "MAGNAME.DAT#82/name"
+msgid "ぜったいれいど"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:82
+msgctxt "MAGNAME.DAT#82/description"
+msgid ""
+"特殊魔法行動　全体　威力77\n"
+"すべての敵に氷結系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:83
+msgctxt "MAGNAME.DAT#83/name"
+msgid "ほうでん"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:83
+msgctxt "MAGNAME.DAT#83/description"
+msgid ""
+"特殊魔法行動　前列　威力24\n"
+"複数の敵に電撃系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:84
+msgctxt "MAGNAME.DAT#84/name"
+msgid "サンダーブレイク"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:84
+msgctxt "MAGNAME.DAT#84/description"
+msgid ""
+"特殊魔法行動　全体　威力77\n"
+"すべての敵に電撃系ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:85
+msgctxt "MAGNAME.DAT#85/name"
+msgid "ブレインバースト"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:85
+msgctxt "MAGNAME.DAT#85/description"
+msgid ""
+"特殊魔法行動　前列　威力43\n"
+"複数の敵に念動系ダメージ／BINDの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:86
+msgctxt "MAGNAME.DAT#86/name"
+msgid "げどうのほう"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:86
+msgctxt "MAGNAME.DAT#86/description"
+msgid ""
+"特殊魔法行動　全体　威力120\n"
+"敵1体に大ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:87
+msgctxt "MAGNAME.DAT#87/name"
+msgid "どくのひかり"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:87
+msgctxt "MAGNAME.DAT#87/description"
+msgid ""
+"特殊魔法行動　全体　威力65\n"
+"すべての敵にダメージ／POISONの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:88
+msgctxt "MAGNAME.DAT#88/name"
+msgid "ブラフマーストラ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:88
+msgctxt "MAGNAME.DAT#88/description"
+msgid ""
+"特殊魔法行動　全体　威力180\n"
+"敵すべての敵に大ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:89
+msgctxt "MAGNAME.DAT#89/name"
+msgid "バインドボイス"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:89
+msgctxt "MAGNAME.DAT#89/description"
+msgid ""
+"特殊魔法行動　全体　バッドステータス\n"
+"すべての敵にBINDの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:90
+msgctxt "MAGNAME.DAT#90/name"
+msgid "マグネストーム"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:90
+msgctxt "MAGNAME.DAT#90/description"
+msgid ""
+"特殊魔法行動　全体　バッドステータス\n"
+"敵1列全体にBINDの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:91
+msgctxt "MAGNAME.DAT#91/name"
+msgid "パニックボイス"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:91
+msgctxt "MAGNAME.DAT#91/description"
+msgid ""
+"特殊魔法行動　全体　バッドステータス\n"
+"すべての敵にPANICの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:92
+msgctxt "MAGNAME.DAT#92/name"
+msgid "ハッピーダンス"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:92
+msgctxt "MAGNAME.DAT#92/description"
+msgid ""
+"特殊魔法行動　全体　バッドステータス\n"
+"すべての敵にHAPPYの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:93
+msgctxt "MAGNAME.DAT#93/name"
+msgid "やくしぶっしょう"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:93
+msgctxt "MAGNAME.DAT#93/description"
+msgid ""
+"特殊魔法行動　全体　バッドステータス\n"
+"すべての敵にCLOSEの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:94
+msgctxt "MAGNAME.DAT#94/name"
+msgid "ベノンブレス"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:94
+msgctxt "MAGNAME.DAT#94/description"
+msgid ""
+"特殊魔法行動　全体　バッドステータス\n"
+"すべての敵にPOISONの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:95
+msgctxt "MAGNAME.DAT#95/name"
+msgid "インサニティアイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:95
+msgctxt "MAGNAME.DAT#95/description"
+msgid ""
+"特殊魔法行動　前列　バッドステータス\n"
+"複数の敵にCHARMの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:96
+msgctxt "MAGNAME.DAT#96/name"
+msgid "セクシーダンス"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:96
+msgctxt "MAGNAME.DAT#96/description"
+msgid ""
+"特殊魔法行動　全体　バッドステータス\n"
+"すべての敵にCHARMの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:97
+msgctxt "MAGNAME.DAT#97/name"
+msgid "こもりうた"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:97
+msgctxt "MAGNAME.DAT#97/description"
+msgid ""
+"特殊魔法行動　全体　バッドステータス\n"
+"すべての敵にSLEEPの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:98
+msgctxt "MAGNAME.DAT#98/name"
+msgid "まひにらみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:98
+msgctxt "MAGNAME.DAT#98/description"
+msgid ""
+"特殊魔法行動　全体　バッドステータス\n"
+"敵1体にPALYSEの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:99
+msgctxt "MAGNAME.DAT#99/name"
+msgid "アラクノワイヤー"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:99
+msgctxt "MAGNAME.DAT#99/description"
+msgid ""
+"特殊魔法行動　前列　バッドステータス\n"
+"複数の敵にPALYZEの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:100
+msgctxt "MAGNAME.DAT#100/name"
+msgid "せきかにらみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:100
+msgctxt "MAGNAME.DAT#100/description"
+msgid ""
+"特殊魔法行動　全体　バッドステータス\n"
+"敵1体にSTONEの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:101
+msgctxt "MAGNAME.DAT#101/name"
+msgid "かいほう"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:101
+msgctxt "MAGNAME.DAT#101/description"
+msgid ""
+"特殊魔法行動　単体\n"
+"味方1体のHPを少しだけ回復"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:102
+msgctxt "MAGNAME.DAT#102/name"
+msgid "せいじゃのうた"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:102
+msgctxt "MAGNAME.DAT#102/description"
+msgid ""
+"特殊魔法行動　全体\n"
+"味方全員のHPを少しだけ回復"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:103
+msgctxt "MAGNAME.DAT#103/name"
+msgid "あついほうよう"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:103
+msgctxt "MAGNAME.DAT#103/description"
+msgid ""
+"特殊魔法行動　全体\n"
+"味方全員のHPを中程度回復"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:104
+msgctxt "MAGNAME.DAT#104/name"
+msgid "けっかい"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:104
+msgctxt "MAGNAME.DAT#104/description"
+msgid ""
+"特殊魔法行動　全体\n"
+"破魔・呪殺・エナジードレインを1回防止"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:105
+msgctxt "MAGNAME.DAT#105/name"
+msgid "だいちのかべ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:105
+msgctxt "MAGNAME.DAT#105/description"
+msgid ""
+"特殊魔法行動　全体\n"
+"物理攻撃を1ターン防ぎ敵に反射"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:106
+msgctxt "MAGNAME.DAT#106/name"
+msgid "ペンタウォール"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:106
+msgctxt "MAGNAME.DAT#106/description"
+msgid ""
+"特殊魔法行動　全体\n"
+"魔法攻撃を1ターン防ぎ敵に反射"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:107
+msgctxt "MAGNAME.DAT#107/name"
+msgid "きゅうけつ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#113, MAGNAME.DAT#120, MAGNAME.DAT#121, MAGNAME.DAT#122,
+#. MAGNAME.DAT#207, MAGNAME.DAT#210 (+4 more).
+#: MAGNAME.DAT:107
+msgctxt "MAGNAME.DAT#107/description"
+msgid "敵のみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:108
+msgctxt "MAGNAME.DAT#108/name"
+msgid "ミラープリズン"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#109, MAGNAME.DAT#110, MAGNAME.DAT#112, MAGNAME.DAT#114,
+#. MAGNAME.DAT#123, MAGNAME.DAT#125 (+8 more).
+#: MAGNAME.DAT:108
+msgctxt "MAGNAME.DAT#108/description"
+msgid "ボスのみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:109
+msgctxt "MAGNAME.DAT#109/name"
+msgid "フォトンショット"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#108, MAGNAME.DAT#110, MAGNAME.DAT#112, MAGNAME.DAT#114,
+#. MAGNAME.DAT#123, MAGNAME.DAT#125 (+8 more).
+#: MAGNAME.DAT:109
+msgctxt "MAGNAME.DAT#109/description"
+msgid "ボスのみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:110
+msgctxt "MAGNAME.DAT#110/name"
+msgid "げほうげんかじん"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#108, MAGNAME.DAT#109, MAGNAME.DAT#112, MAGNAME.DAT#114,
+#. MAGNAME.DAT#123, MAGNAME.DAT#125 (+8 more).
+#: MAGNAME.DAT:110
+msgctxt "MAGNAME.DAT#110/description"
+msgid "ボスのみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:111
+msgctxt "MAGNAME.DAT#111/name"
+msgid "イーヴィルアイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:111
+msgctxt "MAGNAME.DAT#111/description"
+msgid ""
+"特殊魔法行動　全体\n"
+"敵1体を呪殺"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:112
+msgctxt "MAGNAME.DAT#112/name"
+msgid "デスリング"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#108, MAGNAME.DAT#109, MAGNAME.DAT#110, MAGNAME.DAT#114,
+#. MAGNAME.DAT#123, MAGNAME.DAT#125 (+8 more).
+#: MAGNAME.DAT:112
+msgctxt "MAGNAME.DAT#112/description"
+msgid "ボスのみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: MAGNAME.DAT#122.
+#: MAGNAME.DAT:113
+msgctxt "MAGNAME.DAT#113/name"
+msgid "あくまのゆうわく"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#107, MAGNAME.DAT#120, MAGNAME.DAT#121, MAGNAME.DAT#122,
+#. MAGNAME.DAT#207, MAGNAME.DAT#210 (+4 more).
+#: MAGNAME.DAT:113
+msgctxt "MAGNAME.DAT#113/description"
+msgid "敵のみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:114
+msgctxt "MAGNAME.DAT#114/name"
+msgid "うらみのどうこく"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#108, MAGNAME.DAT#109, MAGNAME.DAT#110, MAGNAME.DAT#112,
+#. MAGNAME.DAT#123, MAGNAME.DAT#125 (+8 more).
+#: MAGNAME.DAT:114
+msgctxt "MAGNAME.DAT#114/description"
+msgid "ボスのみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:115
+msgctxt "MAGNAME.DAT#115/name"
+msgid "みずのかべ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:115
+msgctxt "MAGNAME.DAT#115/description"
+msgid ""
+"特殊魔法行動　全体\n"
+"火炎攻撃を1ターン無効化"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:116
+msgctxt "MAGNAME.DAT#116/name"
+msgid "ほのおのかべ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:116
+msgctxt "MAGNAME.DAT#116/description"
+msgid ""
+"特殊魔法行動　全体\n"
+"氷結攻撃を1ターン無効化"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:117
+msgctxt "MAGNAME.DAT#117/name"
+msgid "サイコバリアー"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:117
+msgctxt "MAGNAME.DAT#117/description"
+msgid ""
+"特殊魔法行動　全体\n"
+"念動攻撃を1ターン無効化"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:118
+msgctxt "MAGNAME.DAT#118/name"
+msgid "ジャッジメント"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:118
+msgctxt "MAGNAME.DAT#118/description"
+msgid ""
+"特殊魔法行動　敵・味方全体\n"
+"術者と属性の異なる者すべてにダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:119
+msgctxt "MAGNAME.DAT#119/name"
+msgid "てんばつ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:119
+msgctxt "MAGNAME.DAT#119/description"
+msgid ""
+"特殊魔法行動　敵・味方全体\n"
+"術者と属性の異なる者すべてに大ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:120
+msgctxt "MAGNAME.DAT#120/name"
+msgid "ヴァンパイアキス"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#107, MAGNAME.DAT#113, MAGNAME.DAT#121, MAGNAME.DAT#122,
+#. MAGNAME.DAT#207, MAGNAME.DAT#210 (+4 more).
+#: MAGNAME.DAT:120
+msgctxt "MAGNAME.DAT#120/description"
+msgid "敵のみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:121
+msgctxt "MAGNAME.DAT#121/name"
+msgid "ソウルジャック"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#107, MAGNAME.DAT#113, MAGNAME.DAT#120, MAGNAME.DAT#122,
+#. MAGNAME.DAT#207, MAGNAME.DAT#210 (+4 more).
+#: MAGNAME.DAT:121
+msgctxt "MAGNAME.DAT#121/description"
+msgid "敵のみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: MAGNAME.DAT#113.
+#: MAGNAME.DAT:122
+msgctxt "MAGNAME.DAT#122/name"
+msgid "あくまのゆうわく"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#107, MAGNAME.DAT#113, MAGNAME.DAT#120, MAGNAME.DAT#121,
+#. MAGNAME.DAT#207, MAGNAME.DAT#210 (+4 more).
+#: MAGNAME.DAT:122
+msgctxt "MAGNAME.DAT#122/description"
+msgid "敵のみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:123
+msgctxt "MAGNAME.DAT#123/name"
+msgid "ボルカニッカー"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#108, MAGNAME.DAT#109, MAGNAME.DAT#110, MAGNAME.DAT#112,
+#. MAGNAME.DAT#114, MAGNAME.DAT#125 (+8 more).
+#: MAGNAME.DAT:123
+msgctxt "MAGNAME.DAT#123/description"
+msgid "ボスのみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:124
+msgctxt "MAGNAME.DAT#124/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140, MAGNAME.DAT#143,
+#. MAGNAME.DAT#144, MAGNAME.DAT#145 (+43 more).
+#: MAGNAME.DAT:124
+msgctxt "MAGNAME.DAT#124/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:125
+msgctxt "MAGNAME.DAT#125/name"
+msgid "なげきのほうこう"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#108, MAGNAME.DAT#109, MAGNAME.DAT#110, MAGNAME.DAT#112,
+#. MAGNAME.DAT#114, MAGNAME.DAT#123 (+8 more).
+#: MAGNAME.DAT:125
+msgctxt "MAGNAME.DAT#125/description"
+msgid "ボスのみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:126
+msgctxt "MAGNAME.DAT#126/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#128, MAGNAME.DAT#140, MAGNAME.DAT#143,
+#. MAGNAME.DAT#144, MAGNAME.DAT#145 (+43 more).
+#: MAGNAME.DAT:126
+msgctxt "MAGNAME.DAT#126/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:127
+msgctxt "MAGNAME.DAT#127/name"
+msgid "まてきだん"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#108, MAGNAME.DAT#109, MAGNAME.DAT#110, MAGNAME.DAT#112,
+#. MAGNAME.DAT#114, MAGNAME.DAT#123 (+8 more).
+#: MAGNAME.DAT:127
+msgctxt "MAGNAME.DAT#127/description"
+msgid "ボスのみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:128
+msgctxt "MAGNAME.DAT#128/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#140, MAGNAME.DAT#143,
+#. MAGNAME.DAT#144, MAGNAME.DAT#145 (+43 more).
+#: MAGNAME.DAT:128
+msgctxt "MAGNAME.DAT#128/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:129
+msgctxt "MAGNAME.DAT#129/name"
+msgid "てんしのキス"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:129
+msgctxt "MAGNAME.DAT#129/description"
+msgid ""
+"特殊魔法行動　単体\n"
+"ロウ・ニュートラルの味方のHPを回復"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:130
+msgctxt "MAGNAME.DAT#130/name"
+msgid "あくまのキス"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:130
+msgctxt "MAGNAME.DAT#130/description"
+msgid ""
+"特殊魔法行動　単体\n"
+"カオス・ニュートラルの味方のHPを回復"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:131
+msgctxt "MAGNAME.DAT#131/name"
+msgid "オトメノイノリ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:131
+msgctxt "MAGNAME.DAT#131/description"
+msgid ""
+"特殊魔法行動　全体\n"
+"味方1体をHP1／2で復活"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:132
+msgctxt "MAGNAME.DAT#132/name"
+msgid "サイコブラスト"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:132
+msgctxt "MAGNAME.DAT#132/description"
+msgid ""
+"特殊魔法行動　全体\n"
+"すべての敵の命中力・魔法威力ダウン"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:133
+msgctxt "MAGNAME.DAT#133/name"
+msgid "ラッキーステップ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:133
+msgctxt "MAGNAME.DAT#133/description"
+msgid ""
+"特殊魔法行動　全体\n"
+"味方全員の命中力アップ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:134
+msgctxt "MAGNAME.DAT#134/name"
+msgid "しんくうは"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:134
+msgctxt "MAGNAME.DAT#134/description"
+msgid ""
+"特殊魔法行動　全体\n"
+"味方全体の命中力・攻撃力アップ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:135
+msgctxt "MAGNAME.DAT#135/name"
+msgid "ちょうはつ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:135
+msgctxt "MAGNAME.DAT#135/description"
+msgid ""
+"特殊魔法行動　全体\n"
+"敵全体の攻撃力アップ・防御力ダウン"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:136
+msgctxt "MAGNAME.DAT#136/name"
+msgid "いかく"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:136
+msgctxt "MAGNAME.DAT#136/description"
+msgid ""
+"特殊魔法行動　全体\n"
+"敵全体の防御力アップ・攻撃力ダウン"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:137
+msgctxt "MAGNAME.DAT#137/name"
+msgid "たかぶりのうた"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:137
+msgctxt "MAGNAME.DAT#137/description"
+msgid ""
+"特殊魔法行動　全体\n"
+"味方全体の攻撃力・魔法威力アップ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:138
+msgctxt "MAGNAME.DAT#138/name"
+msgid "ダイ・ハード"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:138
+msgctxt "MAGNAME.DAT#138/description"
+msgid ""
+"特殊魔法行動　全体\n"
+"味方全体の防御力・命中力アップ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:139
+msgctxt "MAGNAME.DAT#139/name"
+msgid "バイス・ゴスペル"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#108, MAGNAME.DAT#109, MAGNAME.DAT#110, MAGNAME.DAT#112,
+#. MAGNAME.DAT#114, MAGNAME.DAT#123 (+8 more).
+#: MAGNAME.DAT:139
+msgctxt "MAGNAME.DAT#139/description"
+msgid "ボスのみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:140
+msgctxt "MAGNAME.DAT#140/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#143,
+#. MAGNAME.DAT#144, MAGNAME.DAT#145 (+43 more).
+#: MAGNAME.DAT:140
+msgctxt "MAGNAME.DAT#140/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:141
+msgctxt "MAGNAME.DAT#141/name"
+msgid "しちせいこうてん"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#108, MAGNAME.DAT#109, MAGNAME.DAT#110, MAGNAME.DAT#112,
+#. MAGNAME.DAT#114, MAGNAME.DAT#123 (+8 more).
+#: MAGNAME.DAT:141
+msgctxt "MAGNAME.DAT#141/description"
+msgid "ボスのみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:142
+msgctxt "MAGNAME.DAT#142/name"
+msgid "ろくせいきこう"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#108, MAGNAME.DAT#109, MAGNAME.DAT#110, MAGNAME.DAT#112,
+#. MAGNAME.DAT#114, MAGNAME.DAT#123 (+8 more).
+#: MAGNAME.DAT:142
+msgctxt "MAGNAME.DAT#142/description"
+msgid "ボスのみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:143
+msgctxt "MAGNAME.DAT#143/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#144, MAGNAME.DAT#145 (+43 more).
+#: MAGNAME.DAT:143
+msgctxt "MAGNAME.DAT#143/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:144
+msgctxt "MAGNAME.DAT#144/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#145 (+43 more).
+#: MAGNAME.DAT:144
+msgctxt "MAGNAME.DAT#144/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:145
+msgctxt "MAGNAME.DAT#145/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:145
+msgctxt "MAGNAME.DAT#145/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:146
+msgctxt "MAGNAME.DAT#146/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:146
+msgctxt "MAGNAME.DAT#146/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:147
+msgctxt "MAGNAME.DAT#147/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:147
+msgctxt "MAGNAME.DAT#147/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:148
+msgctxt "MAGNAME.DAT#148/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:148
+msgctxt "MAGNAME.DAT#148/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:149
+msgctxt "MAGNAME.DAT#149/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:149
+msgctxt "MAGNAME.DAT#149/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:150
+msgctxt "MAGNAME.DAT#150/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:150
+msgctxt "MAGNAME.DAT#150/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:151
+msgctxt "MAGNAME.DAT#151/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:151
+msgctxt "MAGNAME.DAT#151/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:152
+msgctxt "MAGNAME.DAT#152/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:152
+msgctxt "MAGNAME.DAT#152/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:153
+msgctxt "MAGNAME.DAT#153/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:153
+msgctxt "MAGNAME.DAT#153/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:154
+msgctxt "MAGNAME.DAT#154/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:154
+msgctxt "MAGNAME.DAT#154/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:155
+msgctxt "MAGNAME.DAT#155/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:155
+msgctxt "MAGNAME.DAT#155/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:156
+msgctxt "MAGNAME.DAT#156/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:156
+msgctxt "MAGNAME.DAT#156/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:157
+msgctxt "MAGNAME.DAT#157/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:157
+msgctxt "MAGNAME.DAT#157/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:158
+msgctxt "MAGNAME.DAT#158/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:158
+msgctxt "MAGNAME.DAT#158/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:159
+msgctxt "MAGNAME.DAT#159/name"
+msgid "りょううでおとし"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:159
+msgctxt "MAGNAME.DAT#159/description"
+msgid ""
+"特殊物理行動　威力12　0〜2回攻撃\n"
+"PALYZEの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:160
+msgctxt "MAGNAME.DAT#160/name"
+msgid "かいてんぎり"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:160
+msgctxt "MAGNAME.DAT#160/description"
+msgid "特殊物理行動　威力14　4〜6回攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:161
+msgctxt "MAGNAME.DAT#161/name"
+msgid "スカルクラック"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:161
+msgctxt "MAGNAME.DAT#161/description"
+msgid "特殊物理行動　威力100　0〜1回攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:162
+msgctxt "MAGNAME.DAT#162/name"
+msgid "デスバウンド"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:162
+msgctxt "MAGNAME.DAT#162/description"
+msgid "特殊物理行動　威力24　0〜7回攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:163
+msgctxt "MAGNAME.DAT#163/name"
+msgid "ベノンザッパー"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:163
+msgctxt "MAGNAME.DAT#163/description"
+msgid ""
+"特殊物理行動　威力15　2〜4回攻撃\n"
+"POISONの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:164
+msgctxt "MAGNAME.DAT#164/name"
+msgid "だいせつだん"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:164
+msgctxt "MAGNAME.DAT#164/description"
+msgid "特殊物理行動　威力80"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:165
+msgctxt "MAGNAME.DAT#165/name"
+msgid "マッハづき"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:165
+msgctxt "MAGNAME.DAT#165/description"
+msgid "特殊物理行動　威力12　0〜7回攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:166
+msgctxt "MAGNAME.DAT#166/name"
+msgid "くしざし"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:166
+msgctxt "MAGNAME.DAT#166/description"
+msgid "特殊物理行動　威力30　前列／後列攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:167
+msgctxt "MAGNAME.DAT#167/name"
+msgid "こっぱみじんぎり"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#191.
+#: MAGNAME.DAT:167
+msgctxt "MAGNAME.DAT#167/description"
+msgid "特殊物理行動　威力22　0〜7回攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:168
+msgctxt "MAGNAME.DAT#168/name"
+msgid "かすみぎり"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:168
+msgctxt "MAGNAME.DAT#168/description"
+msgid "特殊物理行動　威力44　前列全体攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:169
+msgctxt "MAGNAME.DAT#169/name"
+msgid "いなづまぎり"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:169
+msgctxt "MAGNAME.DAT#169/description"
+msgid ""
+"特殊物理行動　威力120　0〜1回攻撃\n"
+"SHOCKの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:170
+msgctxt "MAGNAME.DAT#170/name"
+msgid "しっぷうじんらい"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:170
+msgctxt "MAGNAME.DAT#170/description"
+msgid ""
+"特殊物理行動　威力20　0〜1回攻撃\n"
+"BINDの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:171
+msgctxt "MAGNAME.DAT#171/name"
+msgid "100にんぎり"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:171
+msgctxt "MAGNAME.DAT#171/description"
+msgid "特殊物理行動　威力32　全体攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:172
+msgctxt "MAGNAME.DAT#172/name"
+msgid "きょくうざんぱ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:172
+msgctxt "MAGNAME.DAT#172/description"
+msgid "特殊物理行動　威力54　前列／後列攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:173
+msgctxt "MAGNAME.DAT#173/name"
+msgid "ジャンピングニー"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:173
+msgctxt "MAGNAME.DAT#173/description"
+msgid "特殊物理行動　威力10　0〜1回攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:174
+msgctxt "MAGNAME.DAT#174/name"
+msgid "バルカンキック"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:174
+msgctxt "MAGNAME.DAT#174/description"
+msgid "特殊物理行動　威力3　2〜7回攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:175
+msgctxt "MAGNAME.DAT#175/name"
+msgid "スタンクラッシュ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:175
+msgctxt "MAGNAME.DAT#175/description"
+msgid ""
+"特殊物理行動　威力8　全体攻撃\n"
+"SHOCKの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:176
+msgctxt "MAGNAME.DAT#176/name"
+msgid "とびひざげり"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#192.
+#: MAGNAME.DAT:176
+msgctxt "MAGNAME.DAT#176/description"
+msgid "特殊物理行動　威力10"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:177
+msgctxt "MAGNAME.DAT#177/name"
+msgid "メテオフィスト"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:177
+msgctxt "MAGNAME.DAT#177/description"
+msgid "特殊物理行動　威力7　3〜6回攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:178
+msgctxt "MAGNAME.DAT#178/name"
+msgid "ぐんろうけん"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:178
+msgctxt "MAGNAME.DAT#178/description"
+msgid "特殊物理行動　威力12　前列全体攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:179
+msgctxt "MAGNAME.DAT#179/name"
+msgid "じごくづき"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:179
+msgctxt "MAGNAME.DAT#179/description"
+msgid ""
+"特殊物理行動　威力10　0〜1回攻撃\n"
+"CLOSEの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:180
+msgctxt "MAGNAME.DAT#180/name"
+msgid "コーズニフェクト"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#208.
+#: MAGNAME.DAT:180
+msgctxt "MAGNAME.DAT#180/description"
+msgid "特殊物理行動　威力50"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:181
+msgctxt "MAGNAME.DAT#181/name"
+msgid "スクリュスラップ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:181
+msgctxt "MAGNAME.DAT#181/description"
+msgid "特殊物理行動　威力25　0〜7回攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:182
+msgctxt "MAGNAME.DAT#182/name"
+msgid "ひきさき"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:182
+msgctxt "MAGNAME.DAT#182/description"
+msgid "特殊物理行動　威力10　1〜2回攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:183
+msgctxt "MAGNAME.DAT#183/name"
+msgid "どくひっかき"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:183
+msgctxt "MAGNAME.DAT#183/description"
+msgid ""
+"特殊物理行動　威力10　2回攻撃\n"
+"POISONの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:184
+msgctxt "MAGNAME.DAT#184/name"
+msgid "まひひっかき"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:184
+msgctxt "MAGNAME.DAT#184/description"
+msgid ""
+"特殊物理行動　威力5　0〜2回攻撃\n"
+"PALYZEの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:185
+msgctxt "MAGNAME.DAT#185/name"
+msgid "はばたき"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:185
+msgctxt "MAGNAME.DAT#185/description"
+msgid "特殊物理行動　威力6　全体攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:186
+msgctxt "MAGNAME.DAT#186/name"
+msgid "ベノンニードル"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:186
+msgctxt "MAGNAME.DAT#186/description"
+msgid ""
+"特殊物理行動　威力9　前列全体攻撃\n"
+"POISONの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:187
+msgctxt "MAGNAME.DAT#187/name"
+msgid "パララニードル"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:187
+msgctxt "MAGNAME.DAT#187/description"
+msgid ""
+"特殊物理行動　威力4　前列全体攻撃\n"
+"PALYZEの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:188
+msgctxt "MAGNAME.DAT#188/name"
+msgid "ミンチニードル"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:188
+msgctxt "MAGNAME.DAT#188/description"
+msgid "特殊物理行動　威力20　前列全体攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:189
+msgctxt "MAGNAME.DAT#189/name"
+msgid "ねらいうち"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#198.
+#: MAGNAME.DAT:189
+msgctxt "MAGNAME.DAT#189/description"
+msgid "特殊物理行動　威力20"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:190
+msgctxt "MAGNAME.DAT#190/name"
+msgid "みだれうち"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:190
+msgctxt "MAGNAME.DAT#190/description"
+msgid "特殊物理行動　威力16　前列／後列に攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:191
+msgctxt "MAGNAME.DAT#191/name"
+msgid "かずうちゃあたる"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#167.
+#: MAGNAME.DAT:191
+msgctxt "MAGNAME.DAT#191/description"
+msgid "特殊物理行動　威力22　0〜7回攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:192
+msgctxt "MAGNAME.DAT#192/name"
+msgid "ついばみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#176.
+#: MAGNAME.DAT:192
+msgctxt "MAGNAME.DAT#192/description"
+msgid "特殊物理行動　威力10"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:193
+msgctxt "MAGNAME.DAT#193/name"
+msgid "バードギムレット"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:193
+msgctxt "MAGNAME.DAT#193/description"
+msgid "殊物理行動　威力15"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:194
+msgctxt "MAGNAME.DAT#194/name"
+msgid "かみちぎり"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:194
+msgctxt "MAGNAME.DAT#194/description"
+msgid "特殊物理行動　威力5　2〜4回攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:195
+msgctxt "MAGNAME.DAT#195/name"
+msgid "スパイラルバイト"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:195
+msgctxt "MAGNAME.DAT#195/description"
+msgid "特殊物理行動　威力15"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:196
+msgctxt "MAGNAME.DAT#196/name"
+msgid "たいあたり"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:196
+msgctxt "MAGNAME.DAT#196/description"
+msgid "特殊物理行動　威力20　2〜3回攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:197
+msgctxt "MAGNAME.DAT#197/name"
+msgid "ラリアット"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:197
+msgctxt "MAGNAME.DAT#197/description"
+msgid "特殊物理行動　威力40　0〜1回攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:198
+msgctxt "MAGNAME.DAT#198/name"
+msgid "ギロチンヒール"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#189.
+#: MAGNAME.DAT:198
+msgctxt "MAGNAME.DAT#198/description"
+msgid "特殊物理行動　威力20"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:199
+msgctxt "MAGNAME.DAT#199/name"
+msgid "どくかみつき"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:199
+msgctxt "MAGNAME.DAT#199/description"
+msgid ""
+"特殊物理行動　威力15\n"
+"POISONの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:200
+msgctxt "MAGNAME.DAT#200/name"
+msgid "みわくかみつき"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:200
+msgctxt "MAGNAME.DAT#200/description"
+msgid ""
+"特殊物理行動　威力10　0〜1回攻撃\n"
+"CHARMの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:201
+msgctxt "MAGNAME.DAT#201/name"
+msgid "せきかかみつき"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:201
+msgctxt "MAGNAME.DAT#201/description"
+msgid ""
+"特殊物理行動　威力16　0〜1回攻撃\n"
+"STONEの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:202
+msgctxt "MAGNAME.DAT#202/name"
+msgid "エーテルメイス"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:202
+msgctxt "MAGNAME.DAT#202/description"
+msgid ""
+"特殊物理行動　威力20　全体攻撃\n"
+"PALYZEの効果"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:203
+msgctxt "MAGNAME.DAT#203/name"
+msgid "フレアーラッシュ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:203
+msgctxt "MAGNAME.DAT#203/description"
+msgid "特殊物理行動　威力16　0〜7回攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:204
+msgctxt "MAGNAME.DAT#204/name"
+msgid "ランブルラッシュ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:204
+msgctxt "MAGNAME.DAT#204/description"
+msgid "特殊物理行動　威力12　全体攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:205
+msgctxt "MAGNAME.DAT#205/name"
+msgid "ちまつり"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:205
+msgctxt "MAGNAME.DAT#205/description"
+msgid "特殊物理行動　威力15　0〜7回攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:206
+msgctxt "MAGNAME.DAT#206/name"
+msgid "しょうしゃくけん"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:206
+msgctxt "MAGNAME.DAT#206/description"
+msgid "特殊物理行動　威力20　全体攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:207
+msgctxt "MAGNAME.DAT#207/name"
+msgid "ばきゃくげり"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#107, MAGNAME.DAT#113, MAGNAME.DAT#120, MAGNAME.DAT#121,
+#. MAGNAME.DAT#122, MAGNAME.DAT#210 (+4 more).
+#: MAGNAME.DAT:207
+msgctxt "MAGNAME.DAT#207/description"
+msgid "敵のみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:208
+msgctxt "MAGNAME.DAT#208/name"
+msgid "からたけわり"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#180.
+#: MAGNAME.DAT:208
+msgctxt "MAGNAME.DAT#208/description"
+msgid "特殊物理行動　威力50"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:209
+msgctxt "MAGNAME.DAT#209/name"
+msgid "1とうりょうだん"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:209
+msgctxt "MAGNAME.DAT#209/description"
+msgid "特殊物理行動　威力38　前列全体攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:210
+msgctxt "MAGNAME.DAT#210/name"
+msgid "しめおとし"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#107, MAGNAME.DAT#113, MAGNAME.DAT#120, MAGNAME.DAT#121,
+#. MAGNAME.DAT#122, MAGNAME.DAT#207 (+4 more).
+#: MAGNAME.DAT:210
+msgctxt "MAGNAME.DAT#210/description"
+msgid "敵のみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:211
+msgctxt "MAGNAME.DAT#211/name"
+msgid "キリングステップ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#107, MAGNAME.DAT#113, MAGNAME.DAT#120, MAGNAME.DAT#121,
+#. MAGNAME.DAT#122, MAGNAME.DAT#207 (+4 more).
+#: MAGNAME.DAT:211
+msgctxt "MAGNAME.DAT#211/description"
+msgid "敵のみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:212
+msgctxt "MAGNAME.DAT#212/name"
+msgid "はっそうとび"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:212
+msgctxt "MAGNAME.DAT#212/description"
+msgid "特殊物理行動　威力80　全体攻撃"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:213
+msgctxt "MAGNAME.DAT#213/name"
+msgid "まるかじり"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#107, MAGNAME.DAT#113, MAGNAME.DAT#120, MAGNAME.DAT#121,
+#. MAGNAME.DAT#122, MAGNAME.DAT#207 (+4 more).
+#: MAGNAME.DAT:213
+msgctxt "MAGNAME.DAT#213/description"
+msgid "敵のみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:214
+msgctxt "MAGNAME.DAT#214/name"
+msgid "まるのみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#107, MAGNAME.DAT#113, MAGNAME.DAT#120, MAGNAME.DAT#121,
+#. MAGNAME.DAT#122, MAGNAME.DAT#207 (+4 more).
+#: MAGNAME.DAT:214
+msgctxt "MAGNAME.DAT#214/description"
+msgid "敵のみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:215
+msgctxt "MAGNAME.DAT#215/name"
+msgid "にくたいのあくま"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#108, MAGNAME.DAT#109, MAGNAME.DAT#110, MAGNAME.DAT#112,
+#. MAGNAME.DAT#114, MAGNAME.DAT#123 (+8 more).
+#: MAGNAME.DAT:215
+msgctxt "MAGNAME.DAT#215/description"
+msgid "ボスのみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:216
+msgctxt "MAGNAME.DAT#216/name"
+msgid "かいなのひとふり"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#108, MAGNAME.DAT#109, MAGNAME.DAT#110, MAGNAME.DAT#112,
+#. MAGNAME.DAT#114, MAGNAME.DAT#123 (+8 more).
+#: MAGNAME.DAT:216
+msgctxt "MAGNAME.DAT#216/description"
+msgid "ボスのみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:217
+msgctxt "MAGNAME.DAT#217/name"
+msgid "にくだん"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:217
+msgctxt "MAGNAME.DAT#217/description"
+msgid ""
+"特殊物理行動　威力98\n"
+"術者の命とひきかえに敵1体へ大ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:218
+msgctxt "MAGNAME.DAT#218/name"
+msgid "さんげ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:218
+msgctxt "MAGNAME.DAT#218/description"
+msgid ""
+"特殊物理行動　威力150　全体攻撃\n"
+"術者の命とひきかえに敵全体へ大ダメージ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:219
+msgctxt "MAGNAME.DAT#219/name"
+msgid "たたみがえし"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:219
+msgctxt "MAGNAME.DAT#219/description"
+msgid ""
+"特殊物理行動　全体\n"
+"物理攻撃を1ターン防ぐ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:220
+msgctxt "MAGNAME.DAT#220/name"
+msgid "フリフリウォール"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:220
+msgctxt "MAGNAME.DAT#220/description"
+msgid ""
+"特殊物理行動　全体\n"
+"魔法攻撃を1ターン防ぎ敵に反射"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:221
+msgctxt "MAGNAME.DAT#221/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:221
+msgctxt "MAGNAME.DAT#221/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:222
+msgctxt "MAGNAME.DAT#222/name"
+msgid "にげる"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#107, MAGNAME.DAT#113, MAGNAME.DAT#120, MAGNAME.DAT#121,
+#. MAGNAME.DAT#122, MAGNAME.DAT#207 (+4 more).
+#: MAGNAME.DAT:222
+msgctxt "MAGNAME.DAT#222/description"
+msgid "敵のみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:223
+msgctxt "MAGNAME.DAT#223/name"
+msgid "ぜつめつはけん"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#108, MAGNAME.DAT#109, MAGNAME.DAT#110, MAGNAME.DAT#112,
+#. MAGNAME.DAT#114, MAGNAME.DAT#123 (+8 more).
+#: MAGNAME.DAT:223
+msgctxt "MAGNAME.DAT#223/description"
+msgid "ボスのみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:224
+msgctxt "MAGNAME.DAT#224/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:224
+msgctxt "MAGNAME.DAT#224/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:225
+msgctxt "MAGNAME.DAT#225/name"
+msgid "むじょうのまい"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#108, MAGNAME.DAT#109, MAGNAME.DAT#110, MAGNAME.DAT#112,
+#. MAGNAME.DAT#114, MAGNAME.DAT#123 (+8 more).
+#: MAGNAME.DAT:225
+msgctxt "MAGNAME.DAT#225/description"
+msgid "ボスのみ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: MAGNAME.DAT:226
+msgctxt "MAGNAME.DAT#226/name"
+msgid "やすむ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: MAGNAME.DAT:226
+msgctxt "MAGNAME.DAT#226/description"
+msgid ""
+"特殊物理行動　術者\n"
+"使用HPの3倍を回復"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:227
+msgctxt "MAGNAME.DAT#227/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:227
+msgctxt "MAGNAME.DAT#227/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:228
+msgctxt "MAGNAME.DAT#228/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:228
+msgctxt "MAGNAME.DAT#228/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:229
+msgctxt "MAGNAME.DAT#229/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:229
+msgctxt "MAGNAME.DAT#229/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:230
+msgctxt "MAGNAME.DAT#230/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:230
+msgctxt "MAGNAME.DAT#230/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:231
+msgctxt "MAGNAME.DAT#231/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:231
+msgctxt "MAGNAME.DAT#231/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:232
+msgctxt "MAGNAME.DAT#232/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:232
+msgctxt "MAGNAME.DAT#232/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:233
+msgctxt "MAGNAME.DAT#233/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:233
+msgctxt "MAGNAME.DAT#233/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:234
+msgctxt "MAGNAME.DAT#234/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:234
+msgctxt "MAGNAME.DAT#234/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:235
+msgctxt "MAGNAME.DAT#235/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:235
+msgctxt "MAGNAME.DAT#235/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:236
+msgctxt "MAGNAME.DAT#236/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:236
+msgctxt "MAGNAME.DAT#236/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:237
+msgctxt "MAGNAME.DAT#237/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:237
+msgctxt "MAGNAME.DAT#237/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:238
+msgctxt "MAGNAME.DAT#238/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:238
+msgctxt "MAGNAME.DAT#238/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:239
+msgctxt "MAGNAME.DAT#239/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:239
+msgctxt "MAGNAME.DAT#239/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:240
+msgctxt "MAGNAME.DAT#240/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:240
+msgctxt "MAGNAME.DAT#240/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:241
+msgctxt "MAGNAME.DAT#241/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:241
+msgctxt "MAGNAME.DAT#241/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:242
+msgctxt "MAGNAME.DAT#242/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:242
+msgctxt "MAGNAME.DAT#242/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:243
+msgctxt "MAGNAME.DAT#243/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:243
+msgctxt "MAGNAME.DAT#243/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:244
+msgctxt "MAGNAME.DAT#244/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:244
+msgctxt "MAGNAME.DAT#244/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:245
+msgctxt "MAGNAME.DAT#245/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:245
+msgctxt "MAGNAME.DAT#245/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:246
+msgctxt "MAGNAME.DAT#246/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:246
+msgctxt "MAGNAME.DAT#246/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:247
+msgctxt "MAGNAME.DAT#247/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:247
+msgctxt "MAGNAME.DAT#247/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:248
+msgctxt "MAGNAME.DAT#248/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:248
+msgctxt "MAGNAME.DAT#248/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:249
+msgctxt "MAGNAME.DAT#249/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:249
+msgctxt "MAGNAME.DAT#249/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:250
+msgctxt "MAGNAME.DAT#250/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:250
+msgctxt "MAGNAME.DAT#250/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:251
+msgctxt "MAGNAME.DAT#251/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:251
+msgctxt "MAGNAME.DAT#251/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:252
+msgctxt "MAGNAME.DAT#252/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:252
+msgctxt "MAGNAME.DAT#252/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:253
+msgctxt "MAGNAME.DAT#253/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:253
+msgctxt "MAGNAME.DAT#253/description"
+msgid "ミテイ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: MAGNAME.DAT:254
+msgctxt "MAGNAME.DAT#254/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Spell names (8-letter field) and one-line spell descriptions.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: MAGNAME.DAT#124, MAGNAME.DAT#126, MAGNAME.DAT#128, MAGNAME.DAT#140,
+#. MAGNAME.DAT#143, MAGNAME.DAT#144 (+43 more).
+#: MAGNAME.DAT:254
+msgctxt "MAGNAME.DAT#254/description"
+msgid "ミテイ"
+msgstr ""

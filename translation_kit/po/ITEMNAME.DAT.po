@@ -1,0 +1,5092 @@
+# Shin Megami Tensei: Devil Summoner (Sega Saturn, 1995): Japanese script for translation.
+# Source: the project's extraction of the original Japanese text (Japan Rev A disc).
+# File: ITEMNAME.DAT
+# One entry per message. msgctxt is the line ID; keep it unchanged.
+# msgid is the original Japanese (do not edit). Write the translation in msgstr.
+# See README_translator.md for tags, limits and the story overview.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Devil Summoner Saturn ITEMNAME.DAT\n"
+"POT-Creation-Date: 2026-10-15 00:00+0000\n"
+"Language: en\n"
+"X-Source-Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:0
+msgctxt "ITEMNAME.DAT#0/name"
+msgid "アセイミーナイフ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:0
+msgctxt "ITEMNAME.DAT#0/description"
+msgid "攻撃力7　命中5　1〜2回　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:1
+msgctxt "ITEMNAME.DAT#1/name"
+msgid "ランドールナイフ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:1
+msgctxt "ITEMNAME.DAT#1/description"
+msgid "攻撃力18　命中7　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:2
+msgctxt "ITEMNAME.DAT#2/name"
+msgid "ジャンビーヤ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:2
+msgctxt "ITEMNAME.DAT#2/description"
+msgid "攻撃力10　命中8　2〜3回　♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:3
+msgctxt "ITEMNAME.DAT#3/name"
+msgid "てっせん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:3
+msgctxt "ITEMNAME.DAT#3/description"
+msgid "攻撃力30　命中9　0〜1回　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:4
+msgctxt "ITEMNAME.DAT#4/name"
+msgid "カタール"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:4
+msgctxt "ITEMNAME.DAT#4/description"
+msgid "攻撃力20　命中10　1〜2回　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:5
+msgctxt "ITEMNAME.DAT#5/name"
+msgid "しょうしんらい"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:5
+msgctxt "ITEMNAME.DAT#5/description"
+msgid "攻撃力13　命中15　2回　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:6
+msgctxt "ITEMNAME.DAT#6/name"
+msgid "かわりじゅって"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:6
+msgctxt "ITEMNAME.DAT#6/description"
+msgid "攻撃力18　命中7　2〜3回　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:7
+msgctxt "ITEMNAME.DAT#7/name"
+msgid "かぶとわり"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:7
+msgctxt "ITEMNAME.DAT#7/description"
+msgid "攻撃力30　命中6　0〜1回　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:8
+msgctxt "ITEMNAME.DAT#8/name"
+msgid "れんちがん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:8
+msgctxt "ITEMNAME.DAT#8/description"
+msgid ""
+"攻撃力22　命中32　0〜2回　♀\n"
+"POISONの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:9
+msgctxt "ITEMNAME.DAT#9/name"
+msgid "れんそうきけん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:9
+msgctxt "ITEMNAME.DAT#9/description"
+msgid "攻撃力32　命中10　0〜1回　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:10
+msgctxt "ITEMNAME.DAT#10/name"
+msgid "ろはんじゃく"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:10
+msgctxt "ITEMNAME.DAT#10/description"
+msgid ""
+"攻撃力28　命中20　0〜2回　♂♀\n"
+"BINDの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:11
+msgctxt "ITEMNAME.DAT#11/name"
+msgid "コテツブレード"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:11
+msgctxt "ITEMNAME.DAT#11/description"
+msgid "攻撃力45　命中35　1〜2回　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:12
+msgctxt "ITEMNAME.DAT#12/name"
+msgid "マサムネブレード"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:12
+msgctxt "ITEMNAME.DAT#12/description"
+msgid "攻撃力70　命中28　0〜2回　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:13
+msgctxt "ITEMNAME.DAT#13/name"
+msgid "ヤスツナブレード"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:13
+msgctxt "ITEMNAME.DAT#13/description"
+msgid "攻撃力160　命中20　0〜1回　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:14
+msgctxt "ITEMNAME.DAT#14/name"
+msgid "チタンショテル"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:14
+msgctxt "ITEMNAME.DAT#14/description"
+msgid "攻撃力33　命中45　2〜4回　♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:15
+msgctxt "ITEMNAME.DAT#15/name"
+msgid "カザックナイフ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:15
+msgctxt "ITEMNAME.DAT#15/description"
+msgid "攻撃力115　命中15　0〜1回　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:16
+msgctxt "ITEMNAME.DAT#16/name"
+msgid "ヤシャぬんちゃく"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:16
+msgctxt "ITEMNAME.DAT#16/description"
+msgid "攻撃力28　命中19　3〜5回　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:17
+msgctxt "ITEMNAME.DAT#17/name"
+msgid "ヘヴィザグナル"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:17
+msgctxt "ITEMNAME.DAT#17/description"
+msgid "攻撃力120　命中21　0〜1回　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:18
+msgctxt "ITEMNAME.DAT#18/name"
+msgid "きしんのてってき"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:18
+msgctxt "ITEMNAME.DAT#18/description"
+msgid "攻撃力34　命中8　3〜5回　♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:19
+msgctxt "ITEMNAME.DAT#19/name"
+msgid "さんこえけん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:19
+msgctxt "ITEMNAME.DAT#19/description"
+msgid "攻撃力64　命中27　1〜3回　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:20
+msgctxt "ITEMNAME.DAT#20/name"
+msgid "おにぼうちょう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:20
+msgctxt "ITEMNAME.DAT#20/description"
+msgid "攻撃力74　命中67　2回　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:21
+msgctxt "ITEMNAME.DAT#21/name"
+msgid "チェインバスター"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:21
+msgctxt "ITEMNAME.DAT#21/description"
+msgid ""
+"攻撃力62　命中22　0〜2回　♂\n"
+"PANICの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:22
+msgctxt "ITEMNAME.DAT#22/name"
+msgid "ラビドリホーンズ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:22
+msgctxt "ITEMNAME.DAT#22/description"
+msgid "攻撃力35　命中70　前列全体　♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:23
+msgctxt "ITEMNAME.DAT#23/name"
+msgid "もものぼっけん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:23
+msgctxt "ITEMNAME.DAT#23/description"
+msgid ""
+"攻撃力90　命中19　0〜1回　♂♀\n"
+"SHOCKの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:24
+msgctxt "ITEMNAME.DAT#24/name"
+msgid "くりゅうはけん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:24
+msgctxt "ITEMNAME.DAT#24/description"
+msgid "攻撃力96　命中20　2回　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:25
+msgctxt "ITEMNAME.DAT#25/name"
+msgid "カイザーソード"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:25
+msgctxt "ITEMNAME.DAT#25/description"
+msgid "攻撃力90　命中90　前列全体　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:26
+msgctxt "ITEMNAME.DAT#26/name"
+msgid "てんほうていは"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:26
+msgctxt "ITEMNAME.DAT#26/description"
+msgid "攻撃力115　命中53　2回　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:27
+msgctxt "ITEMNAME.DAT#27/name"
+msgid "ヴァジュラメイス"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:27
+msgctxt "ITEMNAME.DAT#27/description"
+msgid "攻撃力76　命中39　2〜4回　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:28
+msgctxt "ITEMNAME.DAT#28/name"
+msgid "オリハルコンパタ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:28
+msgctxt "ITEMNAME.DAT#28/description"
+msgid "攻撃力66　命中70　3〜5回　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:29
+msgctxt "ITEMNAME.DAT#29/name"
+msgid "デスサイズ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:29
+msgctxt "ITEMNAME.DAT#29/description"
+msgid ""
+"攻撃力60　命中8　0〜2回　♂♀\n"
+"CLOSEの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:30
+msgctxt "ITEMNAME.DAT#30/name"
+msgid "エクスゼスソード"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:30
+msgctxt "ITEMNAME.DAT#30/description"
+msgid ""
+"攻撃力113　命中12　1〜3回　♂♀\n"
+"BINDの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:31
+msgctxt "ITEMNAME.DAT#31/name"
+msgid "ガリアン・ソード"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:31
+msgctxt "ITEMNAME.DAT#31/description"
+msgid "攻撃力117　命中40　前列全体　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:32
+msgctxt "ITEMNAME.DAT#32/name"
+msgid "プラズナーソード"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:32
+msgctxt "ITEMNAME.DAT#32/description"
+msgid "攻撃力74　命中60　3〜5回　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:33
+msgctxt "ITEMNAME.DAT#33/name"
+msgid "おにまるのたち"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:33
+msgctxt "ITEMNAME.DAT#33/description"
+msgid "攻撃力158　命中51　2〜3回　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:34
+msgctxt "ITEMNAME.DAT#34/name"
+msgid "ソードトマホーク"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:34
+msgctxt "ITEMNAME.DAT#34/description"
+msgid "攻撃力161　命中45　2回　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:35
+msgctxt "ITEMNAME.DAT#35/name"
+msgid "ざんばとう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:35
+msgctxt "ITEMNAME.DAT#35/description"
+msgid "攻撃力132　命中40　前列全体　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:36
+msgctxt "ITEMNAME.DAT#36/name"
+msgid "マルジアムアクス"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:36
+msgctxt "ITEMNAME.DAT#36/description"
+msgid "攻撃力170　命中10　2回　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:37
+msgctxt "ITEMNAME.DAT#37/name"
+msgid "りゅうがとう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:37
+msgctxt "ITEMNAME.DAT#37/description"
+msgid ""
+"攻撃力170　命中20　0〜1回　♂\n"
+"SHOCKの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:38
+msgctxt "ITEMNAME.DAT#38/name"
+msgid "ピクシーナイフ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:38
+msgctxt "ITEMNAME.DAT#38/description"
+msgid ""
+"攻撃力30　命中25　0〜7回　♀\n"
+"妖精ピクシーの親愛がこもる"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:39
+msgctxt "ITEMNAME.DAT#39/name"
+msgid "シャドゥジャック"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:39
+msgctxt "ITEMNAME.DAT#39/description"
+msgid ""
+"攻撃力46　命中40　3〜5回　♂\n"
+"魔獣ヘアリージャックの忠魂が主人を守る"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:40
+msgctxt "ITEMNAME.DAT#40/name"
+msgid "がろうせん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:40
+msgctxt "ITEMNAME.DAT#40/description"
+msgid ""
+"攻撃力37　命中15　♂♀\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:41
+msgctxt "ITEMNAME.DAT#41/name"
+msgid "こんごうじょう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:41
+msgctxt "ITEMNAME.DAT#41/description"
+msgid ""
+"攻撃力128　命中30　0〜1回　♂\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:42
+msgctxt "ITEMNAME.DAT#42/name"
+msgid "やそくちょうとう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:42
+msgctxt "ITEMNAME.DAT#42/description"
+msgid ""
+"攻撃力34　命中60　0〜7回　♀\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:43
+msgctxt "ITEMNAME.DAT#43/name"
+msgid "トライランス"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:43
+msgctxt "ITEMNAME.DAT#43/description"
+msgid ""
+"攻撃力38　命中50　0〜2回　♂\n"
+"SHOCKの効果／後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:44
+msgctxt "ITEMNAME.DAT#44/name"
+msgid "そうりつそうそう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:44
+msgctxt "ITEMNAME.DAT#44/description"
+msgid ""
+"攻撃力166　命中8　0〜2回　♀\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:45
+msgctxt "ITEMNAME.DAT#45/name"
+msgid "ヒートグレイプ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:45
+msgctxt "ITEMNAME.DAT#45/description"
+msgid ""
+"攻撃力193　命中50　♂♀\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:46
+msgctxt "ITEMNAME.DAT#46/name"
+msgid "タクヒのつえ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:46
+msgctxt "ITEMNAME.DAT#46/description"
+msgid ""
+"攻撃力42　命中12　2〜3回　♀\n"
+"妖鳥タクヒの魂が宿る／後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:47
+msgctxt "ITEMNAME.DAT#47/name"
+msgid "ゲイボルグ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:47
+msgctxt "ITEMNAME.DAT#47/description"
+msgid ""
+"攻撃力60　命中32　3〜5回　♂♀\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:48
+msgctxt "ITEMNAME.DAT#48/name"
+msgid "こうまじょう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:48
+msgctxt "ITEMNAME.DAT#48/description"
+msgid ""
+"攻撃力42　命中32　2〜3回　♂♀\n"
+"CLOSEの効果／後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:49
+msgctxt "ITEMNAME.DAT#49/name"
+msgid "ズフタフのやり"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:49
+msgctxt "ITEMNAME.DAT#49/description"
+msgid ""
+"攻撃力32　命中32　2回　♂♀\n"
+"BINDの効果／後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:50
+msgctxt "ITEMNAME.DAT#50/name"
+msgid "ベルセルクパイル"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:50
+msgctxt "ITEMNAME.DAT#50/description"
+msgid ""
+"攻撃力26　命中24　2回　♂\n"
+"妖鬼ベルセルクの化身／後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:51
+msgctxt "ITEMNAME.DAT#51/name"
+msgid "かせんそう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:51
+msgctxt "ITEMNAME.DAT#51/description"
+msgid ""
+"攻撃力116　命中33　0〜7回　♂♀\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:52
+msgctxt "ITEMNAME.DAT#52/name"
+msgid "ローゼスロッド"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:52
+msgctxt "ITEMNAME.DAT#52/description"
+msgid "攻撃力10　命中8　前列全体　♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:53
+msgctxt "ITEMNAME.DAT#53/name"
+msgid "ふあっそお"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:53
+msgctxt "ITEMNAME.DAT#53/description"
+msgid "攻撃力12　命中11　前列全体　♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:54
+msgctxt "ITEMNAME.DAT#54/name"
+msgid "りゅうづしょぼう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:54
+msgctxt "ITEMNAME.DAT#54/description"
+msgid "攻撃力21　命中27　前列全体　♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:55
+msgctxt "ITEMNAME.DAT#55/name"
+msgid "きゅうせつべん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:55
+msgctxt "ITEMNAME.DAT#55/description"
+msgid ""
+"攻撃力16　命中18　前列全体　♀\n"
+"BINDの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:56
+msgctxt "ITEMNAME.DAT#56/name"
+msgid "ヒートウィップ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:56
+msgctxt "ITEMNAME.DAT#56/description"
+msgid ""
+"攻撃力18　命中53　前列全体　♀\n"
+"SHOCKの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:57
+msgctxt "ITEMNAME.DAT#57/name"
+msgid "けんさく"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:57
+msgctxt "ITEMNAME.DAT#57/description"
+msgid "攻撃力104　命中8　前列全体　♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:58
+msgctxt "ITEMNAME.DAT#58/name"
+msgid "ビームウィップ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:58
+msgctxt "ITEMNAME.DAT#58/description"
+msgid "攻撃力160　命中45　前列全体　♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:59
+msgctxt "ITEMNAME.DAT#59/name"
+msgid "ヤマタのじゃべん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:59
+msgctxt "ITEMNAME.DAT#59/description"
+msgid ""
+"攻撃力64　命中54　敵全体　♀\n"
+"龍王ヤマタノオロチの怒りが敵を打ち払う"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:60
+msgctxt "ITEMNAME.DAT#60/name"
+msgid "チャクラム"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:60
+msgctxt "ITEMNAME.DAT#60/description"
+msgid ""
+"攻撃力24　命中10　前列／後列　♀\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:61
+msgctxt "ITEMNAME.DAT#61/name"
+msgid "てつえんおう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:61
+msgctxt "ITEMNAME.DAT#61/description"
+msgid ""
+"攻撃力64　命中41　前列／後列　♀\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:62
+msgctxt "ITEMNAME.DAT#62/name"
+msgid "ビームホイール"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:62
+msgctxt "ITEMNAME.DAT#62/description"
+msgid ""
+"攻撃力76　命中51　前列／後列　♀\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:63
+msgctxt "ITEMNAME.DAT#63/name"
+msgid "ビガラのほうりん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:63
+msgctxt "ITEMNAME.DAT#63/description"
+msgid ""
+"攻撃力32　命中24　前列／後列　♀\n"
+"BINDの効果／後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:64
+msgctxt "ITEMNAME.DAT#64/name"
+msgid "むめいのかたな"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:64
+msgctxt "ITEMNAME.DAT#64/description"
+msgid "攻撃力10　命中5　0〜1回　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:65
+msgctxt "ITEMNAME.DAT#65/name"
+msgid "しちせいけん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:65
+msgctxt "ITEMNAME.DAT#65/description"
+msgid "攻撃力24　命中12　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:66
+msgctxt "ITEMNAME.DAT#66/name"
+msgid "くりからのこだち"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:66
+msgctxt "ITEMNAME.DAT#66/description"
+msgid "攻撃力20　命中45　2〜3回　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:67
+msgctxt "ITEMNAME.DAT#67/name"
+msgid "じゃがとう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:67
+msgctxt "ITEMNAME.DAT#67/description"
+msgid ""
+"攻撃力15　命中28　1〜2回　♂♀\n"
+"POISONの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:68
+msgctxt "ITEMNAME.DAT#68/name"
+msgid "くびかりマンダウ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:68
+msgctxt "ITEMNAME.DAT#68/description"
+msgid ""
+"攻撃力22　命中70　♂♀\n"
+"CLOSEの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:69
+msgctxt "ITEMNAME.DAT#69/name"
+msgid "ヤミカゼのくない"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:69
+msgctxt "ITEMNAME.DAT#69/description"
+msgid "攻撃力20　命中87　敵全体　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:70
+msgctxt "ITEMNAME.DAT#70/name"
+msgid "れんきのけん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:70
+msgctxt "ITEMNAME.DAT#70/description"
+msgid "攻撃力101　命中40　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:71
+msgctxt "ITEMNAME.DAT#71/name"
+msgid "むらさめまる"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:71
+msgctxt "ITEMNAME.DAT#71/description"
+msgid ""
+"攻撃力98　命中50　0〜1回　♂♀\n"
+"FREEZEの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:72
+msgctxt "ITEMNAME.DAT#72/name"
+msgid "ようとうニヒル"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:72
+msgctxt "ITEMNAME.DAT#72/description"
+msgid ""
+"攻撃力12　命中32　0〜7回　♂\n"
+"BINDの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:73
+msgctxt "ITEMNAME.DAT#73/name"
+msgid "こくえんけん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:73
+msgctxt "ITEMNAME.DAT#73/description"
+msgid "攻撃力60　命中12　2〜4回　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:74
+msgctxt "ITEMNAME.DAT#74/name"
+msgid "けしょうおうじん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:74
+msgctxt "ITEMNAME.DAT#74/description"
+msgid "攻撃力111　命中65　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:75
+msgctxt "ITEMNAME.DAT#75/name"
+msgid "ざんかんけん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:75
+msgctxt "ITEMNAME.DAT#75/description"
+msgid ""
+"攻撃力64　命中24　2回　♂♀\n"
+"BINDの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:76
+msgctxt "ITEMNAME.DAT#76/name"
+msgid "ごかしんえんせん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:76
+msgctxt "ITEMNAME.DAT#76/description"
+msgid ""
+"攻撃力34　命中65　2〜4回　♂♀\n"
+"SHOCKの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:77
+msgctxt "ITEMNAME.DAT#77/name"
+msgid "ごうれつとう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:77
+msgctxt "ITEMNAME.DAT#77/description"
+msgid "攻撃力201　命中70　1〜3回　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:78
+msgctxt "ITEMNAME.DAT#78/name"
+msgid "くさなぎのつるぎ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:78
+msgctxt "ITEMNAME.DAT#78/description"
+msgid "攻撃力180　命中58　1〜3回　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:79
+msgctxt "ITEMNAME.DAT#79/name"
+msgid "きこうせいけん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:79
+msgctxt "ITEMNAME.DAT#79/description"
+msgid ""
+"攻撃力175　命中75　1〜3回　♂♀\n"
+"BINDの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:80
+msgctxt "ITEMNAME.DAT#80/name"
+msgid "にょいぼう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:80
+msgctxt "ITEMNAME.DAT#80/description"
+msgid "攻撃力130　命中80　敵全体　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:81
+msgctxt "ITEMNAME.DAT#81/name"
+msgid "トールハンマー"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:81
+msgctxt "ITEMNAME.DAT#81/description"
+msgid "攻撃力150　命中68　敵全体　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:82
+msgctxt "ITEMNAME.DAT#82/name"
+msgid "むひょうつきかげ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:82
+msgctxt "ITEMNAME.DAT#82/description"
+msgid "攻撃力170　命中90　0〜7回　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:83
+msgctxt "ITEMNAME.DAT#83/name"
+msgid "ようおうはけん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:83
+msgctxt "ITEMNAME.DAT#83/description"
+msgid ""
+"攻撃力255　命中12　2〜7回　♂♀\n"
+"PALYZEの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:84
+msgctxt "ITEMNAME.DAT#84/name"
+msgid "トカレフ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:84
+msgctxt "ITEMNAME.DAT#84/description"
+msgid ""
+"攻撃力24　命中8　0〜1回　♂♀\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:85
+msgctxt "ITEMNAME.DAT#85/name"
+msgid "レディ・スミス"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:85
+msgctxt "ITEMNAME.DAT#85/description"
+msgid ""
+"攻撃力20　命中15　♀\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:86
+msgctxt "ITEMNAME.DAT#86/name"
+msgid "デザートイーグル"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:86
+msgctxt "ITEMNAME.DAT#86/description"
+msgid ""
+"攻撃力30　命中12　♂\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:87
+msgctxt "ITEMNAME.DAT#87/name"
+msgid "アストラM902"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:87
+msgctxt "ITEMNAME.DAT#87/description"
+msgid ""
+"攻撃力30　命中23　2〜3回　♂♀\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:88
+msgctxt "ITEMNAME.DAT#88/name"
+msgid "ナンブ100しき"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:88
+msgctxt "ITEMNAME.DAT#88/description"
+msgid ""
+"攻撃力62　命中30　0〜7回　♂♀\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:89
+msgctxt "ITEMNAME.DAT#89/name"
+msgid "バスターショット"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:89
+msgctxt "ITEMNAME.DAT#89/description"
+msgid ""
+"攻撃力140　命中27　前列全体　♂\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:90
+msgctxt "ITEMNAME.DAT#90/name"
+msgid "サンダラーコルト"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:90
+msgctxt "ITEMNAME.DAT#90/description"
+msgid ""
+"攻撃力66　命中50　敵全体　♂\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:91
+msgctxt "ITEMNAME.DAT#91/name"
+msgid "ブルドッグ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:91
+msgctxt "ITEMNAME.DAT#91/description"
+msgid "攻撃力40　命中40　2〜4回　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:92
+msgctxt "ITEMNAME.DAT#92/name"
+msgid "SPAS12"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:92
+msgctxt "ITEMNAME.DAT#92/description"
+msgid "攻撃力50　命中42　3〜5回　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:93
+msgctxt "ITEMNAME.DAT#93/name"
+msgid "SPAS15"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:93
+msgctxt "ITEMNAME.DAT#93/description"
+msgid "攻撃力55　命中38　3〜6回　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:94
+msgctxt "ITEMNAME.DAT#94/name"
+msgid "ナックルブラスタ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:94
+msgctxt "ITEMNAME.DAT#94/description"
+msgid "攻撃力60　命中50　4〜6回　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:95
+msgctxt "ITEMNAME.DAT#95/name"
+msgid "スコーピオン"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:95
+msgctxt "ITEMNAME.DAT#95/description"
+msgid "攻撃力46　命中23　前列全体　♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:96
+msgctxt "ITEMNAME.DAT#96/name"
+msgid "ステアーTMP"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:96
+msgctxt "ITEMNAME.DAT#96/description"
+msgid "攻撃力58　命中34　前列全体　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:97
+msgctxt "ITEMNAME.DAT#97/name"
+msgid "ルガーMP9"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:97
+msgctxt "ITEMNAME.DAT#97/description"
+msgid "攻撃力80　命中41　前列全体　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:98
+msgctxt "ITEMNAME.DAT#98/name"
+msgid "イングラムM10"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:98
+msgctxt "ITEMNAME.DAT#98/description"
+msgid "攻撃力104　命中50　前列全体　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:99
+msgctxt "ITEMNAME.DAT#99/name"
+msgid "ジリオニウムガン"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:99
+msgctxt "ITEMNAME.DAT#99/description"
+msgid "攻撃力112　命中43　前列全体　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:100
+msgctxt "ITEMNAME.DAT#100/name"
+msgid "ドラグノフ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:100
+msgctxt "ITEMNAME.DAT#100/description"
+msgid ""
+"攻撃力65　命中66　♂♀\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:101
+msgctxt "ITEMNAME.DAT#101/name"
+msgid "タンクゲベール"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:101
+msgctxt "ITEMNAME.DAT#101/description"
+msgid ""
+"攻撃力200　命中52　0〜1回　♂\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:102
+msgctxt "ITEMNAME.DAT#102/name"
+msgid "バレットM90"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:102
+msgctxt "ITEMNAME.DAT#102/description"
+msgid ""
+"攻撃力135　命中50　0〜1回　♂\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:103
+msgctxt "ITEMNAME.DAT#103/name"
+msgid "ソロサーンS18"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:103
+msgctxt "ITEMNAME.DAT#103/description"
+msgid ""
+"攻撃力174　命中60　0〜1回　♂\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:104
+msgctxt "ITEMNAME.DAT#104/name"
+msgid "ネコパンチバズ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:104
+msgctxt "ITEMNAME.DAT#104/description"
+msgid ""
+"攻撃力240　命中28　0〜1回　♂♀\n"
+"魔獣ネコマタ愛の結晶／後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:105
+msgctxt "ITEMNAME.DAT#105/name"
+msgid "インサニティ・H"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:105
+msgctxt "ITEMNAME.DAT#105/description"
+msgid ""
+"攻撃力144　命中35　0〜7回　♂\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:106
+msgctxt "ITEMNAME.DAT#106/name"
+msgid "M16A2"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:106
+msgctxt "ITEMNAME.DAT#106/description"
+msgid ""
+"攻撃力48　命中30　前列全体　♂♀\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:107
+msgctxt "ITEMNAME.DAT#107/name"
+msgid "AK47"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:107
+msgctxt "ITEMNAME.DAT#107/description"
+msgid ""
+"攻撃力80　命中27　前列全体　♂♀\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:108
+msgctxt "ITEMNAME.DAT#108/name"
+msgid "M249ミニミ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:108
+msgctxt "ITEMNAME.DAT#108/description"
+msgid ""
+"攻撃力40　命中39　敵全体　♂♀\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:109
+msgctxt "ITEMNAME.DAT#109/name"
+msgid "M134バルカン"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:109
+msgctxt "ITEMNAME.DAT#109/description"
+msgid ""
+"攻撃力50　命中48　敵全体　♂\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:110
+msgctxt "ITEMNAME.DAT#110/name"
+msgid "クラウドバスター"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:110
+msgctxt "ITEMNAME.DAT#110/description"
+msgid ""
+"攻撃力90　命中62　前列全体　♂♀\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:111
+msgctxt "ITEMNAME.DAT#111/name"
+msgid "バーストライザー"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:111
+msgctxt "ITEMNAME.DAT#111/description"
+msgid ""
+"攻撃力110　命中50　敵全体　♂\n"
+"後列から攻撃可能"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:112
+msgctxt "ITEMNAME.DAT#112/name"
+msgid "つうじょうだん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:112
+msgctxt "ITEMNAME.DAT#112/description"
+msgid "攻撃力1"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:113
+msgctxt "ITEMNAME.DAT#113/name"
+msgid "さくれつだん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:113
+msgctxt "ITEMNAME.DAT#113/description"
+msgid "攻撃力2　命中5"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:114
+msgctxt "ITEMNAME.DAT#114/name"
+msgid "ベノンショット"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:114
+msgctxt "ITEMNAME.DAT#114/description"
+msgid ""
+"攻撃力4\n"
+"POISONの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:115
+msgctxt "ITEMNAME.DAT#115/name"
+msgid "ショットシェル"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:115
+msgctxt "ITEMNAME.DAT#115/description"
+msgid "攻撃力5"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:116
+msgctxt "ITEMNAME.DAT#116/name"
+msgid "ランディショット"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:116
+msgctxt "ITEMNAME.DAT#116/description"
+msgid ""
+"攻撃力1\n"
+"CHARMの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:117
+msgctxt "ITEMNAME.DAT#117/name"
+msgid "スタンショット"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:117
+msgctxt "ITEMNAME.DAT#117/description"
+msgid ""
+"攻撃力2\n"
+"SHOCKの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:118
+msgctxt "ITEMNAME.DAT#118/name"
+msgid "ますいだん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:118
+msgctxt "ITEMNAME.DAT#118/description"
+msgid ""
+"攻撃力2\n"
+"SLEEPの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:119
+msgctxt "ITEMNAME.DAT#119/name"
+msgid "てっこうだん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:119
+msgctxt "ITEMNAME.DAT#119/description"
+msgid "攻撃力10"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:120
+msgctxt "ITEMNAME.DAT#120/name"
+msgid "デスペルショット"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:120
+msgctxt "ITEMNAME.DAT#120/description"
+msgid ""
+"攻撃力3\n"
+"CLOSEの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:121
+msgctxt "ITEMNAME.DAT#121/name"
+msgid "スラッグショット"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:121
+msgctxt "ITEMNAME.DAT#121/description"
+msgid "攻撃力14"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:122
+msgctxt "ITEMNAME.DAT#122/name"
+msgid "ライジングカート"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:122
+msgctxt "ITEMNAME.DAT#122/description"
+msgid ""
+"攻撃力4\n"
+"SHOCKの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:123
+msgctxt "ITEMNAME.DAT#123/name"
+msgid "メデューサカート"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:123
+msgctxt "ITEMNAME.DAT#123/description"
+msgid ""
+"攻撃力2\n"
+"STONEの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:124
+msgctxt "ITEMNAME.DAT#124/name"
+msgid "ボンバーブリッド"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:124
+msgctxt "ITEMNAME.DAT#124/description"
+msgid "攻撃力16　命中8"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:125
+msgctxt "ITEMNAME.DAT#125/name"
+msgid "こんごうだん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:125
+msgctxt "ITEMNAME.DAT#125/description"
+msgid ""
+"攻撃力5\n"
+"BINDの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:126
+msgctxt "ITEMNAME.DAT#126/name"
+msgid "プラズマカート"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:126
+msgctxt "ITEMNAME.DAT#126/description"
+msgid ""
+"攻撃力6\n"
+"SHOCKの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:127
+msgctxt "ITEMNAME.DAT#127/name"
+msgid "マーキュリーボム"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:127
+msgctxt "ITEMNAME.DAT#127/description"
+msgid "攻撃力24　命中12"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:128
+msgctxt "ITEMNAME.DAT#128/name"
+msgid "S’Aチェーン"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:128
+msgctxt "ITEMNAME.DAT#128/description"
+msgid "防御力7　回避2　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:129
+msgctxt "ITEMNAME.DAT#129/name"
+msgid "6’sチョーカー"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:129
+msgctxt "ITEMNAME.DAT#129/description"
+msgid "防御力9　回避1　♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:130
+msgctxt "ITEMNAME.DAT#130/name"
+msgid "ハードテンガロン"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:130
+msgctxt "ITEMNAME.DAT#130/description"
+msgid ""
+"防御力12　回避2　♂\n"
+"物理攻撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:131
+msgctxt "ITEMNAME.DAT#131/name"
+msgid "チェインベレー"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:131
+msgctxt "ITEMNAME.DAT#131/description"
+msgid ""
+"防御力9　回避6　♀\n"
+"物理攻撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:132
+msgctxt "ITEMNAME.DAT#132/name"
+msgid "プレートバンダナ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:132
+msgctxt "ITEMNAME.DAT#132/description"
+msgid ""
+"防御力14　回避6　♂♀\n"
+"銃弾に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:133
+msgctxt "ITEMNAME.DAT#133/name"
+msgid "フリッツヘルム"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:133
+msgctxt "ITEMNAME.DAT#133/description"
+msgid "防御力16　回避4　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:134
+msgctxt "ITEMNAME.DAT#134/name"
+msgid "じゅしちゅう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:134
+msgctxt "ITEMNAME.DAT#134/description"
+msgid ""
+"防御力20　回避6　♂♀\n"
+"火炎に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:135
+msgctxt "ITEMNAME.DAT#135/name"
+msgid "スターヘルム"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:135
+msgctxt "ITEMNAME.DAT#135/description"
+msgid ""
+"防御力21　回避4　♂♀\n"
+"衝撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:136
+msgctxt "ITEMNAME.DAT#136/name"
+msgid "コーンハット"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:136
+msgctxt "ITEMNAME.DAT#136/description"
+msgid ""
+"防御力22　回避6　♀\n"
+"念動に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:137
+msgctxt "ITEMNAME.DAT#137/name"
+msgid "いちじきん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:137
+msgctxt "ITEMNAME.DAT#137/description"
+msgid ""
+"防御力27　回避4　♂♀\n"
+"精神攻撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:138
+msgctxt "ITEMNAME.DAT#138/name"
+msgid "ドルフィンヘルム"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:138
+msgctxt "ITEMNAME.DAT#138/description"
+msgid ""
+"防御力31　回避8　♂♀\n"
+"精神攻撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:139
+msgctxt "ITEMNAME.DAT#139/name"
+msgid "Aマックスヘルム"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:139
+msgctxt "ITEMNAME.DAT#139/description"
+msgid ""
+"防御力46　回避8　♂\n"
+"すべての攻撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:140
+msgctxt "ITEMNAME.DAT#140/name"
+msgid "やさかのまがたま"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:140
+msgctxt "ITEMNAME.DAT#140/description"
+msgid ""
+"防御力52　回避4　♂\n"
+"火炎・氷結に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:141
+msgctxt "ITEMNAME.DAT#141/name"
+msgid "カラミティヘルム"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:141
+msgctxt "ITEMNAME.DAT#141/description"
+msgid ""
+"防御力50　回避16　♀\n"
+"すべての攻撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:142
+msgctxt "ITEMNAME.DAT#142/name"
+msgid "こうりんのかぶと"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:142
+msgctxt "ITEMNAME.DAT#142/description"
+msgid ""
+"防御力57　回避12　♂\n"
+"神聖防具"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:143
+msgctxt "ITEMNAME.DAT#143/name"
+msgid "ほむらのはつむり"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:143
+msgctxt "ITEMNAME.DAT#143/description"
+msgid ""
+"防御力18　回避6　♂♀\n"
+"火炎に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:144
+msgctxt "ITEMNAME.DAT#144/name"
+msgid "そうきかん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:144
+msgctxt "ITEMNAME.DAT#144/description"
+msgid ""
+"防御力62　回避12　♂♀\n"
+"魔性防具"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:145
+msgctxt "ITEMNAME.DAT#145/name"
+msgid "ヤクシャのかめん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:145
+msgctxt "ITEMNAME.DAT#145/description"
+msgid ""
+"防御力52　回避16　♂\n"
+"妖鬼ヤクシャが身を変じたもの"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:146
+msgctxt "ITEMNAME.DAT#146/name"
+msgid "シコメのまがたま"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:146
+msgctxt "ITEMNAME.DAT#146/description"
+msgid ""
+"防御力14　回避6　♀\n"
+"鬼女ヨモツシコメの精魂がこもる"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:147
+msgctxt "ITEMNAME.DAT#147/name"
+msgid "フロストずきん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:147
+msgctxt "ITEMNAME.DAT#147/description"
+msgid ""
+"防御力16　回避2　♂♀\n"
+"妖精ジャックフロスト　魂の結晶"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:148
+msgctxt "ITEMNAME.DAT#148/name"
+msgid "ランタンハット"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:148
+msgctxt "ITEMNAME.DAT#148/description"
+msgid ""
+"防御力18　回避6　♂♀\n"
+"妖精ジャックランタン　友情の魔晶変化"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:149
+msgctxt "ITEMNAME.DAT#149/name"
+msgid "ガルチェのスーツ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:149
+msgctxt "ITEMNAME.DAT#149/description"
+msgid "防御力11　回避1　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:150
+msgctxt "ITEMNAME.DAT#150/name"
+msgid "サニエスのスーツ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:150
+msgctxt "ITEMNAME.DAT#150/description"
+msgid "防御力10　回避3　♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:151
+msgctxt "ITEMNAME.DAT#151/name"
+msgid "コートジャケット"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:151
+msgctxt "ITEMNAME.DAT#151/description"
+msgid ""
+"防御力14　回避4　♂\n"
+"衝撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:152
+msgctxt "ITEMNAME.DAT#152/name"
+msgid "チタンコルセット"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:152
+msgctxt "ITEMNAME.DAT#152/description"
+msgid ""
+"防御力18　回避6　♀\n"
+"衝撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:153
+msgctxt "ITEMNAME.DAT#153/name"
+msgid "ケブラーベスト"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:153
+msgctxt "ITEMNAME.DAT#153/description"
+msgid ""
+"防御力19　回避8　♂♀\n"
+"刃物に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:154
+msgctxt "ITEMNAME.DAT#154/name"
+msgid "スペクトラコート"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:154
+msgctxt "ITEMNAME.DAT#154/description"
+msgid ""
+"防御力33　回避2　♂♀\n"
+"銃弾に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:155
+msgctxt "ITEMNAME.DAT#155/name"
+msgid "じゅしこう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:155
+msgctxt "ITEMNAME.DAT#155/description"
+msgid ""
+"防御力33　回避8　♂♀\n"
+"火炎に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:156
+msgctxt "ITEMNAME.DAT#156/name"
+msgid "シルバーメイル"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:156
+msgctxt "ITEMNAME.DAT#156/description"
+msgid ""
+"防御力46　回避1　♂♀\n"
+"電撃・衝撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:157
+msgctxt "ITEMNAME.DAT#157/name"
+msgid "スピリットローブ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:157
+msgctxt "ITEMNAME.DAT#157/description"
+msgid ""
+"防御力42　回避12　♀\n"
+"火炎・氷結に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:158
+msgctxt "ITEMNAME.DAT#158/name"
+msgid "はくとうかいせい"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:158
+msgctxt "ITEMNAME.DAT#158/description"
+msgid ""
+"防御力57　回避8　♂♀\n"
+"刃物に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:159
+msgctxt "ITEMNAME.DAT#159/name"
+msgid "テトラジャマー"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:159
+msgctxt "ITEMNAME.DAT#159/description"
+msgid ""
+"防御力60　回避10　♂♀\n"
+"精神攻撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:160
+msgctxt "ITEMNAME.DAT#160/name"
+msgid "Aマックススーツ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:160
+msgctxt "ITEMNAME.DAT#160/description"
+msgid ""
+"防御力78　回避14　♂\n"
+"すべての攻撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:161
+msgctxt "ITEMNAME.DAT#161/name"
+msgid "しらとりのころも"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:161
+msgctxt "ITEMNAME.DAT#161/description"
+msgid ""
+"防御力80　回避16　♂\n"
+"すべての攻撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:162
+msgctxt "ITEMNAME.DAT#162/name"
+msgid "カラミティスーツ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:162
+msgctxt "ITEMNAME.DAT#162/description"
+msgid ""
+"防御力93　回避19　♀\n"
+"すべての攻撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:163
+msgctxt "ITEMNAME.DAT#163/name"
+msgid "からじしのよろい"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:163
+msgctxt "ITEMNAME.DAT#163/description"
+msgid ""
+"防御力99　回避15　♂\n"
+"神聖防具"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:164
+msgctxt "ITEMNAME.DAT#164/name"
+msgid "メギンギョルズ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:164
+msgctxt "ITEMNAME.DAT#164/description"
+msgid ""
+"防御力98　回避25　♂\n"
+"物理攻撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:165
+msgctxt "ITEMNAME.DAT#165/name"
+msgid "びゃくえんがい"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:165
+msgctxt "ITEMNAME.DAT#165/description"
+msgid ""
+"防御力40　回避4　♂♀\n"
+"火炎攻撃を吸収"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:166
+msgctxt "ITEMNAME.DAT#166/name"
+msgid "よみのがいこう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:166
+msgctxt "ITEMNAME.DAT#166/description"
+msgid ""
+"防御力88　回避8　♂♀\n"
+"魔性防具"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:167
+msgctxt "ITEMNAME.DAT#167/name"
+msgid "スプリガンベスト"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:167
+msgctxt "ITEMNAME.DAT#167/description"
+msgid ""
+"防御力60　回避2　♂\n"
+"妖精スプリガンの霊魂が宿る"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:168
+msgctxt "ITEMNAME.DAT#168/name"
+msgid "ブリザードローブ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:168
+msgctxt "ITEMNAME.DAT#168/description"
+msgid ""
+"防御力45　回避8　♀\n"
+"鬼女ユキジョロウの情愛がこもる"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:169
+msgctxt "ITEMNAME.DAT#169/name"
+msgid "しょうきがいりん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#189.
+#: ITEMNAME.DAT:169
+msgctxt "ITEMNAME.DAT#169/description"
+msgid "防御力4　回避1　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:170
+msgctxt "ITEMNAME.DAT#170/name"
+msgid "こうまのゆびわ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:170
+msgctxt "ITEMNAME.DAT#170/description"
+msgid "防御力4　回避2　♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:171
+msgctxt "ITEMNAME.DAT#171/name"
+msgid "リベットナックル"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:171
+msgctxt "ITEMNAME.DAT#171/description"
+msgid "防御力5　回避1　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:172
+msgctxt "ITEMNAME.DAT#172/name"
+msgid "カイザーリング"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#190.
+#: ITEMNAME.DAT:172
+msgctxt "ITEMNAME.DAT#172/description"
+msgid "防御力5　回避2　♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:173
+msgctxt "ITEMNAME.DAT#173/name"
+msgid "ダマスカスグラブ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:173
+msgctxt "ITEMNAME.DAT#173/description"
+msgid "防御力5　回避4　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:174
+msgctxt "ITEMNAME.DAT#174/name"
+msgid "マッスルアーム"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:174
+msgctxt "ITEMNAME.DAT#174/description"
+msgid "防御力10　回避2　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:175
+msgctxt "ITEMNAME.DAT#175/name"
+msgid "じゅしじゅん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:175
+msgctxt "ITEMNAME.DAT#175/description"
+msgid ""
+"防御力10　回避4　♂♀\n"
+"火炎に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:176
+msgctxt "ITEMNAME.DAT#176/name"
+msgid "トライシールド"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:176
+msgctxt "ITEMNAME.DAT#176/description"
+msgid ""
+"防御力14　回避2　♂♀\n"
+"物理攻撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:177
+msgctxt "ITEMNAME.DAT#177/name"
+msgid "ペンタグラブ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:177
+msgctxt "ITEMNAME.DAT#177/description"
+msgid ""
+"防御力12　回避8　♀\n"
+"念動に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:178
+msgctxt "ITEMNAME.DAT#178/name"
+msgid "もものきごて"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:178
+msgctxt "ITEMNAME.DAT#178/description"
+msgid ""
+"防御力18　回避4　♂♀\n"
+"電撃・衝撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:179
+msgctxt "ITEMNAME.DAT#179/name"
+msgid "ジャミングアーム"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:179
+msgctxt "ITEMNAME.DAT#179/description"
+msgid ""
+"防御力19　回避8　♂♀\n"
+"精神攻撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:180
+msgctxt "ITEMNAME.DAT#180/name"
+msgid "Aマックスアーム"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:180
+msgctxt "ITEMNAME.DAT#180/description"
+msgid ""
+"防御力24　回避10　♂\n"
+"すべての攻撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:181
+msgctxt "ITEMNAME.DAT#181/name"
+msgid "やたのかがみ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:181
+msgctxt "ITEMNAME.DAT#181/description"
+msgid ""
+"防御力21　回避18　♂\n"
+"火炎・氷結に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:182
+msgctxt "ITEMNAME.DAT#182/name"
+msgid "カラミティクロウ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:182
+msgctxt "ITEMNAME.DAT#182/description"
+msgid ""
+"防御力20　回避20　♀\n"
+"電撃攻撃を吸収"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:183
+msgctxt "ITEMNAME.DAT#183/name"
+msgid "れっかのこて"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:183
+msgctxt "ITEMNAME.DAT#183/description"
+msgid ""
+"防御力24　回避17　♂\n"
+"火炎攻撃を吸収"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:184
+msgctxt "ITEMNAME.DAT#184/name"
+msgid "ライジンググラブ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:184
+msgctxt "ITEMNAME.DAT#184/description"
+msgid ""
+"防御力27　回避15　♂\n"
+"物理攻撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:185
+msgctxt "ITEMNAME.DAT#185/name"
+msgid "せいえんのこて"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:185
+msgctxt "ITEMNAME.DAT#185/description"
+msgid ""
+"防御力10　回避4　♂♀\n"
+"火炎攻撃を吸収"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:186
+msgctxt "ITEMNAME.DAT#186/name"
+msgid "ばくがいりん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:186
+msgctxt "ITEMNAME.DAT#186/description"
+msgid ""
+"防御力36　回避5　♂♀\n"
+"物理攻撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:187
+msgctxt "ITEMNAME.DAT#187/name"
+msgid "カワンチャガード"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:187
+msgctxt "ITEMNAME.DAT#187/description"
+msgid ""
+"防御力21　回避4　♂\n"
+"地霊カワンチャが持ち主を守護する"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:188
+msgctxt "ITEMNAME.DAT#188/name"
+msgid "ガネーシャリング"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:188
+msgctxt "ITEMNAME.DAT#188/description"
+msgid ""
+"防御力45　回避1　♀\n"
+"妖魔ガネーシャが持ち主を精神攻撃から守る"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:189
+msgctxt "ITEMNAME.DAT#189/name"
+msgid "サイドゴアブーツ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#169.
+#: ITEMNAME.DAT:189
+msgctxt "ITEMNAME.DAT#189/description"
+msgid "防御力4　回避1　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:190
+msgctxt "ITEMNAME.DAT#190/name"
+msgid "シェラガモブーツ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#172.
+#: ITEMNAME.DAT:190
+msgctxt "ITEMNAME.DAT#190/description"
+msgid "防御力5　回避2　♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:191
+msgctxt "ITEMNAME.DAT#191/name"
+msgid "バットウィングス"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:191
+msgctxt "ITEMNAME.DAT#191/description"
+msgid "防御力6　回避2　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:192
+msgctxt "ITEMNAME.DAT#192/name"
+msgid "フルメタルヒール"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:192
+msgctxt "ITEMNAME.DAT#192/description"
+msgid "防御力7　回避1　♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:193
+msgctxt "ITEMNAME.DAT#193/name"
+msgid "ジャックブーツ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:193
+msgctxt "ITEMNAME.DAT#193/description"
+msgid "防御力8　回避1　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:194
+msgctxt "ITEMNAME.DAT#194/name"
+msgid "ケブラーチャプス"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:194
+msgctxt "ITEMNAME.DAT#194/description"
+msgid "防御力6　回避8　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:195
+msgctxt "ITEMNAME.DAT#195/name"
+msgid "じゅしちょうたい"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:195
+msgctxt "ITEMNAME.DAT#195/description"
+msgid "防御力6　回避10　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:196
+msgctxt "ITEMNAME.DAT#196/name"
+msgid "ガイアガード"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:196
+msgctxt "ITEMNAME.DAT#196/description"
+msgid "防御力14　回避1　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:197
+msgctxt "ITEMNAME.DAT#197/name"
+msgid "ウィッチパンプス"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:197
+msgctxt "ITEMNAME.DAT#197/description"
+msgid "防御力12　回避12　♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:198
+msgctxt "ITEMNAME.DAT#198/name"
+msgid "もものきぐつ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:198
+msgctxt "ITEMNAME.DAT#198/description"
+msgid "防御力14　回避10　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:199
+msgctxt "ITEMNAME.DAT#199/name"
+msgid "レッガースラム"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:199
+msgctxt "ITEMNAME.DAT#199/description"
+msgid "防御力15　回避15　♂♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:200
+msgctxt "ITEMNAME.DAT#200/name"
+msgid "Aマックスレッグ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:200
+msgctxt "ITEMNAME.DAT#200/description"
+msgid ""
+"防御力17　回避18　♂\n"
+"すべての攻撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:201
+msgctxt "ITEMNAME.DAT#201/name"
+msgid "すさのおのぐそく"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:201
+msgctxt "ITEMNAME.DAT#201/description"
+msgid "防御力22　回避14　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:202
+msgctxt "ITEMNAME.DAT#202/name"
+msgid "カラミティブーツ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:202
+msgctxt "ITEMNAME.DAT#202/description"
+msgid "防御力28　回避18　♀"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:203
+msgctxt "ITEMNAME.DAT#203/name"
+msgid "こんごうのぐそく"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:203
+msgctxt "ITEMNAME.DAT#203/description"
+msgid "防御力20　回避16　♂"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:204
+msgctxt "ITEMNAME.DAT#204/name"
+msgid "おうえんのぐそく"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:204
+msgctxt "ITEMNAME.DAT#204/description"
+msgid ""
+"防御力7　回避4　♂♀\n"
+"火炎に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:205
+msgctxt "ITEMNAME.DAT#205/name"
+msgid "せいだのぐそく"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:205
+msgctxt "ITEMNAME.DAT#205/description"
+msgid ""
+"防御力20　回避14　♂♀\n"
+"すべての攻撃に対する耐性"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:206
+msgctxt "ITEMNAME.DAT#206/name"
+msgid "テングのゲタ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:206
+msgctxt "ITEMNAME.DAT#206/description"
+msgid ""
+"防御力11　回避18　♂\n"
+"妖魔テングが化けたもの"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:207
+msgctxt "ITEMNAME.DAT#207/name"
+msgid "リーオヒール"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:207
+msgctxt "ITEMNAME.DAT#207/description"
+msgid ""
+"防御力17　回避14　♀\n"
+"魔獣ドゥンの闘気が宿る／神聖防具"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:208
+msgctxt "ITEMNAME.DAT#208/name"
+msgid "ドラゴンATM"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:208
+msgctxt "ITEMNAME.DAT#208/description"
+msgid ""
+"攻撃アイテム　全体　威力77\n"
+"すべての敵に火炎系ダメージ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:209
+msgctxt "ITEMNAME.DAT#209/name"
+msgid "スティンガー"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:209
+msgctxt "ITEMNAME.DAT#209/description"
+msgid ""
+"攻撃アイテム　全体　威力86\n"
+"すべての敵に電撃系ダメージ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:210
+msgctxt "ITEMNAME.DAT#210/name"
+msgid "PZファウスト"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:210
+msgctxt "ITEMNAME.DAT#210/description"
+msgid ""
+"攻撃アイテム　前列　威力200\n"
+"敵1体に大ダメージ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:211
+msgctxt "ITEMNAME.DAT#211/name"
+msgid "りゅうかく"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:211
+msgctxt "ITEMNAME.DAT#211/description"
+msgid ""
+"攻撃アイテム　前列　威力150\n"
+"敵1列全体に大ダメージ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:212
+msgctxt "ITEMNAME.DAT#212/name"
+msgid "ギャッラルホルン"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:212
+msgctxt "ITEMNAME.DAT#212/description"
+msgid ""
+"攻撃アイテム　全体　威力160\n"
+"すべての敵に大ダメージ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:213
+msgctxt "ITEMNAME.DAT#213/name"
+msgid "てんけつしん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:213
+msgctxt "ITEMNAME.DAT#213/description"
+msgid ""
+"攻撃アイテム　前列／後列\n"
+"敵1体を呪殺"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:214
+msgctxt "ITEMNAME.DAT#214/name"
+msgid "きずぐすり"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:214
+msgctxt "ITEMNAME.DAT#214/description"
+msgid ""
+"回復アイテム　単体\n"
+"味方1体のHPを少しだけ回復"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:215
+msgctxt "ITEMNAME.DAT#215/name"
+msgid "きんぎょうふ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:215
+msgctxt "ITEMNAME.DAT#215/description"
+msgid ""
+"防御アイテム　全体\n"
+"物理攻撃を1ターン防ぎ敵に反射"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:216
+msgctxt "ITEMNAME.DAT#216/name"
+msgid "げほうかくせいふ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:216
+msgctxt "ITEMNAME.DAT#216/description"
+msgid ""
+"回復アイテム　単体\n"
+"味方1体を復活"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:217
+msgctxt "ITEMNAME.DAT#217/name"
+msgid "ディストーン"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:217
+msgctxt "ITEMNAME.DAT#217/description"
+msgid ""
+"回復アイテム　単体\n"
+"味方1体の石化を治療"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:218
+msgctxt "ITEMNAME.DAT#218/name"
+msgid "ディスパライズ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:218
+msgctxt "ITEMNAME.DAT#218/description"
+msgid ""
+"回復アイテム　単体\n"
+"味方1体の麻痺を治療"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:219
+msgctxt "ITEMNAME.DAT#219/name"
+msgid "ディスポイズン"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:219
+msgctxt "ITEMNAME.DAT#219/description"
+msgid ""
+"回復アイテム　単体\n"
+"味方1体の毒の状態を治療"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:220
+msgctxt "ITEMNAME.DAT#220/name"
+msgid "ディスチャーム"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:220
+msgctxt "ITEMNAME.DAT#220/description"
+msgid ""
+"回復アイテム　単体\n"
+"味方1体の魅了を治療"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:221
+msgctxt "ITEMNAME.DAT#221/name"
+msgid "ちんしんふ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:221
+msgctxt "ITEMNAME.DAT#221/description"
+msgid ""
+"回復アイテム　単体\n"
+"味方1体の混乱・至福・睡眠・呪縛を治療"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:222
+msgctxt "ITEMNAME.DAT#222/name"
+msgid "とんこうらばん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:222
+msgctxt "ITEMNAME.DAT#222/description"
+msgid ""
+"特殊アイテム　移動時\n"
+"月1周の間　パーティー周辺のマップを表示"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:223
+msgctxt "ITEMNAME.DAT#223/name"
+msgid "ふえんじ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:223
+msgctxt "ITEMNAME.DAT#223/description"
+msgid ""
+"特殊アイテム　移動時\n"
+"月1周の間　低レベル悪魔の出現を抑止"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:224
+msgctxt "ITEMNAME.DAT#224/name"
+msgid "ファイナルガード"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:224
+msgctxt "ITEMNAME.DAT#224/description"
+msgid ""
+"防御アイテム　全体\n"
+"破魔・呪殺・エナジードレインを1回防止"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:225
+msgctxt "ITEMNAME.DAT#225/name"
+msgid "ちんかいふ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:225
+msgctxt "ITEMNAME.DAT#225/description"
+msgid ""
+"防御アイテム　全体\n"
+"魔法攻撃を1ターン防ぎ敵に反射"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250, ITEMNAME.DAT#252,
+#. ITEMNAME.DAT#253, ITEMNAME.DAT#268 (+54 more).
+#: ITEMNAME.DAT:226
+msgctxt "ITEMNAME.DAT#226/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250, ITEMNAME.DAT#252,
+#. ITEMNAME.DAT#253, ITEMNAME.DAT#271 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: ITEMNAME.DAT:226
+msgctxt "ITEMNAME.DAT#226/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#247, ITEMNAME.DAT#250, ITEMNAME.DAT#252,
+#. ITEMNAME.DAT#253, ITEMNAME.DAT#268 (+54 more).
+#: ITEMNAME.DAT:227
+msgctxt "ITEMNAME.DAT#227/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#247, ITEMNAME.DAT#250, ITEMNAME.DAT#252,
+#. ITEMNAME.DAT#253, ITEMNAME.DAT#271 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: ITEMNAME.DAT:227
+msgctxt "ITEMNAME.DAT#227/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:228
+msgctxt "ITEMNAME.DAT#228/name"
+msgid "うつくしいえ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:228
+msgctxt "ITEMNAME.DAT#228/description"
+msgid "その大胆な色使いに　見た者は皆　息を飲む"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:229
+msgctxt "ITEMNAME.DAT#229/name"
+msgid "こうかなぞう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:229
+msgctxt "ITEMNAME.DAT#229/description"
+msgid "作り手の愛が伝わる　美しいブロンズ像"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:230
+msgctxt "ITEMNAME.DAT#230/name"
+msgid "めずらしいつぼ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:230
+msgctxt "ITEMNAME.DAT#230/description"
+msgid ""
+"テーマは「くしゃみ」\n"
+"質素な中にも　光るものがある"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:231
+msgctxt "ITEMNAME.DAT#231/name"
+msgid "ほうぎょく"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:231
+msgctxt "ITEMNAME.DAT#231/description"
+msgid ""
+"回復アイテム　単体\n"
+"味方1体のHPを完全回復"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:232
+msgctxt "ITEMNAME.DAT#232/name"
+msgid "ませき"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:232
+msgctxt "ITEMNAME.DAT#232/description"
+msgid ""
+"回復アイテム　単体\n"
+"味方1体をMAX・HPの1／4回復"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:233
+msgctxt "ITEMNAME.DAT#233/name"
+msgid "チャクラドロップ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:233
+msgctxt "ITEMNAME.DAT#233/description"
+msgid ""
+"回復アイテム　単体\n"
+"味方1体のMPを5回復"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:234
+msgctxt "ITEMNAME.DAT#234/name"
+msgid "チャクラチップ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:234
+msgctxt "ITEMNAME.DAT#234/description"
+msgid ""
+"回復アイテム　単体\n"
+"味方1体のMPを10回復"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:235
+msgctxt "ITEMNAME.DAT#235/name"
+msgid "チャクラポット"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:235
+msgctxt "ITEMNAME.DAT#235/description"
+msgid ""
+"回復アイテム　単体\n"
+"味方1体のMPを20回復"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:236
+msgctxt "ITEMNAME.DAT#236/name"
+msgid "ソーマ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:236
+msgctxt "ITEMNAME.DAT#236/description"
+msgid ""
+"回復アイテム　単体\n"
+"味方1体を完全回復"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:237
+msgctxt "ITEMNAME.DAT#237/name"
+msgid "はんごんこう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:237
+msgctxt "ITEMNAME.DAT#237/description"
+msgid ""
+"回復アイテム　単体\n"
+"味方1体をHP最大で復活"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:238
+msgctxt "ITEMNAME.DAT#238/name"
+msgid "きんたん"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:238
+msgctxt "ITEMNAME.DAT#238/description"
+msgid ""
+"回復アイテム　単体\n"
+"味方1体をHP1／8で復活"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:239
+msgctxt "ITEMNAME.DAT#239/name"
+msgid "サマナーズ・ハイ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:239
+msgctxt "ITEMNAME.DAT#239/description"
+msgid ""
+"回復アイテム　単体\n"
+"MAX．HPを一時的に増加"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:240
+msgctxt "ITEMNAME.DAT#240/name"
+msgid "ちからのこう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:240
+msgctxt "ITEMNAME.DAT#240/description"
+msgid ""
+"通常アイテム　単体\n"
+"人間の「力」を1アップしHP完全回復"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:241
+msgctxt "ITEMNAME.DAT#241/name"
+msgid "ちえのこう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:241
+msgctxt "ITEMNAME.DAT#241/description"
+msgid ""
+"通常アイテム　単体\n"
+"人間の「知恵」を1アップしHP完全回復"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:242
+msgctxt "ITEMNAME.DAT#242/name"
+msgid "まりょくのこう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:242
+msgctxt "ITEMNAME.DAT#242/description"
+msgid ""
+"通常アイテム　単体\n"
+"人間の「魔力」を1アップしHP完全回復"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:243
+msgctxt "ITEMNAME.DAT#243/name"
+msgid "たいりょくのこう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:243
+msgctxt "ITEMNAME.DAT#243/description"
+msgid ""
+"通常アイテム　単体\n"
+"人間の「体力」を1アップしHP完全回復"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:244
+msgctxt "ITEMNAME.DAT#244/name"
+msgid "はやさのこう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:244
+msgctxt "ITEMNAME.DAT#244/description"
+msgid ""
+"通常アイテム　単体\n"
+"人間の「速さ」を1アップしHP完全回復"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:245
+msgctxt "ITEMNAME.DAT#245/name"
+msgid "うんのこう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:245
+msgctxt "ITEMNAME.DAT#245/description"
+msgid ""
+"通常アイテム　単体\n"
+"人間の「運」を1アップしHP完全回復"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:246
+msgctxt "ITEMNAME.DAT#246/name"
+msgid "コアシールド"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:246
+msgctxt "ITEMNAME.DAT#246/description"
+msgid ""
+"特殊アイテム　移動時\n"
+"月1周の間　ダメージゾーンを無効化"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#250, ITEMNAME.DAT#252,
+#. ITEMNAME.DAT#253, ITEMNAME.DAT#268 (+54 more).
+#: ITEMNAME.DAT:247
+msgctxt "ITEMNAME.DAT#247/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#250, ITEMNAME.DAT#252,
+#. ITEMNAME.DAT#253, ITEMNAME.DAT#271 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: ITEMNAME.DAT:247
+msgctxt "ITEMNAME.DAT#247/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:248
+msgctxt "ITEMNAME.DAT#248/name"
+msgid "きんじゅふ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:248
+msgctxt "ITEMNAME.DAT#248/description"
+msgid ""
+"攻撃アイテム　全体　バッドステータス\n"
+"すべての敵にBINDの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:249
+msgctxt "ITEMNAME.DAT#249/name"
+msgid "グレイプニル"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:249
+msgctxt "ITEMNAME.DAT#249/description"
+msgid ""
+"攻撃アイテム　単体　バッドステータス\n"
+"敵1体にPALYZEの効果"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#252,
+#. ITEMNAME.DAT#253, ITEMNAME.DAT#268 (+54 more).
+#: ITEMNAME.DAT:250
+msgctxt "ITEMNAME.DAT#250/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#252,
+#. ITEMNAME.DAT#253, ITEMNAME.DAT#271 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: ITEMNAME.DAT:250
+msgctxt "ITEMNAME.DAT#250/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:251
+msgctxt "ITEMNAME.DAT#251/name"
+msgid "スタングレネード"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:251
+msgctxt "ITEMNAME.DAT#251/description"
+msgid ""
+"特殊アイテム　戦闘時\n"
+"戦闘から離脱"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#253, ITEMNAME.DAT#268 (+54 more).
+#: ITEMNAME.DAT:252
+msgctxt "ITEMNAME.DAT#252/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#253, ITEMNAME.DAT#271 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: ITEMNAME.DAT:252
+msgctxt "ITEMNAME.DAT#252/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#268 (+54 more).
+#: ITEMNAME.DAT:253
+msgctxt "ITEMNAME.DAT#253/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#271 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: ITEMNAME.DAT:253
+msgctxt "ITEMNAME.DAT#253/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:254
+msgctxt "ITEMNAME.DAT#254/name"
+msgid "バックアッパー"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:254
+msgctxt "ITEMNAME.DAT#254/description"
+msgid ""
+"特殊アイテム　移動時\n"
+"1回だけ「行動の記録」ができる"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:255
+msgctxt "ITEMNAME.DAT#255/name"
+msgid "ガーネット"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:255
+msgctxt "ITEMNAME.DAT#255/description"
+msgid ""
+"肉体と精神に働きかける\n"
+"深い血の色をした宝石"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:256
+msgctxt "ITEMNAME.DAT#256/name"
+msgid "アメジスト"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:256
+msgctxt "ITEMNAME.DAT#256/description"
+msgid ""
+"至福の愛をあらわす\n"
+"むらさき色のクリスタル"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:257
+msgctxt "ITEMNAME.DAT#257/name"
+msgid "アクアマリン"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:257
+msgctxt "ITEMNAME.DAT#257/description"
+msgid ""
+"マリンブルーに輝く\n"
+"平和とやさしさの女神"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:258
+msgctxt "ITEMNAME.DAT#258/name"
+msgid "ダイヤモンド"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:258
+msgctxt "ITEMNAME.DAT#258/description"
+msgid ""
+"魔をはらい邪を屈する\n"
+"宝石の王"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:259
+msgctxt "ITEMNAME.DAT#259/name"
+msgid "エメラルド"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:259
+msgctxt "ITEMNAME.DAT#259/description"
+msgid ""
+"古来より魔除として用いられた\n"
+"あざやかな緑の石"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:260
+msgctxt "ITEMNAME.DAT#260/name"
+msgid "パール"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:260
+msgctxt "ITEMNAME.DAT#260/description"
+msgid ""
+"慈愛の心を育む\n"
+"母なる海の贈り物"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:261
+msgctxt "ITEMNAME.DAT#261/name"
+msgid "ルビー"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:261
+msgctxt "ITEMNAME.DAT#261/description"
+msgid ""
+"鮮やかに燃え立つ\n"
+"勇気と力のシンボル"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:262
+msgctxt "ITEMNAME.DAT#262/name"
+msgid "オニキス"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:262
+msgctxt "ITEMNAME.DAT#262/description"
+msgid ""
+"繊細な表情を見せる\n"
+"情熱と神秘のメノウ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:263
+msgctxt "ITEMNAME.DAT#263/name"
+msgid "サファイア"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:263
+msgctxt "ITEMNAME.DAT#263/description"
+msgid ""
+"青く澄んだ輝きで\n"
+"危険を遠ざける神秘の石"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:264
+msgctxt "ITEMNAME.DAT#264/name"
+msgid "オパール"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:264
+msgctxt "ITEMNAME.DAT#264/description"
+msgid ""
+"苦悩を消し去る\n"
+"希望の象徴"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:265
+msgctxt "ITEMNAME.DAT#265/name"
+msgid "トパーズ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:265
+msgctxt "ITEMNAME.DAT#265/description"
+msgid ""
+"黄金色に輝く\n"
+"知性の具現"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:266
+msgctxt "ITEMNAME.DAT#266/name"
+msgid "ターコイズ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: ITEMNAME.DAT:266
+msgctxt "ITEMNAME.DAT#266/description"
+msgid ""
+"生命力あふれる\n"
+"戦士の守護石"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:267
+msgctxt "ITEMNAME.DAT#267/name"
+msgid "ブランク"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#268, ITEMNAME.DAT#269, ITEMNAME.DAT#270.
+#: ITEMNAME.DAT:267
+msgctxt "ITEMNAME.DAT#267/description"
+msgid ""
+"このりょういきは　ほんらい　ひょうじ　　\n"
+"されません　おかしいですね"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: ITEMNAME.DAT:268
+msgctxt "ITEMNAME.DAT#268/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#267, ITEMNAME.DAT#269, ITEMNAME.DAT#270.
+#: ITEMNAME.DAT:268
+msgctxt "ITEMNAME.DAT#268/description"
+msgid ""
+"このりょういきは　ほんらい　ひょうじ　　\n"
+"されません　おかしいですね"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: ITEMNAME.DAT:269
+msgctxt "ITEMNAME.DAT#269/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#267, ITEMNAME.DAT#268, ITEMNAME.DAT#270.
+#: ITEMNAME.DAT:269
+msgctxt "ITEMNAME.DAT#269/description"
+msgid ""
+"このりょういきは　ほんらい　ひょうじ　　\n"
+"されません　おかしいですね"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+54 more).
+#: ITEMNAME.DAT:270
+msgctxt "ITEMNAME.DAT#270/name"
+msgid "リザーブ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#267, ITEMNAME.DAT#268, ITEMNAME.DAT#269.
+#: ITEMNAME.DAT:270
+msgctxt "ITEMNAME.DAT#270/description"
+msgid ""
+"このりょういきは　ほんらい　ひょうじ　　\n"
+"されません　おかしいですね"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:271
+msgctxt "ITEMNAME.DAT#271/name"
+msgid "なぞのにんぎょう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: ITEMNAME.DAT:271
+msgctxt "ITEMNAME.DAT#271/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:272
+msgctxt "ITEMNAME.DAT#272/name"
+msgid "ドリーカドモン"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: ITEMNAME.DAT:272
+msgctxt "ITEMNAME.DAT#272/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:273
+msgctxt "ITEMNAME.DAT#273/name"
+msgid "ペトラノン"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: ITEMNAME.DAT:273
+msgctxt "ITEMNAME.DAT#273/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:274
+msgctxt "ITEMNAME.DAT#274/name"
+msgid "シャッフラのしょ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: ITEMNAME.DAT:274
+msgctxt "ITEMNAME.DAT#274/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:275
+msgctxt "ITEMNAME.DAT#275/name"
+msgid "ぎぞうIDカード"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: ITEMNAME.DAT:275
+msgctxt "ITEMNAME.DAT#275/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:276
+msgctxt "ITEMNAME.DAT#276/name"
+msgid "ぎじどうのかぎ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: ITEMNAME.DAT:276
+msgctxt "ITEMNAME.DAT#276/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:277
+msgctxt "ITEMNAME.DAT#277/name"
+msgid "きょうじゅのメモ"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: ITEMNAME.DAT:277
+msgctxt "ITEMNAME.DAT#277/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:278
+msgctxt "ITEMNAME.DAT#278/name"
+msgid "ヒーホにんぎょう"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: ITEMNAME.DAT:278
+msgctxt "ITEMNAME.DAT#278/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:279
+msgctxt "ITEMNAME.DAT#279/name"
+msgid "イベント08"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: ITEMNAME.DAT:279
+msgctxt "ITEMNAME.DAT#279/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:280
+msgctxt "ITEMNAME.DAT#280/name"
+msgid "イベント09"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: ITEMNAME.DAT:280
+msgctxt "ITEMNAME.DAT#280/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:281
+msgctxt "ITEMNAME.DAT#281/name"
+msgid "イベント0A"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: ITEMNAME.DAT:281
+msgctxt "ITEMNAME.DAT#281/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:282
+msgctxt "ITEMNAME.DAT#282/name"
+msgid "イベント0B"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: ITEMNAME.DAT:282
+msgctxt "ITEMNAME.DAT#282/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:283
+msgctxt "ITEMNAME.DAT#283/name"
+msgid "イベント0C"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: ITEMNAME.DAT:283
+msgctxt "ITEMNAME.DAT#283/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:284
+msgctxt "ITEMNAME.DAT#284/name"
+msgid "イベント0D"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: ITEMNAME.DAT:284
+msgctxt "ITEMNAME.DAT#284/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:285
+msgctxt "ITEMNAME.DAT#285/name"
+msgid "イベント0E"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: ITEMNAME.DAT:285
+msgctxt "ITEMNAME.DAT#285/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: Short name field: 8 letters maximum (menus and lists).
+#. Also needs a full form (up to 16 letters) for dialogue; give it after a "|" if it is longer than 8
+#. letters.
+#: ITEMNAME.DAT:286
+msgctxt "ITEMNAME.DAT#286/name"
+msgid "イベント0F"
+msgstr ""
+
+#. Context: Item names (8-letter field) and one-line item descriptions/stats.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#. Same Japanese also at: ITEMNAME.DAT#226, ITEMNAME.DAT#227, ITEMNAME.DAT#247, ITEMNAME.DAT#250,
+#. ITEMNAME.DAT#252, ITEMNAME.DAT#253 (+17 more).
+#. Empty in the original; leave empty unless the game shows text here.
+#: ITEMNAME.DAT:286
+msgctxt "ITEMNAME.DAT#286/description"
+msgid ""
+"　　　　　　　　　　　　　　　　　　　　\n"
+""
+msgstr ""

@@ -1,0 +1,230 @@
+# Shin Megami Tensei: Devil Summoner (Sega Saturn, 1995): Japanese script for translation.
+# Source: the project's extraction of the original Japanese text (Japan Rev A disc).
+# File: NORMHELP.DAT
+# One entry per message. msgctxt is the line ID; keep it unchanged.
+# msgid is the original Japanese (do not edit). Write the translation in msgstr.
+# See README_translator.md for tags, limits and the story overview.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Devil Summoner Saturn NORMHELP.DAT\n"
+"POT-Creation-Date: 2026-10-15 00:00+0000\n"
+"Language: en\n"
+"X-Source-Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:0
+msgctxt "NORMHELP.DAT#0"
+msgid ""
+"　　　＜パーティーの編成＞\n"
+"　　　仲間を呼ぶ／戻す／はずす／位置変更"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:1
+msgctxt "NORMHELP.DAT#1"
+msgid ""
+"　　　＜魔法＞\n"
+"　　　人間・仲魔の魔法を使用"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:2
+msgctxt "NORMHELP.DAT#2"
+msgid ""
+"　　　＜アイテム＞\n"
+"　　　アイテムを使用／アイテムを捨てる"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:3
+msgctxt "NORMHELP.DAT#3"
+msgid ""
+"　　　＜装備＞\n"
+"　　　装備／おすすめ装備／装備をはずす"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:4
+msgctxt "NORMHELP.DAT#4"
+msgid ""
+"　　　＜詳細ステータスの表示＞\n"
+"　　　人間・仲魔の状態のチェック"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:5
+msgctxt "NORMHELP.DAT#5"
+msgid ""
+"＜位置変更＞\n"
+"移動元のポジションを選択"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:6
+msgctxt "NORMHELP.DAT#6"
+msgid ""
+"＜位置変更＞\n"
+"移動先のポジションを選択"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:7
+msgctxt "NORMHELP.DAT#7"
+msgid ""
+"＜仲魔を呼ぶ＞\n"
+"召喚する仲魔を選択"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:8
+msgctxt "NORMHELP.DAT#8"
+msgid ""
+"＜仲魔を呼ぶ＞\n"
+"召喚先のポジションを選択"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:9
+msgctxt "NORMHELP.DAT#9"
+msgid ""
+"＜仲魔を戻す＞\n"
+"「COMP」側パネルにて決定"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:10
+msgctxt "NORMHELP.DAT#10"
+msgid ""
+"＜注意！＞\n"
+"仲魔をはずすを選択中"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:11
+msgctxt "NORMHELP.DAT#11"
+msgid ""
+"＜フォーメーション・エラー＞\n"
+"前衛が「行動不能」または「EMPTY」"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:12
+msgctxt "NORMHELP.DAT#12"
+msgid ""
+"＜魔法＞\n"
+"魔法を使用するメンバーを選択"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:13
+msgctxt "NORMHELP.DAT#13"
+msgid ""
+"＜魔法＞\n"
+"使用する対象を選択"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:14
+msgctxt "NORMHELP.DAT#14"
+msgid ""
+"＜アイテム＞\n"
+"使用する対象を選択"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:15
+msgctxt "NORMHELP.DAT#15"
+msgid ""
+"＜アイテム＞\n"
+"現在選択中のアイテムを放棄"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:16
+msgctxt "NORMHELP.DAT#16"
+msgid ""
+"＜注意！＞\n"
+"現在装備しているアイテムを選択中"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:17
+msgctxt "NORMHELP.DAT#17"
+msgid ""
+"＜装備＞\n"
+"装備するメンバーを選択"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:18
+msgctxt "NORMHELP.DAT#18"
+msgid ""
+"＜装備＞\n"
+"装備する部位を選択"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:19
+msgctxt "NORMHELP.DAT#19"
+msgid ""
+"＜おすすめ装備＞\n"
+"最高の攻撃力・防御力のアイテムを装備"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:20
+msgctxt "NORMHELP.DAT#20"
+msgid ""
+"＜装備をはずす＞\n"
+"決定後　部位を選択"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:21
+msgctxt "NORMHELP.DAT#21"
+msgid ""
+"＜詳細ステータスの表示＞\n"
+"表示するメンバーを選択"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:22
+msgctxt "NORMHELP.DAT#22"
+msgid "　　　　　＜貴重品　LIST＞"
+msgstr ""
+
+#. Context: One-line help shown for field menu commands.
+#. Limit: One line. Current English fits in 40 letters; the build check reports anything too long.
+#: NORMHELP.DAT:23
+msgctxt "NORMHELP.DAT#23"
+msgid ""
+"＜パーティー属性・エラー＞\n"
+"パーティー属性と異なる属性の仲魔を選択中"
+msgstr ""
