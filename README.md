@@ -44,7 +44,7 @@ Your version is shown at the **bottom right of the title screen** (`EN v0.10.0 R
   8 letters. Type your **first** name in the left box and your **last** name in the right box.
 - **Graphics:** signs, banners and posters in dungeons and town, backgrounds and two movie scenes.
 - **Movies:** the news report in the opening movie is subtitled.
-- **Credits:** staff names romanized in Western order, opening with a "Translated by Janos42us & Cai" page.
+- **Credits:** staff names romanized in Western order, opening with a "Translated by Janos42us" page.
 
 ## Style notes
 
