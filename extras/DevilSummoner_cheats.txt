@@ -1,0 +1,50 @@
+Shin Megami Tensei: Devil Summoner (Saturn, T-14403G) - Action Replay codes
+Work on Rev A (V1.000) and Rev B (V3.000), with or without the English patch.
+Emulators (Yaba Sanshiro, Yabause) do not need the master code; a real Action Replay does:
+Master code: F6000914 C305 / B6002800 0000
+
+Max money
+10204024 0098
+10204026 967F
+
+Max magnetite
+10204028 000F
+1020402A 423F
+
+Hero: max EXP
+10205000 05F5
+10205002 E0FF
+
+Hero: HP 999
+10205006 03E7
+
+Hero: St 99
+30205030 0063
+
+Hero: In 99
+30205031 0063
+
+Hero: Ma 99
+30205032 0063
+
+Hero: Vi 99
+30205033 0063
+
+Hero: Ag 25 (safe on Rev A)
+30205034 0019
+
+Hero: Ag 99 (Rev B only - Rev A agility bug)
+30205034 0063
+
+Hero: Lu 99
+30205035 0063
+
+Set values (replace xx / xxxx):
+Hero: Level              1020501A xxxx   (e.g. 0063 = 99)
+Hero: Sword / Gun / Ammo 30205042 00xx / 30205043 00xx / 30205044 00xx
+Hero: Helmet / Armor     30205045 00xx / 30205046 00xx
+Hero: Gloves / Boots     30205047 00xx / 30205048 00xx
+Hero: Ammo count         30205049 00xx
+
+Rev A has a bug where agility above 25 stops working (fixed in Rev B), so on Rev A use the "Ag 25" code.
+Source: ds-cheat.boy.jp/ss/megaten_devil_summoner.html
