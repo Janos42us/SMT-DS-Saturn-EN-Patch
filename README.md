@@ -77,6 +77,7 @@ Please open an issue with:
 - where in the game it happened,
 - your disc (**Rev A** or **Rev B**),
 - the version from the title screen.
+- if possible a save backup (.bup) to speed up testing
 
 ## Versions
 Finally un-jacked naming scheme!
