@@ -110,6 +110,9 @@ First and last names support up to **eight letters each**.
 - **Left box:** First name.
 - **Right box:** Last name.
 
+> [!IMPORTANT]
+> **Use only the capital-letter font when entering or editing names.** Enter names entirely in uppercase, such as `KYOUJI`, Trust me.
+
 </details>
 
 ## 📝 Translation and Formatting Notes
