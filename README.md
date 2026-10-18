@@ -107,8 +107,8 @@ These screens use the game's smaller 12-pixel font, with English letters drawn 6
 
 First and last names support up to **eight letters each**.
 
-- **Left box:** First name.
-- **Right box:** Last name.
+- **Left box:** Last name.
+- **Right box:** First name.
 
 > [!IMPORTANT]
 > **Use only the capital-letter font when entering or editing names.** Enter names entirely in uppercase, such as `KYOUJI`, Trust me.
