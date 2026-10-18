@@ -3,7 +3,7 @@
 # Shin Megami Tensei: Devil Summoner
 ### English Translation Patch · Sega Saturn
 
-![Version](https://img.shields.io/badge/version-0.10.0-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-0.10.1-blue?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Sega_Saturn-black?style=for-the-badge)
 ![Disc Support](https://img.shields.io/badge/discs-Rev_A_%26_Rev_B-purple?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-Community_Testing-orange?style=for-the-badge)
