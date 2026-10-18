@@ -1,0 +1,173 @@
+# Shin Megami Tensei: Devil Summoner (Sega Saturn, 1995): Japanese script for translation.
+# Source: the project's extraction of the original Japanese text (Japan Rev A disc).
+# File: COMBDATA/BOSSTALK.EVE
+# One entry per message. msgctxt is the line ID; keep it unchanged.
+# msgid is the original Japanese (do not edit). Write the translation in msgstr.
+# See README_translator.md for tags, limits and the story overview.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Devil Summoner Saturn COMBDATA/BOSSTALK.EVE\n"
+"POT-Creation-Date: 2026-10-15 00:00+0000\n"
+"Language: en\n"
+"X-Source-Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Context: Lines bosses say when the player tries to negotiate with them in battle (they refuse).
+#. Limit: Text box: 3 lines of 40 letters (20 tiles, 2 letters per tile). The build re-wraps lines, so
+#. line breaks are only hints. If a line needs more room, add [wait][box] to start another box.
+#. Tags: [pause] = short pause in the text.
+#: COMBDATA/BOSSTALK.EVE:0
+msgctxt "COMBDATA/BOSSTALK.EVE#0"
+msgid ""
+"グゲグゲグゲゲゲェ[pause]\n"
+"おまえとは　話したくねぇゾォ"
+msgstr ""
+
+#. Context: Lines bosses say when the player tries to negotiate with them in battle (they refuse).
+#. Limit: Text box: 3 lines of 40 letters (20 tiles, 2 letters per tile). The build re-wraps lines, so
+#. line breaks are only hints. If a line needs more room, add [wait][box] to start another box.
+#. Tags: [pause] = short pause in the text.
+#: COMBDATA/BOSSTALK.EVE:1
+msgctxt "COMBDATA/BOSSTALK.EVE#1"
+msgid ""
+"グゲグゲグゲゲゲェ[pause]\n"
+"話すより　おまえの血だぁ！！"
+msgstr ""
+
+#. Context: Lines bosses say when the player tries to negotiate with them in battle (they refuse).
+#. Limit: Text box: 3 lines of 40 letters (20 tiles, 2 letters per tile). The build re-wraps lines, so
+#. line breaks are only hints. If a line needs more room, add [wait][box] to start another box.
+#: COMBDATA/BOSSTALK.EVE:2
+msgctxt "COMBDATA/BOSSTALK.EVE#2"
+msgid "おまえと話すことなど無い！！"
+msgstr ""
+
+#. Context: Lines bosses say when the player tries to negotiate with them in battle (they refuse).
+#. Limit: Text box: 3 lines of 40 letters (20 tiles, 2 letters per tile). The build re-wraps lines, so
+#. line breaks are only hints. If a line needs more room, add [wait][box] to start another box.
+#. Tags: [pause] = short pause in the text.
+#: COMBDATA/BOSSTALK.EVE:3
+msgctxt "COMBDATA/BOSSTALK.EVE#3"
+msgid ""
+"話そうだと？[pause]\n"
+"これでもくらえ！！"
+msgstr ""
+
+#. Context: Lines bosses say when the player tries to negotiate with them in battle (they refuse).
+#. Limit: Text box: 3 lines of 40 letters (20 tiles, 2 letters per tile). The build re-wraps lines, so
+#. line breaks are only hints. If a line needs more room, add [wait][box] to start another box.
+#: COMBDATA/BOSSTALK.EVE:4
+msgctxt "COMBDATA/BOSSTALK.EVE#4"
+msgid "あたしと何か話すことがあるの！？"
+msgstr ""
+
+#. Context: Lines bosses say when the player tries to negotiate with them in battle (they refuse).
+#. Limit: Text box: 3 lines of 40 letters (20 tiles, 2 letters per tile). The build re-wraps lines, so
+#. line breaks are only hints. If a line needs more room, add [wait][box] to start another box.
+#: COMBDATA/BOSSTALK.EVE:5
+msgctxt "COMBDATA/BOSSTALK.EVE#5"
+msgid "あたしの答えは　これよ！！"
+msgstr ""
+
+#. Context: Lines bosses say when the player tries to negotiate with them in battle (they refuse).
+#. Limit: Text box: 3 lines of 40 letters (20 tiles, 2 letters per tile). The build re-wraps lines, so
+#. line breaks are only hints. If a line needs more room, add [wait][box] to start another box.
+#: COMBDATA/BOSSTALK.EVE:6
+msgctxt "COMBDATA/BOSSTALK.EVE#6"
+msgid "きさまと話すことなど　何も無い！！"
+msgstr ""
+
+#. Context: Lines bosses say when the player tries to negotiate with them in battle (they refuse).
+#. Limit: Text box: 3 lines of 40 letters (20 tiles, 2 letters per tile). The build re-wraps lines, so
+#. line breaks are only hints. If a line needs more room, add [wait][box] to start another box.
+#. Tags: [pause] = short pause in the text.
+#: COMBDATA/BOSSTALK.EVE:7
+msgctxt "COMBDATA/BOSSTALK.EVE#7"
+msgid ""
+"話をしたいか？[pause]\n"
+"ならば　きさまの身体に　聞いてやろう！！"
+msgstr ""
+
+#. Context: Lines bosses say when the player tries to negotiate with them in battle (they refuse).
+#. Limit: Text box: 3 lines of 40 letters (20 tiles, 2 letters per tile). The build re-wraps lines, so
+#. line breaks are only hints. If a line needs more room, add [wait][box] to start another box.
+#: COMBDATA/BOSSTALK.EVE:8
+msgctxt "COMBDATA/BOSSTALK.EVE#8"
+msgid ""
+"語リ合ウコトカラハ　何モ生マレヌ\n"
+"人ノ言葉ナド　全テ　イツワリジャ！！"
+msgstr ""
+
+#. Context: Lines bosses say when the player tries to negotiate with them in battle (they refuse).
+#. Limit: Text box: 3 lines of 40 letters (20 tiles, 2 letters per tile). The build re-wraps lines, so
+#. line breaks are only hints. If a line needs more room, add [wait][box] to start another box.
+#: COMBDATA/BOSSTALK.EVE:9
+msgctxt "COMBDATA/BOSSTALK.EVE#9"
+msgid ""
+"言葉ヲ　モテアソビシ者ヨ\n"
+"コレガ　ワラワノ答エジャ！！"
+msgstr ""
+
+#. Context: Lines bosses say when the player tries to negotiate with them in battle (they refuse).
+#. Limit: Text box: 3 lines of 40 letters (20 tiles, 2 letters per tile). The build re-wraps lines, so
+#. line breaks are only hints. If a line needs more room, add [wait][box] to start another box.
+#: COMBDATA/BOSSTALK.EVE:10
+msgctxt "COMBDATA/BOSSTALK.EVE#10"
+msgid "あなたと話すことハ　何もありませン！！"
+msgstr ""
+
+#. Context: Lines bosses say when the player tries to negotiate with them in battle (they refuse).
+#. Limit: Text box: 3 lines of 40 letters (20 tiles, 2 letters per tile). The build re-wraps lines, so
+#. line breaks are only hints. If a line needs more room, add [wait][box] to start another box.
+#. Tags: [pause] = short pause in the text.
+#: COMBDATA/BOSSTALK.EVE:11
+msgctxt "COMBDATA/BOSSTALK.EVE#11"
+msgid ""
+"そんなに話したけれバ　お話ししましょウ[pause]\n"
+"フッフッフッフッフ[pause]\n"
+"こんにちハ！　おはようございまス！"
+msgstr ""
+
+#. Context: Lines bosses say when the player tries to negotiate with them in battle (they refuse).
+#. Limit: Text box: 3 lines of 40 letters (20 tiles, 2 letters per tile). The build re-wraps lines, so
+#. line breaks are only hints. If a line needs more room, add [wait][box] to start another box.
+#. Tags: [$20] = end of coloured text; [$25] = start of coloured text (colour 5); [pause] = short pause
+#. in the text.
+#: COMBDATA/BOSSTALK.EVE:12
+msgctxt "COMBDATA/BOSSTALK.EVE#12"
+msgid ""
+"メイレイ　ジッコウ\n"
+"コンディション　[pause][$25]O[pause]K！！[$20]"
+msgstr ""
+
+#. Context: Lines bosses say when the player tries to negotiate with them in battle (they refuse).
+#. Limit: Text box: 3 lines of 40 letters (20 tiles, 2 letters per tile). The build re-wraps lines, so
+#. line breaks are only hints. If a line needs more room, add [wait][box] to start another box.
+#: COMBDATA/BOSSTALK.EVE:13
+msgctxt "COMBDATA/BOSSTALK.EVE#13"
+msgid ""
+"メイレイ　カクニン\n"
+"オマエ　コロス！！"
+msgstr ""
+
+#. Context: Lines bosses say when the player tries to negotiate with them in battle (they refuse).
+#. Limit: Text box: 3 lines of 40 letters (20 tiles, 2 letters per tile). The build re-wraps lines, so
+#. line breaks are only hints. If a line needs more room, add [wait][box] to start another box.
+#. Looks like a menu or choice label: keep it to 18 letters or fewer.
+#. Same Japanese also at: BUTU_SRF.MDT#15, BUTU_SRF.MDT#51, BUTU_SRF.MDT#87, BUTU_SRF.MDT#123.
+#: COMBDATA/BOSSTALK.EVE:14
+msgctxt "COMBDATA/BOSSTALK.EVE#14"
+msgid "・・・・・・・・。"
+msgstr ""
+
+#. Context: Lines bosses say when the player tries to negotiate with them in battle (they refuse).
+#. Limit: Text box: 3 lines of 40 letters (20 tiles, 2 letters per tile). The build re-wraps lines, so
+#. line breaks are only hints. If a line needs more room, add [wait][box] to start another box.
+#. Looks like a menu or choice label: keep it to 18 letters or fewer.
+#: COMBDATA/BOSSTALK.EVE:15
+msgctxt "COMBDATA/BOSSTALK.EVE#15"
+msgid "・・・・・・・・！"
+msgstr ""

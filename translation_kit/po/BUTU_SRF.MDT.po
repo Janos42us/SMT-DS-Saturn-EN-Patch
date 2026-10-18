@@ -1,0 +1,636 @@
+# Shin Megami Tensei: Devil Summoner (Sega Saturn, 1995): Japanese script for translation.
+# Source: the project's extraction of the original Japanese text (Japan Rev A disc).
+# File: BUTU_SRF.MDT
+# One entry per message. msgctxt is the line ID; keep it unchanged.
+# msgid is the original Japanese (do not edit). Write the translation in msgstr.
+# See README_translator.md for tags, limits and the story overview.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Devil Summoner Saturn BUTU_SRF.MDT\n"
+"POT-Creation-Date: 2026-10-15 00:00+0000\n"
+"Language: en\n"
+"X-Source-Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:0
+msgctxt "BUTU_SRF.MDT#0"
+msgid ""
+"要ラヌワ・・・\n"
+"シマッテオケ。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:1
+msgctxt "BUTU_SRF.MDT#1"
+msgid ""
+"ソレ、イラナイ。\n"
+"オレニハ、イラナイ。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:2
+msgctxt "BUTU_SRF.MDT#2"
+msgid ""
+"我には要り用のない物。\n"
+"もとに収めておくがよろし。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:3
+msgctxt "BUTU_SRF.MDT#3"
+msgid ""
+"ふむ、文字通りつまらないものですね。\n"
+"私は遠慮させていただきましょう。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:4
+msgctxt "BUTU_SRF.MDT#4"
+msgid ""
+"わたくしに、まさかそのような不粋な物が\n"
+"似合うと、お思いではないでしょうね。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:5
+msgctxt "BUTU_SRF.MDT#5"
+msgid "なんだよそれ、要らねえよそんなもん。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:6
+msgctxt "BUTU_SRF.MDT#6"
+msgid "なにそれー、あんたバカじゃないの？"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:7
+msgctxt "BUTU_SRF.MDT#7"
+msgid ""
+"子供を物でつるつもりなの？\n"
+"まったく大人ってのは・・・。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:8
+msgctxt "BUTU_SRF.MDT#8"
+msgid "おじちゃん、あたし、そんなの要らない。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:9
+msgctxt "BUTU_SRF.MDT#9"
+msgid ""
+"まあ、嬉しい。\n"
+"でも、気持ちだけ頂くことにするわね。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:10
+msgctxt "BUTU_SRF.MDT#10"
+msgid ""
+"えへへへへ、いいもんくれんじゃねえか。\n"
+"さっそく捨ててやるよ。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:11
+msgctxt "BUTU_SRF.MDT#11"
+msgid ""
+"ふぉっふぉっふぉっ、\n"
+"そいつは、わしには不用のものじゃのう。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:12
+msgctxt "BUTU_SRF.MDT#12"
+msgid ""
+"キミ、ゴミはくずかごに捨てたまえ。\n"
+"そんなもの渡されても困るんだよ。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:13
+msgctxt "BUTU_SRF.MDT#13"
+msgid ""
+"そんなしょーもないもん、いるか！\n"
+"もっとましなもん、持ってこい。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:14
+msgctxt "BUTU_SRF.MDT#14"
+msgid ""
+"ヌルヌル？\n"
+"ズーズーズズー・・・。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Same Japanese also at: COMBDATA/BOSSTALK.EVE#14, BUTU_SRF.MDT#51, BUTU_SRF.MDT#87, BUTU_SRF.MDT#123.
+#: BUTU_SRF.MDT:15
+msgctxt "BUTU_SRF.MDT#15"
+msgid "・・・・・・・・。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:36
+msgctxt "BUTU_SRF.MDT#36"
+msgid "フム、モラオウカ。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:37
+msgctxt "BUTU_SRF.MDT#37"
+msgid "ソレ、モラウゾ。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:38
+msgctxt "BUTU_SRF.MDT#38"
+msgid ""
+"特に要り用の物ではないが、\n"
+"収めておくことにするぞえ。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:39
+msgctxt "BUTU_SRF.MDT#39"
+msgid ""
+"貴殿からの贈り物、\n"
+"有難く、頂くことにしよう。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:40
+msgctxt "BUTU_SRF.MDT#40"
+msgid "今回は、これで我慢してあげますわ。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:41
+msgctxt "BUTU_SRF.MDT#41"
+msgid ""
+"それ、俺にくれるのか？\n"
+"まあ、もらっといてやるよ。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:42
+msgctxt "BUTU_SRF.MDT#42"
+msgid ""
+"ちょっとぉ、他に何かないわけ？\n"
+"まあ、仕方ないわね、もらってあげるわ。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:43
+msgctxt "BUTU_SRF.MDT#43"
+msgid ""
+"ありがとう、おじさん。\n"
+"子供は素直に受け取らなきゃね。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:44
+msgctxt "BUTU_SRF.MDT#44"
+msgid ""
+"あたし、つまんなくても、物って大好き。\n"
+"おじちゃん、ありがとね。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:45
+msgctxt "BUTU_SRF.MDT#45"
+msgid ""
+"まあ、嬉しい。\n"
+"次はもっと、いいものくれるんでしょう？"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:46
+msgctxt "BUTU_SRF.MDT#46"
+msgid ""
+"そんなの要らねえよ。\n"
+"もっとくれ。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:47
+msgctxt "BUTU_SRF.MDT#47"
+msgid ""
+"豊かなことは、ええことじゃのう。\n"
+"頂くぞい。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:48
+msgctxt "BUTU_SRF.MDT#48"
+msgid ""
+"どうしてもと言うのでしたら、\n"
+"仕方ない、引き取ってあげましょう。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:49
+msgctxt "BUTU_SRF.MDT#49"
+msgid ""
+"まぁそんぐらいで、まけといたろか。\n"
+"おおきに。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:50
+msgctxt "BUTU_SRF.MDT#50"
+msgid ""
+"ピチャッピチャッ、\n"
+"ズズー・・・。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Same Japanese also at: COMBDATA/BOSSTALK.EVE#14, BUTU_SRF.MDT#15, BUTU_SRF.MDT#87, BUTU_SRF.MDT#123.
+#: BUTU_SRF.MDT:51
+msgctxt "BUTU_SRF.MDT#51"
+msgid "・・・・・・・・。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:72
+msgctxt "BUTU_SRF.MDT#72"
+msgid ""
+"ツネヅネ、嬉シイコトヲ、シテクレル。\n"
+"人間ニ、シテオクニハ、モッタイナイナ。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:73
+msgctxt "BUTU_SRF.MDT#73"
+msgid ""
+"オレ、ウレシイ。スゴク、ウレシイ。\n"
+"コンゴトモ、ヨロシク。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:74
+msgctxt "BUTU_SRF.MDT#74"
+msgid ""
+"我らのきずな、\n"
+"より堅固に結ばれていく。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:75
+msgctxt "BUTU_SRF.MDT#75"
+msgid ""
+"貴殿に忠誠を誓う時も、\n"
+"そう遠くはないだろう。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:76
+msgctxt "BUTU_SRF.MDT#76"
+msgid ""
+"そんなに私のことが気になりますの？\n"
+"今夜、つきあってあげてもよくってよ。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:77
+msgctxt "BUTU_SRF.MDT#77"
+msgid ""
+"忠誠度アーップ！\n"
+"＞俺の気持ちが上がった。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:78
+msgctxt "BUTU_SRF.MDT#78"
+msgid ""
+"あたし・・・、いつかきっと、\n"
+"あなたのモノになったげる。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:79
+msgctxt "BUTU_SRF.MDT#79"
+msgid ""
+"へえ、ボクの欲しい物よくわかるね。\n"
+"おじさん、いいとこあるじゃん。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:80
+msgctxt "BUTU_SRF.MDT#80"
+msgid ""
+"ねぇ、おじちゃんって、\n"
+"なんでこんなに優しいの。アリガトウ。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:81
+msgctxt "BUTU_SRF.MDT#81"
+msgid ""
+"あら素敵！プレゼントって、\n"
+"幾つになっても、嬉しいものなのよね。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:82
+msgctxt "BUTU_SRF.MDT#82"
+msgid ""
+"ふざけんじゃねえぞ、コラ！\n"
+"スゲエ、嬉しいじゃねえか。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:83
+msgctxt "BUTU_SRF.MDT#83"
+msgid ""
+"先の短い年寄りには、もったいないのう。\n"
+"いつも感謝してるぞい。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:84
+msgctxt "BUTU_SRF.MDT#84"
+msgid ""
+"物欲を利用しようというのですか・・・。\n"
+"・・・なるほどね。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:85
+msgctxt "BUTU_SRF.MDT#85"
+msgid ""
+"やったー、おおきに、ありがとう。\n"
+"ごっつ嬉しいなぁ。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:86
+msgctxt "BUTU_SRF.MDT#86"
+msgid ""
+"ズーズーズー！\n"
+"ズーズズー！"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Same Japanese also at: COMBDATA/BOSSTALK.EVE#14, BUTU_SRF.MDT#15, BUTU_SRF.MDT#51, BUTU_SRF.MDT#123.
+#: BUTU_SRF.MDT:87
+msgctxt "BUTU_SRF.MDT#87"
+msgid "・・・・・・・・。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:108
+msgctxt "BUTU_SRF.MDT#108"
+msgid "長イ、ツキアイニ、ナリソウダナ。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:109
+msgctxt "BUTU_SRF.MDT#109"
+msgid ""
+"キサマ、ヨクシテクレル。\n"
+"ダカラ、オレサマ、カワル。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:110
+msgctxt "BUTU_SRF.MDT#110"
+msgid ""
+"年々歳々花相似、歳々年々人不同・・・。\n"
+"然し、我は永遠の忠誠を誓うなり。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:111
+msgctxt "BUTU_SRF.MDT#111"
+msgid ""
+"貴殿と出会えたことを、感謝する。\n"
+"感謝だけでは足りんかもな・・・。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:112
+msgctxt "BUTU_SRF.MDT#112"
+msgid "今までつくしてくれたお礼をしたいわ。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:113
+msgctxt "BUTU_SRF.MDT#113"
+msgid ""
+"俺も恩義を知らないわけじゃねぇからな。\n"
+"いいぜ、業魔殿に連れていけよ。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:114
+msgctxt "BUTU_SRF.MDT#114"
+msgid ""
+"ここまでされちゃ、アタシだって・・・、\n"
+"私を業魔殿へ連れてって！"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:115
+msgctxt "BUTU_SRF.MDT#115"
+msgid ""
+"今度から、おじさんのこと、\n"
+"お兄さんって呼ぶよ。いいだろ・・・。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:116
+msgctxt "BUTU_SRF.MDT#116"
+msgid ""
+"おじちゃん、あたしがいないと困る？\n"
+"いつも、いっしょにいてあげるね。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:117
+msgctxt "BUTU_SRF.MDT#117"
+msgid ""
+"あなたの気持ちだけで十分なのに・・・。\n"
+"アタシ、いつもあなたの側にいたい・・・。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:118
+msgctxt "BUTU_SRF.MDT#118"
+msgid ""
+"オレとおまえは、ウッキーだ。\n"
+"これからも、よきウッキーでいよう。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:119
+msgctxt "BUTU_SRF.MDT#119"
+msgid ""
+"わしのような老いぼれでよければ、\n"
+"今後もお世話になろうかの、ほっほっほ。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:120
+msgctxt "BUTU_SRF.MDT#120"
+msgid ""
+"よくここまで俺の関心をひいたな。\n"
+"ま、お約束だ。いいぜ、好きにしろよ。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:121
+msgctxt "BUTU_SRF.MDT#121"
+msgid ""
+"いろいろ世話になったから、\n"
+"このぐらいでなんか、お返しせんとなぁ。"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#: BUTU_SRF.MDT:122
+msgctxt "BUTU_SRF.MDT#122"
+msgid ""
+"ズズーッピチャッ！！！\n"
+"ズズズーーッ！！！"
+msgstr ""
+
+#. Context: Short lines spoken during battle by another group of characters (read the lines).
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Same Japanese also at: COMBDATA/BOSSTALK.EVE#14, BUTU_SRF.MDT#15, BUTU_SRF.MDT#51, BUTU_SRF.MDT#87.
+#: BUTU_SRF.MDT:123
+msgctxt "BUTU_SRF.MDT#123"
+msgid "・・・・・・・・。"
+msgstr ""

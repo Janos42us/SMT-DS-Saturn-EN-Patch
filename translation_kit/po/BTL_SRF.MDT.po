@@ -1,0 +1,2040 @@
+# Shin Megami Tensei: Devil Summoner (Sega Saturn, 1995): Japanese script for translation.
+# Source: the project's extraction of the original Japanese text (Japan Rev A disc).
+# File: BTL_SRF.MDT
+# One entry per message. msgctxt is the line ID; keep it unchanged.
+# msgid is the original Japanese (do not edit). Write the translation in msgstr.
+# See README_translator.md for tags, limits and the story overview.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Devil Summoner Saturn BTL_SRF.MDT\n"
+"POT-Creation-Date: 2026-10-15 00:00+0000\n"
+"Language: en\n"
+"X-Source-Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:0
+msgctxt "BTL_SRF.MDT#0"
+msgid ""
+"オイ、ショウカンシ、\n"
+"ナニカイッタカ？[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:1
+msgctxt "BTL_SRF.MDT#1"
+msgid ""
+"ア〜、ダル〜。\n"
+"チョット、マッテクレ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:2
+msgctxt "BTL_SRF.MDT#2"
+msgid ""
+"なにゆえ、そなたは\n"
+"戦うのじゃ？[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:3
+msgctxt "BTL_SRF.MDT#3"
+msgid ""
+"高みの見物とでも、\n"
+"シャレこもうか。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:4
+msgctxt "BTL_SRF.MDT#4"
+msgid ""
+"誰に命令しているのか、\n"
+"わかっていらっしゃる？[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:5
+msgctxt "BTL_SRF.MDT#5"
+msgid ""
+"なあ、俺、後で、\n"
+"合体させられんの？[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:6
+msgctxt "BTL_SRF.MDT#6"
+msgid ""
+"やっだ、もー、足首、\n"
+"いった〜い。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:7
+msgctxt "BTL_SRF.MDT#7"
+msgid ""
+"おじさんさー、だれでも\n"
+"殺っちゃうんだね。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:8
+msgctxt "BTL_SRF.MDT#8"
+msgid ""
+"おじちゃんってさあ、\n"
+"らんぼう・・・だよね。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:9
+msgctxt "BTL_SRF.MDT#9"
+msgid ""
+"ねえ、口紅はげてないか\n"
+"見てくれない？[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:10
+msgctxt "BTL_SRF.MDT#10"
+msgid ""
+"ボイコットは人の名だ。\n"
+"・・・知ってた？[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:11
+msgctxt "BTL_SRF.MDT#11"
+msgid ""
+"そんなことよりなー、\n"
+"若いの、はげんどるか？[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:12
+msgctxt "BTL_SRF.MDT#12"
+msgid ""
+"自分が何をしているか、\n"
+"わかっているんですか？[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:13
+msgctxt "BTL_SRF.MDT#13"
+msgid ""
+"そんなことゆ〜ても、\n"
+"やらへんで〜。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:14
+msgctxt "BTL_SRF.MDT#14"
+msgid "ズズー！ズズー！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#. Same Japanese also at: BTL_SRF.MDT#51, BTL_SRF.MDT#87, BTL_SRF.MDT#123, BTL_SRF.MDT#159,
+#. BTL_SRF.MDT#195, BTL_SRF.MDT#231.
+#: BTL_SRF.MDT:15
+msgctxt "BTL_SRF.MDT#15"
+msgid "・・・・・・・・。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:36
+msgctxt "BTL_SRF.MDT#36"
+msgid ""
+"イイカラ、ワタシニ\n"
+"マカセロ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:37
+msgctxt "BTL_SRF.MDT#37"
+msgid ""
+"オレサマ、メイレイ、\n"
+"キライ、ダマッテロ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:38
+msgctxt "BTL_SRF.MDT#38"
+msgid ""
+"我に命令するとは、\n"
+"おろかしい奴よのう。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:39
+msgctxt "BTL_SRF.MDT#39"
+msgid ""
+"こうするのが、最も、\n"
+"合理的な方法なのだ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:40
+msgctxt "BTL_SRF.MDT#40"
+msgid ""
+"わたくし、やりたい事を\n"
+"させて頂くわ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:41
+msgctxt "BTL_SRF.MDT#41"
+msgid ""
+"お前なー、命令すんのは\n"
+"召喚だけにしとけよ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:42
+msgctxt "BTL_SRF.MDT#42"
+msgid ""
+"あんた、けっこう、\n"
+"口うるさいのね。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:43
+msgctxt "BTL_SRF.MDT#43"
+msgid ""
+"ボクねー、おじさん、\n"
+"シンヨーできないなぁ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:44
+msgctxt "BTL_SRF.MDT#44"
+msgid ""
+"おじちゃんのいうこと、\n"
+"ときどきわかんなぁい。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:45
+msgctxt "BTL_SRF.MDT#45"
+msgid ""
+"クリスマスに、一人で\n"
+"いたい、女もいるのよ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:46
+msgctxt "BTL_SRF.MDT#46"
+msgid ""
+"おまえは、オレレレレ、\n"
+"オレじゃねえんだよ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:47
+msgctxt "BTL_SRF.MDT#47"
+msgid ""
+"ヒャッヒャッヒャ〜、\n"
+"若いもんは、黙っとれ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:48
+msgctxt "BTL_SRF.MDT#48"
+msgid ""
+"違うなぁ、キミには\n"
+"わからないのかなぁ？[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:49
+msgctxt "BTL_SRF.MDT#49"
+msgid ""
+"こんなもんで・・・、\n"
+"ええやろ？[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:50
+msgctxt "BTL_SRF.MDT#50"
+msgid "ズル？[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#. Same Japanese also at: BTL_SRF.MDT#15, BTL_SRF.MDT#87, BTL_SRF.MDT#123, BTL_SRF.MDT#159,
+#. BTL_SRF.MDT#195, BTL_SRF.MDT#231.
+#: BTL_SRF.MDT:51
+msgctxt "BTL_SRF.MDT#51"
+msgid "・・・・・・・・。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:72
+msgctxt "BTL_SRF.MDT#72"
+msgid ""
+"オマエノ命令、\n"
+"ゼッタイ、聞カナイ！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:73
+msgctxt "BTL_SRF.MDT#73"
+msgid ""
+"メイレイ、イヤ！！\n"
+"オマエ、黙ル、イイ！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:74
+msgctxt "BTL_SRF.MDT#74"
+msgid ""
+"そこまで突っ込んだ\n"
+"命令は聞かん！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:75
+msgctxt "BTL_SRF.MDT#75"
+msgid ""
+"私に指図は必要ない。\n"
+"よって命令は無視する！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:76
+msgctxt "BTL_SRF.MDT#76"
+msgid ""
+"そこまでの指図は、\n"
+"聞けないですわ！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:77
+msgctxt "BTL_SRF.MDT#77"
+msgid ""
+"そこまでいうなら、\n"
+"俺はこうする。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:78
+msgctxt "BTL_SRF.MDT#78"
+msgid ""
+"そんな命令、グッバイ、\n"
+"さよならってカンジー。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:79
+msgctxt "BTL_SRF.MDT#79"
+msgid ""
+"あれしろ、これしろ、\n"
+"やだぁー！もー！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:80
+msgctxt "BTL_SRF.MDT#80"
+msgid ""
+"ゴーでいいったら！！\n"
+"ゴーにしてよぉ〜！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:81
+msgctxt "BTL_SRF.MDT#81"
+msgid ""
+"言いなりは絶対にイヤ！\n"
+"かまわないで！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:82
+msgctxt "BTL_SRF.MDT#82"
+msgid ""
+"やい、召喚師・・・、\n"
+"GOにしとけよ！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:83
+msgctxt "BTL_SRF.MDT#83"
+msgid ""
+"若い者のたわごとなぞ、\n"
+"聞かんのじゃい！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:84
+msgctxt "BTL_SRF.MDT#84"
+msgid ""
+"信用がないんですね。\n"
+"ご命令は却下します。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:85
+msgctxt "BTL_SRF.MDT#85"
+msgid ""
+"えらい、召喚師やな。\n"
+"聞かへんで。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:86
+msgctxt "BTL_SRF.MDT#86"
+msgid "ズル！ズルル！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#. Same Japanese also at: BTL_SRF.MDT#15, BTL_SRF.MDT#51, BTL_SRF.MDT#123, BTL_SRF.MDT#159,
+#. BTL_SRF.MDT#195, BTL_SRF.MDT#231.
+#: BTL_SRF.MDT:87
+msgctxt "BTL_SRF.MDT#87"
+msgid "・・・・・・・・。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:108
+msgctxt "BTL_SRF.MDT#108"
+msgid ""
+"ワカラヌ奴・・・\n"
+"・・・キカヌ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:109
+msgctxt "BTL_SRF.MDT#109"
+msgid ""
+"コマンドイレスギ！！\n"
+"・・コマンド、ッテ？[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:110
+msgctxt "BTL_SRF.MDT#110"
+msgid ""
+"いやじゃ！！\n"
+"聞きとうない！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:111
+msgctxt "BTL_SRF.MDT#111"
+msgid ""
+"「GO」を待っている。[$10]\n"
+"それまではこうだ！！"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:112
+msgctxt "BTL_SRF.MDT#112"
+msgid ""
+"残念でしたわね！\n"
+"全部、あなたのせいよ！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:113
+msgctxt "BTL_SRF.MDT#113"
+msgid ""
+"やるよ、やるよ、\n"
+"でも、こーんなの。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:114
+msgctxt "BTL_SRF.MDT#114"
+msgid ""
+"ざったいわねー。\n"
+"聞きゃしないわよ！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:115
+msgctxt "BTL_SRF.MDT#115"
+msgid ""
+"子供を責めると、\n"
+"手がつけられんじょー！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:116
+msgctxt "BTL_SRF.MDT#116"
+msgid ""
+"ゴーがいいったら〜！！\n"
+"好きにさせてよぅ！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:117
+msgctxt "BTL_SRF.MDT#117"
+msgid ""
+"し〜た〜が〜い〜\n"
+"ま〜せ〜ん〜。ね？[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:118
+msgctxt "BTL_SRF.MDT#118"
+msgid "う、う、うがっー！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:119
+msgctxt "BTL_SRF.MDT#119"
+msgid ""
+"召喚師がそれじゃの〜、\n"
+"命令なぞ、無視じゃ！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:120
+msgctxt "BTL_SRF.MDT#120"
+msgid ""
+"あなたは自己チュウ？\n"
+"私は自己チュウです。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:121
+msgctxt "BTL_SRF.MDT#121"
+msgid ""
+"そこまで指示しといて、\n"
+"わしは、これやがな。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:122
+msgctxt "BTL_SRF.MDT#122"
+msgid "ズズッ！ズズズッ！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#. Same Japanese also at: BTL_SRF.MDT#15, BTL_SRF.MDT#51, BTL_SRF.MDT#87, BTL_SRF.MDT#159,
+#. BTL_SRF.MDT#195, BTL_SRF.MDT#231.
+#: BTL_SRF.MDT:123
+msgctxt "BTL_SRF.MDT#123"
+msgid "・・・・・・・・。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:144
+msgctxt "BTL_SRF.MDT#144"
+msgid "ナニカ変ナ、気分ダナ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:145
+msgctxt "BTL_SRF.MDT#145"
+msgid ""
+"ムラムラムラ。\n"
+"オレッテ・・イッタイ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:146
+msgctxt "BTL_SRF.MDT#146"
+msgid ""
+"どうしてか、ココロ\n"
+"はりさけそうじゃ！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:147
+msgctxt "BTL_SRF.MDT#147"
+msgid "・・・すまぬ！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:148
+msgctxt "BTL_SRF.MDT#148"
+msgid ""
+"わたくしときたら、\n"
+"心乱れて・・・。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:149
+msgctxt "BTL_SRF.MDT#149"
+msgid ""
+"ムラムラすんぜぇ〜、\n"
+"ちきしょー！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:150
+msgctxt "BTL_SRF.MDT#150"
+msgid ""
+"ちょっと、やだぁ〜、\n"
+"私、変になっちゃった。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:151
+msgctxt "BTL_SRF.MDT#151"
+msgid ""
+"おじさんたち、\n"
+"しんじゃえー！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:152
+msgctxt "BTL_SRF.MDT#152"
+msgid ""
+"おじちゃんたち、\n"
+"しんじゃえー！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:153
+msgctxt "BTL_SRF.MDT#153"
+msgid ""
+"あたしは、夜の蝶。\n"
+"浮気なLady。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:154
+msgctxt "BTL_SRF.MDT#154"
+msgid "ハァ、ハァ、ハァ・・。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:155
+msgctxt "BTL_SRF.MDT#155"
+msgid "ヒャヒッ、ヒャヒ〜！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:156
+msgctxt "BTL_SRF.MDT#156"
+msgid ""
+"キミたちのこと、実は、\n"
+"嫌ってたんだ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:157
+msgctxt "BTL_SRF.MDT#157"
+msgid "たまりまへんわ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:158
+msgctxt "BTL_SRF.MDT#158"
+msgid "ピチャピチャピチャ？[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#. Same Japanese also at: BTL_SRF.MDT#15, BTL_SRF.MDT#51, BTL_SRF.MDT#87, BTL_SRF.MDT#123,
+#. BTL_SRF.MDT#195, BTL_SRF.MDT#231.
+#: BTL_SRF.MDT:159
+msgctxt "BTL_SRF.MDT#159"
+msgid "・・・・・・・・。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:180
+msgctxt "BTL_SRF.MDT#180"
+msgid ""
+"ハテ、ワタシハ、\n"
+"ナニヲ、シテイルノダ？[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:181
+msgctxt "BTL_SRF.MDT#181"
+msgid ""
+"クルッテール、\n"
+"カンジテール。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:182
+msgctxt "BTL_SRF.MDT#182"
+msgid ""
+"我、思う故に我あり。\n"
+"天上天下唯我独尊・・。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:183
+msgctxt "BTL_SRF.MDT#183"
+msgid ""
+"私は、何をしてるのだ！\n"
+"・・・わからない！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:184
+msgctxt "BTL_SRF.MDT#184"
+msgid "どうなってますの？[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:185
+msgctxt "BTL_SRF.MDT#185"
+msgid ""
+"どーなってんだ！\n"
+"わけわかんねえんだよ！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:186
+msgctxt "BTL_SRF.MDT#186"
+msgid ""
+"もう、チンプンカンプン\n"
+"って感じー。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:187
+msgctxt "BTL_SRF.MDT#187"
+msgid ""
+"何やっていいんだか、\n"
+"全然わかんないも〜ん！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:188
+msgctxt "BTL_SRF.MDT#188"
+msgid ""
+"おじちゃん、\n"
+"何をすればいいの？[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:189
+msgctxt "BTL_SRF.MDT#189"
+msgid ""
+"あたし、何やってるの？\n"
+"こんなとこで。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:190
+msgctxt "BTL_SRF.MDT#190"
+msgid "ヌヒャラポーン！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:191
+msgctxt "BTL_SRF.MDT#191"
+msgid ""
+"はて、何をしようと、\n"
+"思とったんじゃろうか？[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:192
+msgctxt "BTL_SRF.MDT#192"
+msgid "・・！？・・あれっ！？[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:193
+msgctxt "BTL_SRF.MDT#193"
+msgid "わけわからんて。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:194
+msgctxt "BTL_SRF.MDT#194"
+msgid ""
+"ピチャ、ヌルッ？\n"
+"ズズー！ズズズズー！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#. Same Japanese also at: BTL_SRF.MDT#15, BTL_SRF.MDT#51, BTL_SRF.MDT#87, BTL_SRF.MDT#123,
+#. BTL_SRF.MDT#159, BTL_SRF.MDT#231.
+#: BTL_SRF.MDT:195
+msgctxt "BTL_SRF.MDT#195"
+msgid "・・・・・・・・。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:216
+msgctxt "BTL_SRF.MDT#216"
+msgid ""
+"オオ・・・、\n"
+"ココチヨイゾ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:217
+msgctxt "BTL_SRF.MDT#217"
+msgid ""
+"シアワセ、キブン、\n"
+"ユメ、キブン。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:218
+msgctxt "BTL_SRF.MDT#218"
+msgid "・・・至福の極みじゃ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:219
+msgctxt "BTL_SRF.MDT#219"
+msgid "私は今、気分がいい。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:220
+msgctxt "BTL_SRF.MDT#220"
+msgid ""
+"私、ハイなテンションで\n"
+"ございますことよ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:221
+msgctxt "BTL_SRF.MDT#221"
+msgid ""
+"むかつくほどに、\n"
+"幸せなんだよ、今の俺。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:222
+msgctxt "BTL_SRF.MDT#222"
+msgid "気持ちイーっ！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:223
+msgctxt "BTL_SRF.MDT#223"
+msgid ""
+"ウキウキ。\n"
+"おじさん、遊ぼうよ！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:224
+msgctxt "BTL_SRF.MDT#224"
+msgid ""
+"うふふ、見て見てぇ〜、\n"
+"チョウチョさん見っけ！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:225
+msgctxt "BTL_SRF.MDT#225"
+msgid ""
+"ウフフ・・・。\n"
+"いいわ、とてもいいわ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:226
+msgctxt "BTL_SRF.MDT#226"
+msgid ""
+"ウォー！ぶっちぎるぜ！\n"
+"ハイブリ、ジャンキー！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:227
+msgctxt "BTL_SRF.MDT#227"
+msgid ""
+"はァ〜、カッポ〜レ、\n"
+"カッポ〜レ！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:228
+msgctxt "BTL_SRF.MDT#228"
+msgid "ムフッ、ムフフフッ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:229
+msgctxt "BTL_SRF.MDT#229"
+msgid ""
+"めっちゃ、ええ感じや。\n"
+"いても〜たるわ〜。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:230
+msgctxt "BTL_SRF.MDT#230"
+msgid ""
+"ピチャチャチャ！\n"
+"ズズー！ズズズズー！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#. Same Japanese also at: BTL_SRF.MDT#15, BTL_SRF.MDT#51, BTL_SRF.MDT#87, BTL_SRF.MDT#123,
+#. BTL_SRF.MDT#159, BTL_SRF.MDT#195.
+#: BTL_SRF.MDT:231
+msgctxt "BTL_SRF.MDT#231"
+msgid "・・・・・・・・。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:252
+msgctxt "BTL_SRF.MDT#252"
+msgid "ホウ、ニゲルノカ・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:253
+msgctxt "BTL_SRF.MDT#253"
+msgid "ニゲル、ナドトハ・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:254
+msgctxt "BTL_SRF.MDT#254"
+msgid "逃げるも、また策・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:255
+msgctxt "BTL_SRF.MDT#255"
+msgid "・・・もう二度と・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:256
+msgctxt "BTL_SRF.MDT#256"
+msgid "お逃げになるの？・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:257
+msgctxt "BTL_SRF.MDT#257"
+msgid "逃げるが勝ちかい・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:258
+msgctxt "BTL_SRF.MDT#258"
+msgid "ちょっとまってよ・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:259
+msgctxt "BTL_SRF.MDT#259"
+msgid "逃さないもんね！・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:260
+msgctxt "BTL_SRF.MDT#260"
+msgid "あー！負けイヌー・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:261
+msgctxt "BTL_SRF.MDT#261"
+msgid "あら、どちらへ？・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:262
+msgctxt "BTL_SRF.MDT#262"
+msgid "ランナウェ〜イ！・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:263
+msgctxt "BTL_SRF.MDT#263"
+msgid "・・・・待たんか・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:264
+msgctxt "BTL_SRF.MDT#264"
+msgid "・・・・・ふぅん・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:265
+msgctxt "BTL_SRF.MDT#265"
+msgid "どこいくんやぁ！・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:266
+msgctxt "BTL_SRF.MDT#266"
+msgid "ピチャ、ピチャッ・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Same Japanese also at: BTL_SRF.MDT#303, BTL_SRF.MDT#339.
+#: BTL_SRF.MDT:267
+msgctxt "BTL_SRF.MDT#267"
+msgid "造魔"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:268
+msgctxt "BTL_SRF.MDT#268"
+msgid "・・・・・・・・・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:269
+msgctxt "BTL_SRF.MDT#269"
+msgid "待アァテェイィィ・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:270
+msgctxt "BTL_SRF.MDT#270"
+msgid "逃げるでない・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:271
+msgctxt "BTL_SRF.MDT#271"
+msgid "ニガサンゾオー・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#. Same Japanese also at: BTL_SRF.MDT#287.
+#: BTL_SRF.MDT:272
+msgctxt "BTL_SRF.MDT#272"
+msgid "逃げるのか・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:273
+msgctxt "BTL_SRF.MDT#273"
+msgid "逃げるのかい・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:274
+msgctxt "BTL_SRF.MDT#274"
+msgid "逃亡するのか・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:275
+msgctxt "BTL_SRF.MDT#275"
+msgid "逃げるな・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:276
+msgctxt "BTL_SRF.MDT#276"
+msgid "マテ、逃ゲルノカ・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#. Same Japanese also at: BTL_SRF.MDT#285, BTL_SRF.MDT#286.
+#: BTL_SRF.MDT:277
+msgctxt "BTL_SRF.MDT#277"
+msgid "逃げるのカ・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:278
+msgctxt "BTL_SRF.MDT#278"
+msgid "君は逃げるのか・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:279
+msgctxt "BTL_SRF.MDT#279"
+msgid "逃げちゃイヤーん・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:280
+msgctxt "BTL_SRF.MDT#280"
+msgid "逃げるなよぉ・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:281
+msgctxt "BTL_SRF.MDT#281"
+msgid "逃亡するか・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:282
+msgctxt "BTL_SRF.MDT#282"
+msgid "逃がすものか・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:283
+msgctxt "BTL_SRF.MDT#283"
+msgid "極道に背を向ける・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:284
+msgctxt "BTL_SRF.MDT#284"
+msgid "戦わぬというのか・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#. Same Japanese also at: BTL_SRF.MDT#277, BTL_SRF.MDT#286.
+#: BTL_SRF.MDT:285
+msgctxt "BTL_SRF.MDT#285"
+msgid "逃げるのカ・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#. Same Japanese also at: BTL_SRF.MDT#277, BTL_SRF.MDT#285.
+#: BTL_SRF.MDT:286
+msgctxt "BTL_SRF.MDT#286"
+msgid "逃げるのカ・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#. Same Japanese also at: BTL_SRF.MDT#272.
+#: BTL_SRF.MDT:287
+msgctxt "BTL_SRF.MDT#287"
+msgid "逃げるのか・[$10]・[$10]・[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:288
+msgctxt "BTL_SRF.MDT#288"
+msgid "ソレモヨカロウ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:289
+msgctxt "BTL_SRF.MDT#289"
+msgid "オモワナカッタ！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:290
+msgctxt "BTL_SRF.MDT#290"
+msgid "我、再会を望むなり。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:291
+msgctxt "BTL_SRF.MDT#291"
+msgid "私の前に現れるな！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:292
+msgctxt "BTL_SRF.MDT#292"
+msgid "なら、逃げるがいいわ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:293
+msgctxt "BTL_SRF.MDT#293"
+msgid "今回は見逃してやるぜ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:294
+msgctxt "BTL_SRF.MDT#294"
+msgid "なら、また今度ね・・。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:295
+msgctxt "BTL_SRF.MDT#295"
+msgid "ウシャー！覚えとき！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:296
+msgctxt "BTL_SRF.MDT#296"
+msgid "行っちゃえ！しっしっ！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:297
+msgctxt "BTL_SRF.MDT#297"
+msgid "さみしくなるわね・・。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:298
+msgctxt "BTL_SRF.MDT#298"
+msgid "キャーーー！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:299
+msgctxt "BTL_SRF.MDT#299"
+msgid "待てといっとろーが！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:300
+msgctxt "BTL_SRF.MDT#300"
+msgid "やはり、下らん奴だ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:301
+msgctxt "BTL_SRF.MDT#301"
+msgid "この辺にしといたろか。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:302
+msgctxt "BTL_SRF.MDT#302"
+msgid "ズズー。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Same Japanese also at: BTL_SRF.MDT#267, BTL_SRF.MDT#339.
+#: BTL_SRF.MDT:303
+msgctxt "BTL_SRF.MDT#303"
+msgid "造魔"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:324
+msgctxt "BTL_SRF.MDT#324"
+msgid "ノガサヌ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:325
+msgctxt "BTL_SRF.MDT#325"
+msgid "オモウナ！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:326
+msgctxt "BTL_SRF.MDT#326"
+msgid "逃さぬも、また策なり。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:327
+msgctxt "BTL_SRF.MDT#327"
+msgid "生きては帰しません。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:328
+msgctxt "BTL_SRF.MDT#328"
+msgid "いいから死になさい。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:329
+msgctxt "BTL_SRF.MDT#329"
+msgid "甘いねぇ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:330
+msgctxt "BTL_SRF.MDT#330"
+msgid "勝手すぎない？[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:331
+msgctxt "BTL_SRF.MDT#331"
+msgid "どんくさぁ〜。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:332
+msgctxt "BTL_SRF.MDT#332"
+msgid "このイヌっころめ〜！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:333
+msgctxt "BTL_SRF.MDT#333"
+msgid "私、まだ足りないわ！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:334
+msgctxt "BTL_SRF.MDT#334"
+msgid "まだだ！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:335
+msgctxt "BTL_SRF.MDT#335"
+msgid "よしよし、いい子じゃ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:336
+msgctxt "BTL_SRF.MDT#336"
+msgid "それで？[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:337
+msgctxt "BTL_SRF.MDT#337"
+msgid "にがさへんで〜！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:338
+msgctxt "BTL_SRF.MDT#338"
+msgid "ヌ・ヌ・ヌル？[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Same Japanese also at: BTL_SRF.MDT#267, BTL_SRF.MDT#303.
+#: BTL_SRF.MDT:339
+msgctxt "BTL_SRF.MDT#339"
+msgid "造魔"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:340
+msgctxt "BTL_SRF.MDT#340"
+msgid "！！！！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:341
+msgctxt "BTL_SRF.MDT#341"
+msgid "ウワーッハーッハーッ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:342
+msgctxt "BTL_SRF.MDT#342"
+msgid "その力、示してみよ！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:343
+msgctxt "BTL_SRF.MDT#343"
+msgid "ニゲラレンゾー！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:344
+msgctxt "BTL_SRF.MDT#344"
+msgid "無駄だ、無駄だ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:345
+msgctxt "BTL_SRF.MDT#345"
+msgid "無駄なことは、おやめ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:346
+msgctxt "BTL_SRF.MDT#346"
+msgid "敵前逃亡は銃殺だ！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:347
+msgctxt "BTL_SRF.MDT#347"
+msgid "殺すぞ！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:348
+msgctxt "BTL_SRF.MDT#348"
+msgid "オマエヲ殺ス。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:349
+msgctxt "BTL_SRF.MDT#349"
+msgid "今度は容赦しませんヨ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:350
+msgctxt "BTL_SRF.MDT#350"
+msgid "私のエナジーとなれ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:351
+msgctxt "BTL_SRF.MDT#351"
+msgid "わたしの歌を聞いてね。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:352
+msgctxt "BTL_SRF.MDT#352"
+msgid "このサウンドを聞けぇ！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:353
+msgctxt "BTL_SRF.MDT#353"
+msgid "逃亡犯は死刑だ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:354
+msgctxt "BTL_SRF.MDT#354"
+msgid "桃園の誓いにかけても！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:355
+msgctxt "BTL_SRF.MDT#355"
+msgid "そうはいかん。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:356
+msgctxt "BTL_SRF.MDT#356"
+msgid "逃げられぬぞ。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:357
+msgctxt "BTL_SRF.MDT#357"
+msgid "やはり中身はニセ者か。[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:358
+msgctxt "BTL_SRF.MDT#358"
+msgid "イナルナ姫が復活するゾ[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:359
+msgctxt "BTL_SRF.MDT#359"
+msgid "わらわに血を捧げよ！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:360
+msgctxt "BTL_SRF.MDT#360"
+msgid ""
+"わぁ、おとすおちる\n"
+"　こわれるうっ！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:361
+msgctxt "BTL_SRF.MDT#361"
+msgid ""
+"こんないいものを\n"
+"　なげるなぁっ！！[$10]"
+msgstr ""
+
+#. Context: Short lines demons say during battle.
+#. Limit: Battle window. Keep lines short; current English uses at most 24 letters per line in BTL_SRF
+#. and 40 in BUTU_SRF.
+#. Tags: [$10] = timed pause (in these battle files this code is a pause, not a name).
+#: BTL_SRF.MDT:362
+msgctxt "BTL_SRF.MDT#362"
+msgid ""
+"モノの値うちのわからん\n"
+"　クズどもめ覚悟しろ！[$10]"
+msgstr ""
