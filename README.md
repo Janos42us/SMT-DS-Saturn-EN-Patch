@@ -15,6 +15,12 @@
 [🐛 Report a Bug](https://github.com/Janos42us/SMT-DS-Saturn-EN-Patch/issues/new/choose) ·
 [💬 Suggest a Translation](https://github.com/Janos42us/SMT-DS-Saturn-EN-Patch/issues/new/choose)
 
+## 📺 Patch Announcement
+
+[![Devil Summoner English Translation Patch — Announcement](https://img.youtube.com/vi/5Vw8rZiOAEM/hqdefault.jpg)](https://youtu.be/5Vw8rZiOAEM)
+
+**▶️ [Watch the announcement on YouTube](https://youtu.be/5Vw8rZiOAEM)**
+
 </div>
 
 ---
