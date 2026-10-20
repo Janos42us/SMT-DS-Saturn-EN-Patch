@@ -23,6 +23,16 @@
 
 </div>
 
+> [!NOTE]
+> **AI use**
+>
+> I used AI to help translate the Japanese script into English and clean up the wording. I review the script, make the final calls on names and terms, and test builds on emulators and a real Saturn.
+>
+> The translation comes directly from the Japanese text on the Saturn disc. Earlier fan translations were used for comparison, with differences checked against the Japanese. Nothing was copied.
+>
+> The goal is simple: keep the meaning and personality of the original while making it sound natural in English. Official English names are used where available, and some names are shortened to fit the game's menus.
+>
+> That doesn't mean every line is perfect. If something reads wrong, open an issue with the line, a screenshot, and your patch version. Translation corrections are welcome.
 ---
 
 > [!IMPORTANT]
